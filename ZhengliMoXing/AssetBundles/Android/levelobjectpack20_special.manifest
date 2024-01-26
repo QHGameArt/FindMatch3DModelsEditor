@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 2779590812
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 52cc33031a2bb6ed347f8d68c71c3602
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack20_Special/Texture/tx_shrinker.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack20_Special/Prefab/obj_timerElement.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack20_Special/Texture/tx_timerElement.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack20_Special/Fbx/model_lightning.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack20_Special/Prefab/obj_lightning.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack20_Special/Fbx/Materials/lightning.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack20_Special/Prefab/obj_shrinker.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack20_Special/Texture/tx_lightning(Old).png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack20_Special/Fbx/Materials/timerElement.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack20_Special/Prefab/SuperMagnet.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack20_Special/Fbx/model_shrinker.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack20_Special/Fbx/Materials/shrinker.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack20_Special/Texture/tx_lightning.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack20_Special/Fbx/Materials/match_3d_color_palette_unity_2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack20_Special/Fbx/model_timerElement.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack20_Special/Fbx/model_lightning(Old).fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack20_Special/Fbx/Materials/shrinker0_1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack20_Special/Fbx/Materials/lightning(Old).mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack20_Special/Fbx/model_Magnet_L.fbx
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat

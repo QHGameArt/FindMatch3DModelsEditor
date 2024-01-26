@@ -1,0 +1,120 @@
+ManifestFileVersion: 0
+CRC: 4227206583
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7202f1b9c02710c028f56d081240bb16
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 02a22643626b7d208b74980727575827
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03c501ce656345b1b9af723ee7b6ade6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac355e0707784fb9a008e726969b3699, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e04038ac2ea481db7236d630e2a02bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4ffff31d6f8a42869f24bc627b4009dd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89db371097ec4d8e9f99ae7a0f027172, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a35cb81537684c1588b69344bcea82ee, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Slider/SliderEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/CoinCollenge/box2MainPage.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/img_pop_bg1_tupian2.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/CoinCollenge/box3MainPage.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/JewelCollenge/img_giftbox2.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/CoinCollenge/box2PopPage.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Prefabs/UipopGemChallengeCollector.prefab
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/img_pop_frame1.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/img_pop_btn2.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/home_ic_coins1.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/CoinCollenge/box2AnimPageOpen.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/home_icon_circle_zuanshi.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/img_btn_bg.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/CoinCollenge/box1AnimPageOpen.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/Img_btn_fang.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Prefabs/ActivityBtnCoinChellenge.prefab
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/img_pop_frame2.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/img_pop_progressbox2.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/JewelCollenge/img_giftbox3.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/home_ic_coins2.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/CoinCollenge/box1AnimPage.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/img_pop_btn1.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/CoinCollenge/box1PopPage.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/CoinCollenge/box3AnimPage.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/img_pop_progressbox1.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Prefabs/UipopCoinChallengeCollector.prefab
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/CoinCollenge/box3AnimPageOpen.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/img_ic_clock_bg1.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/JewelCollenge/img_giftbox1.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/CoinCollenge/box3PopPage.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Prefabs/ActivityBtnJewelChellenge.prefab
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/CoinCollenge/box1MainPage.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/img_home_time_frame_ok.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/img_pop_progressbar2.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/CoinCollenge/box2AnimPage.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/img_pop_bg1_tupian1.png
+- Assets/GameAssets/Local/Ui/CoinAndJewel/Sprites/img_pop_progressbar1.png
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/gameicon
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/root
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/uipop
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/weeklycollenge

@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3629517509
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c29ad38769d64395444270510ffe74b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack17_NewSpecial/icon_obj_smallChestKey.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack17_NewSpecial/icon_obj_watergun4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack17_NewSpecial/icon_obj_laserBeam.png
+Dependencies: []

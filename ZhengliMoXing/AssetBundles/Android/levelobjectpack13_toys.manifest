@@ -1,0 +1,168 @@
+ManifestFileVersion: 0
+CRC: 377234212
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f779e6783c9ab8ab6f3ccf4d897c8b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_horse1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_robot1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/woodenTrainFront.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/bunny.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_rockingHorse.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_watergun2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_pogostick.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_piano1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_watergun4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_bee1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_boomerang.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_woodenTrainWagon1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_rubberDuck.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_Toys_TextureAtlas.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_watergun4.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_doll1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_doll3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_rubberDuck.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/woodenTrainWagon3.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_ball2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_doll2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_ball2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/woodenTrainWagon2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/toyTrumpet.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_woodenTrainWagon1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_rollerSkate.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/pogostick.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/bee1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/horse1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/robot1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/watergun3.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_bee1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_woodenTrainFront.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_plane.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_laserBeam.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_woodenTrainWagon2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_woodenTrainWagon3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_laserBeam.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_ball1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/doll1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_boat.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/fish1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_dinosaur.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_fish1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_piano1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_horse1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_robot1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_woodenTrainWagon2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/doll3.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_watergun3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_sword.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_rollerSkate.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_bunny.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_toyTrumpet.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_rockingHorse.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_skateboard.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/ball1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_woodenTrainFront.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/watergun2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_darts.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/laserBeam.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/boomerang.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_pogostick.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_rugbyBall.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_fish1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_ball1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_boat.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_bunny.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_doll3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/boat.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_fish1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_boomerang.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_horse1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_skateboard.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_woodenTrainWagon3.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/darts.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_toyTrumpet.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_woodenTrainWagon1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/bucket.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_woodenTrainFront.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_sheep1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_darts.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_dinosaur.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_robot1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_bee1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_rocket1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_doll3.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_teddyBear.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_watergun3.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/doll2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_boat.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_toyTrumpet.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/match_3d_color_palette_unity_2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_watergun1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/woodenTrainWagon1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_woodenTrainWagon2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_ball1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_darts.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_watergun3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_doll1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_doll2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_plane.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_sheep1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/rollerSkate.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_doll1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_doll2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/plane.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/ball2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/sheep1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_bucket.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_laserBeam.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/piano1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/Materials/Toys_TextureAtlas.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_bucket.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_rollerSkate.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_bucket.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_watergun2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Texture/tx_watergun2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_boomerang.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_rocket1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_plane.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_bunny.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_sword.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_teddyBear.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_woodenTrainWagon3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_watergun1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_pogostick.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Prefab/obj_rugbyBall.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack13_Toys/Fbx/model_piano1.fbx
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectpack16_variation2
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectpack2_baby

@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 172897579
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 060bb6effb564411b5647da2dad49c88
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 376813d8cd82fb206d9e7c4cd63b9ab8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9677bbe703c5a42e2b1c6aa60b0e22e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 37bdbee5b07c48aab717f9af28dfdec5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 107a17541a754455fa998dc2dc25845f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 926ffead6ce94c7e8e190702ebce4b31, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 794e9949bcea4de28e2c6e2a4d539055, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe57078f7f23445c92431df400acfa6c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa1592ebaf98d429cb1dc63a04f0108b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec5dab4c4fde046279d93ffa628483e5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/Img_turn.jpg
+- Assets/GameAssets/Local/Ui/OtherLayer/HintPanel.prefab
+- Assets/GameAssets/Local/Ui/OtherLayer/ItemFlyUi.prefab
+- Assets/GameAssets/Local/Ui/OtherLayer/WaitPanel.prefab
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/coinanim
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/root

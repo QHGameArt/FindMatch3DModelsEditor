@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 2975120680
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9d3ba65e1e55fb6a8baff09e9d1c5fd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardBlack10.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardBlack6.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardRed7.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardRed9.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardRed4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardRed10.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardBlack7.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardRed2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardRed6.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardBlack3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardBlack2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardBlack5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardBlack9.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardBlack8.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardBlack4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardRed1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardBlack1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardRed3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardRed8.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack20_Cards/icon_obj_cardRed5.png
+Dependencies: []

@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3533913845
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c927d90e416766d5194a6838d8af770f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg3/icon_obj_Tennisball1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg3/icon_obj_Colorball.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg3/icon_obj_Eggpack52.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg3/icon_obj_Eggpack49.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg3/icon_obj_Eggpack51.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg3/icon_obj_Eggpack47.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg3/icon_obj_Eggpack72.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg3/icon_obj_Eggpack48.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg3/icon_obj_ball3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg3/icon_obj_Eggpack57.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg3/icon_obj_Eggpack54.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg3/icon_obj_Basketball3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg3/icon_obj_Eggpack50.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg3/icon_obj_Eggpack55.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg3/icon_obj_Eggpack46.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg3/icon_obj_Eggpack53.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg3/icon_obj_Eggpack56.png
+Dependencies: []

@@ -1,0 +1,111 @@
+ManifestFileVersion: 0
+CRC: 2721379918
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: acacbdd8a2a44c02b021e221551de5df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/chocolateDrink1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/pencilColored3.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/pencilColored2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_pencilColored1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_pencilColored2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_pencilColored9.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/paintContainer3.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/pencilColored1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_pencilColored3.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_pencilColored4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/chocolateDrink.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_highlighterPen2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_pencilColored9.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/paintContainer2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/model_highlighterPen3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_highlighterPen1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/DefaultMaterial.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/pencilColored6.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/tapeDispenser2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_pencilColored5.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_paintContainer2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_pencilColored4.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/SchoolTextureAtlas.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/model_pencilColored10.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/Default-Material.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/pencilColored9.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_chocolateDrink.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_highlighterPen3.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/model_paintContainer4.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_paperPlane.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_pencilColored6.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_paintContainer1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_pencilColored8.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_tapeDispenser2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/model_tapeDispenser2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/paintContainer1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/pencilColored7.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_paintContainer3.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_SchoolTextureAtlas.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_pencilColored2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_pencilColored7.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_tapeDispenser1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/pencilColored4.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_pencilColored7.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_pencilColored1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/pencilColored8.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_headphones.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/tapeDispenser1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_highlighterPen1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_pencilColored10.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_paintContainer3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/pencilColored5.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/model_chocolateDrink.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/highlighterPen2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_highlighterPen2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/paintContainer4.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_pencilColored8.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/model_paperPlane.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_chocolateDrink.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_pencilColored5.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_pencilColored10.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_pencilColored6.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_tapeDispenser1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/pencilColored10.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_paintContainer1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Texture/tx_paintContainer4.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_paintContainer4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_paintContainer2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/highlighterPen3.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_pencilColored3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_tapeDispenser2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Prefab/obj_highlighterPen3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/model_headphones.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack11_SchoolSupplies/Fbx/Materials/highlighterPen1.mat
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat

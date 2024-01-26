@@ -1,0 +1,141 @@
+ManifestFileVersion: 0
+CRC: 1177482582
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea55c1e93d1b07febedf533e2fa16335
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 63b2e4155cc3b117b404318f8ba12bb6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Pie_Apple_Slice.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Tart_Raspberry.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Texi.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Napoleon_Vanilla.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/pig3_normal.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Cannolis_04.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Tart_Raspberry.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Fork_01.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Macaron_03.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Cannolis_02.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Macaron_03.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Pie_KeyLime_Slice.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Cannoli_02.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Vacuum_flask.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Strudel_01.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Pie_Apple_Whole.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Macaron_02.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Fries_W.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Fries_W.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/model_Texi.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Pie_Apple_Whole.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Macaron_06.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Palmiers_01.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Vacuum_flask.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Pie_KeyLime_Slice.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Macaron_02.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Pizza_Slice.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/pig_2_BaseColor_2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Cannolis_02.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Tart_Lemon.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Palmier_02.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Cupcake.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Strudel_01.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Dango_03.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Pie_Apple_Whole.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Taiyaki_01.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Pizza_Slice.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Pie_KeyLime_Slice.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Pizza_Slice.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Macaron_03.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Pie_KeyLime_Slice.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Fork_01.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Napoleon_Vanilla.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Pie_Apple_Slice.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Pie_Apple_Slice.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_PIG_BaseColor.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Macaron_06.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Fries_W.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/pig_1_BaseColor.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Macaron_06.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Cupcake.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Napoleon_Raspberry.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Napoleon_Raspberry.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Napoleon_Raspberry.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Taiyaki_01.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Tart_Raspberry.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Tart_Lemon.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Macaron_03.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Cannolis_04.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Vacuum_flask.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/pig3_color.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/model_Vacuum_flask.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Macaron_02.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Napoleon_Vanilla.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Taiyaki_01.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Cannolis_04.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Fork_01.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Pie_Apple_Whole.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Texi.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Strudel_01.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Spoon_01.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Macaron_06.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Cannolis_02.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Spoon_01.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Texi.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Tart_Raspberry.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Macaron_02.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Fork_01.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Palmier_02.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Dango_03.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/pig_1_BaseColor.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/pig3_color.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_PIG_BaseColor_2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/model_Cupcake.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Pie_Apple_Slice.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Dango_03.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Cannoli_04.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Fries_W.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Pizza_Slice.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_PIG_color.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Dango_02.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Dango_02.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Spoon_01.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/pig_2_BaseColor_2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Spoon_01.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Cupcake.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Dango_02.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Dango_02.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Dango_03.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Strudel_01.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Taiyaki_01.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Materials/Tart_Lemon.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Prefab/obj_Napoleon_Vanilla.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/model_PIG.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Fbx/Tart_Lemon.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Napoleon_Raspberry.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase7/Texture/Palmier_02.png
+Dependencies: []

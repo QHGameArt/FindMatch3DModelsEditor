@@ -1,0 +1,125 @@
+ManifestFileVersion: 0
+CRC: 4213355415
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d2feab337fd2ff603bfe03d3a66ce5d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dc16640dea1710d1491e804fe5155a40
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 689ff7b540ef4a18b7cb600c9873b6c7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 13ae896d0b254ee88b994117312faa05, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e190d043ef387ee4fad4acea6146931e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3529e14e1800647dc926255f4276c7fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07f83f978bc24b2fa5506e3361abd64b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 107a17541a754455fa998dc2dc25845f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fafe2cfe61f6974895a912c3755e8f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aebcd299fed14b858354b44275fa5a59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09f87ca1a51e492c8ac9c564141e9fd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c3172fc013c4285ba2c07afe7b855f2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: SuperScrollView.ItemPrefabConfData
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+Assets:
+- Assets/GameAssets/Local/Ui/UI_RankingList/Prefab/PlayerItem.prefab
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/image_leaderboard_topbg.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/image_leaderboard_titlebg.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/img_icon_rank_bg1.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/image_leaderboard_worldcnbg.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/image_leaderboard_worldcnbtn.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/img_icon_rank_tip_bg_down.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/img_icon_rank_night_bg.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/image_leaderboard_middleselectbtn.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/img_bg_network_disconnect.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Prefab/LeaderboardPanel.prefab
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/image_leaderboard_worldcnselectbtn.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/img_icon_member_rank3.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/image_leaderboard_leftfilletselectbtn.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/image_leaderboard_icon.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/img_icon_no_network.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/image_leaderboard_itembg.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/image_leaderboard_menubg.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/image_leaderboard_rightfilletselectbtn.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/image_leaderboard_itemselfbg.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/image_leaderboard_playericon.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/img_icon_cup.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/img_icon_rank_bg.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/img_icon_rank_tip_bg_little.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/img_icon_rank_tip_bg.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Prefab/LeaderTeamSlot.prefab
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/image_leaderboard_leftfilletbtn.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/image_leaderboard_middlebtn.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/img_icon_rank_light_bg.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/img_icon_member_rank1.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/image_leaderboard_rightfilletbtn.png
+- Assets/GameAssets/Local/Ui/UI_RankingList/Sprite/img_icon_member_rank2.png
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_team

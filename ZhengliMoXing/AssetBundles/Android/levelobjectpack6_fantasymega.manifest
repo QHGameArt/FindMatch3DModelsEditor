@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+CRC: 2160489663
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d454f293e6880c408270b4b1b2a00043
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/Materials/fuelCan.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Texture/tx_tube.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Texture/tx_scroll2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/model_scroll2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/Materials/hammer.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/model_tube.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Prefab/obj_fuelCan.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/model_pirateHook.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/Materials/scroll2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/Materials/mysteryBox.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/Materials/scroll.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/model_wheel2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Prefab/obj_axe.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/Materials/match_3d_color_palette_unity_2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Prefab/obj_hammer.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Prefab/obj_nitro.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/Materials/Axe.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/Materials/nitro.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/Materials/Wheel.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/model_fuelCan.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Prefab/obj_mysteryBox.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Prefab/obj_scroll2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/model_mysteryBox.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Texture/tx_mysteryBox.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Prefab/obj_wheel2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Texture/tx_fuelCan.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Texture/tx_Wheel.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/model_hammer.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Prefab/obj_pirateHook.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/Materials/tube.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Prefab/obj_tube.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Texture/tx_hammer.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Texture/tx_Axe.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/model_nitro.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/Materials/pirateHook.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Texture/tx_nitro.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Texture/tx_pirateHook.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack6_FantasyMega/Fbx/model_axe.fbx
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectpack5_toonitems2

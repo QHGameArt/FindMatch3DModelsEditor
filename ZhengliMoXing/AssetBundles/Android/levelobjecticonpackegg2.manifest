@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3364690699
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7eb48ef984a139ae017a3e60a651caff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack64.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack73.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack74.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack77.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack84.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack80.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack63.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack87.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack82.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack59.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack86.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack76.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack60.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack78.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack61.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack58.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack83.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack85.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack62.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack81.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack65.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack79.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg2/icon_obj_Eggpack75.png
+Dependencies: []

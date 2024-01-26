@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 2496019890
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 71e55d942797ba581cb608fa2c36b0fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Cookie_01.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Cheesecake_Matcha.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Hashbrown_02.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Sauce_HMustard.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Corndog_Ketchup.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Cupcake_03.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Sauce_Spicy.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Donut_06.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Donut_12.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Donut_01.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Cake_Bday_Whole.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Chip_Bag_03.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Chip_Bag_04.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Croissant_02.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Chip_Bag_01.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Burger_Cheese.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Cookie_Heart_01.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Cupcake_11.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Donut_Filled_04.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Cupcake_06.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Cake_Matcha_Slice.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Cake_Carrot_Slice.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Hashbrown_01.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Cake_Matcha_Whole.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Corndog_Mustard.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Eclair_03.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Cheesecake_Lemon.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Cake_Bday_Slice.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Chip_Bag_02.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Sauce_Diablo.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase6/icon_obj_Sauce_Ranch.png
+Dependencies: []

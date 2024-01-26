@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1845221076
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe8349f5f66c5337ea1b78bd132eda62
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_fishToy.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_treat.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_foodBox4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_spikyToy3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_birdToy2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_foodBox1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_spikyToy2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_mouseToy.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_spikyToy5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_spikyToy.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_fishBoneToy.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_donutToy.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_foodBox7.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_spikyToy9.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_spikyToy4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_foodBox2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_whistle.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_foodBox.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_spikyToy8.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_foodBox8.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_birdToy1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_foodBox9.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_spikyToy1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_foodBox6.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_foodBox5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_lobsterToy.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_foodBox3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_spikyToy7.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_crocodileToy.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack10_PetSupplies/icon_obj_spikyToy6.png
+Dependencies: []

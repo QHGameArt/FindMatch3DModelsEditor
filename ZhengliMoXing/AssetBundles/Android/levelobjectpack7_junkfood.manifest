@@ -1,0 +1,251 @@
+ManifestFileVersion: 0
+CRC: 3640453260
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d73ab9b6aa01ba31e36cf79ae7760e40
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_cakeSlice1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_smoothie.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_cider.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_cakeSlice2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_moscowBun.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/sweetBun.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_lollipop2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/ketchupSauce.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_milkyBar.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_iceCreamCone2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_fruitJuice2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/milkyBar.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_ketchupSauce.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_fastFoodBoxLarge.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_iceCreamCone1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_moscowBun.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_coffeeMug.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/cornDog.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/applePieSlice1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_fruitJuice1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_coffeeMug.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_fastFoodBoxLarge.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_lollipop2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_fruitJuice1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_sodaBottle2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/pancakes.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_energyDrink3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_energyDrink1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_lollipop1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_fruitJuice1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/chickenNugget.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_chickenNugget.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_cider.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_biscuit.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/cider.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/smoothie.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/fruitJuice1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_biscuit.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/shake2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/jam.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_hamburgerNormal.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_bolognese.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/cakeSlice2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_cornDog.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_moscowBun.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_sweetBun.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_iceCreamCone1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_shake2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_energyDrink2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_donut1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_popsicle1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/moscowBun.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_sandwichTriangle.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_chocolateBar.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_drink.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_grilledCheeseTriangle.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_peanutButter.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/lollipop1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_donut3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_taco.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/biscuit.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_cinnamonRoll.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_donut2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_sausage.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_shake1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_grilledCheese.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_largeSoda.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_wafer.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/mustardSauce.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_grilledCheese.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_nacho.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_sodaBottle3.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_energyDrink2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_sodaBottle3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/match_3d_color_palette_unity_2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_popsicle1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_lollipop1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_nacho.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_smoothie.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_drink.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_sodaBottle3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_jam.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/shake3.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_sausage.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_chip.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/peanutButter.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_iceCreamCone2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_milkyBar.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/sodaBottle3.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_popsicle2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_applePieSlice.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_candy10.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_largeSoda.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_energyDrink3.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_candy11.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_taco.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_sodaBottle1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/drink.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_shake1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_drumstick.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/fry.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_milkyBar.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_honey.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_peanutButter.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/onionRing.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_chocolateBar.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_fry.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/energyDrink1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_cinnamonRoll.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/sausage.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_cider.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_popsicle2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/drumstick.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/energyDrink3.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/energyDrink2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_biscuit.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_ketchupSauce.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_coffeeMug.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_mustardSauce.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/hamburger_2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_onionRing.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_fastFoodBoxLarge.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_ketchupSauce.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_donut2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_applePieSlice.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_largeSoda.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_fry.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_sausage.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_iceCream11.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/fruitJuice2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_cakeSlice2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/sodaBottle1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_chickenNugget.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_friesBox.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/largeSoda.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_honey.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/sandwichTriangle.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_fruitJuice2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_shake3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_iceCreamCone1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_cakeSlice1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/shake1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_wafer.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/sodaBottle2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/lollipop2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/applePieSlice.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_sweetBun.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_chickenNugget.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/JunkFood_Atlas_01.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_iceCreamCone2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/honey.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_sandwichTriangle.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_drumstick.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_grilledCheeseTriangle.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_cakeSlice2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_hamburgerNormal.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_shake1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_fry.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_mustardSauce.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_sodaBottle2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_drink.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_energyDrink3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_cornDog.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/friesBox.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_sodaBottle1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_nacho.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_bolognese.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_drumstick.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_grilledCheese.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/cakeSlice1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/cinnamonRoll.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/coffeeMug.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_cornDog.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_donut1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_friesBox.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/grilledCheeseTriangle.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_energyDrink1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/hamburgerNormal.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_lollipop1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_candy10.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_sandwichTriangle.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/iceCreamCone1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_honey.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_onionRing.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_JunkFood_Atlas_01.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_friesBox.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_jam.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_fruitJuice2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/iceCreamCone2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/fastFoodBoxLarge.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_iceCream11.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_smoothie.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_cakeSlice1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_peanutButter.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_shake2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_jam.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_mustardSauce.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/popsicle2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/nacho.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_cinnamonRoll.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_popsicle2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_donut3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/grilledCheese.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_sweetBun.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_candy11.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_onionRing.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_shake2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_shake3.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_shake3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Prefab/obj_chip.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/model_grilledCheeseTriangle.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Texture/tx_applePieSlice.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack7_JunkFood/Fbx/Materials/popsicle1.mat
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectpack3_toonfood

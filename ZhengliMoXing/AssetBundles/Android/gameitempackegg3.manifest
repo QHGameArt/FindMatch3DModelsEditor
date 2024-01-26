@@ -1,0 +1,91 @@
+ManifestFileVersion: 0
+CRC: 2357233416
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e8926cc01bbbab9aa84a3301c5e6f21
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Prefab/obj_EggPack56.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Prefab/obj_Basketball3.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Prefab/obj_EggPack48.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Texture/tx_Tennisball1.png
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Texture/tx_Lark20210305-000135.png
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/model_Eggpack47.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/model_Eggpack56.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/Materials/Lark20210305-000135.mat
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/model_Eggpack53.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Prefab/obj_EggPack49.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/model_Basketball3.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Prefab/obj_EggPack57.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/model_Eggpack52.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/model_Eggpack58.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Prefab/obj_EggPack52.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Texture/tx_ball3.png
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/Materials/Colections
+  Easter Eggs 1.mat
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/model_Eggpack54.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/Materials/ball3.mat
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/model_Eggpack73.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Texture/tx_EasterEggs1.png
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Prefab/obj_Colorball.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/model_Eggpack57.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Prefab/obj_EggPack72.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Prefab/obj_EggPack53.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Prefab/obj_EggPack54.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/model_Eggpack49.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Texture/Materials/tex_Basketball.mat
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Texture/tx_EasterEggs2.png
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/model_Eggpack55.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Prefab/obj_EggPack46.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/model_Tennisball1.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Prefab/obj_ball3.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/Materials/Colections
+  Easter Eggs 2.mat
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/model_Eggpack48.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/model_Eggpack50.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/model_Colorball.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Prefab/obj_EggPack50.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/Materials/Tennisball1.mat
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Prefab/obj_EggPack51.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Prefab/obj_EggPack47.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Prefab/obj_EggPack55.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Prefab/obj_Tennisball1.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/model_ball3.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Texture/tx_EasterEggs3.png
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Texture/tx_Basketball.png
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/Materials/Colections
+  Easter Eggs 3.mat
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/Materials/Colorball.mat
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/Materials/Basketball.mat
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Fbx/model_Eggpack46.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg3/Texture/tx_Colorball.png
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat

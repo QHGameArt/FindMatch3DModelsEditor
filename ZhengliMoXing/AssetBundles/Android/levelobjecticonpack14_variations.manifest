@@ -1,0 +1,127 @@
+ManifestFileVersion: 0
+CRC: 1849383462
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f97d1d2e330163b9deaff7359f77e56b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_can5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_icecream9.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_backpack8.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_bubble4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_heart1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_icecream2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_icecream1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_chair6.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_cup4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_giftbox1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_chair7.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_cup3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_candy4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_basket7.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_wingedAnt1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_giftbox4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_backpack6.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_airplane3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_basket4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_candy9.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_car2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_airplane1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_chair5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_airplane4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_pillow1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_butterfly4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_book5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_candy8.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_candy1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_candy6.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_car1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_car4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_icecream8.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_icecream4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_can3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_heart3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_pillow4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_pillow3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_backpack3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_pillow2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_heart4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_icecream7.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_book1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_cup2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_airplane7.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_chair3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_book7.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_chair9.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_heart2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_driver4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_pillow.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_airplane2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_bubble.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_driver2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_heart5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_basket3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_can2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_icecream6.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_candy2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_cup1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_backpack1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_giftbox3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_butterfly1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_wingedAnt2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_book6.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_driver3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_airplane5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_apple3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_basket1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_car5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_icecream10.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_wingedAnt3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_chair2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_book3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_basket2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_bubble5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_can1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_pillow5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_basket8.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_icecream3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_butterfly3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_backpack7.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_apple4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_basket6.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_chair1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_chair8.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_bubble2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_backpack9.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_giftbox2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_apple1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_bubble3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_car3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_backpack2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_basket5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_wingedAnt.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_backpack4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_apple2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_butterfly2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_airplane6.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_candy3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_candy5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_driver1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_chair4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_book4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_bubble1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_backpack5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_candy7.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_can4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack14_Variations/icon_obj_icecream5.png
+Dependencies: []

@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 1311208697
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3ea962983ed4f343c4b3de4d9c9e0af9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_progressbar_adequate.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_prop_frame.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_prop_frame_sound.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/EndlessPropBg.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_greenpotion_m.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_prop_frame_music2.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_alarmclock2.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_heart_l.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_prop_frame_music.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_prop_frame3.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_progressbox.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_time_s.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_cap_xl.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_btn1.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/Cloct.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_lock.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_star_l.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/Heart2.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_btn3.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_blue_btn.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_prop_frame2.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_prop_frame_shake2.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_red_btn.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_alarmclock .png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_brokenheart.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/home_ic_coins.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_prop_frame_shake.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_prop_frame_sound2.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_starbox_l.png
+- Assets/GameAssets/Local/Ui/Uipop/Sprites/img_pop_progressbox2.png
+Dependencies: []

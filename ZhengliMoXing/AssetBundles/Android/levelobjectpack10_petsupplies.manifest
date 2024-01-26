@@ -1,0 +1,146 @@
+ManifestFileVersion: 0
+CRC: 906992362
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1793288ad577cb3a442ecad8b3009e45
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_mouseToy.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/foodBox6.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_donutToy.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_spikyToy3.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_treat.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_birdToy1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_foodBox8.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/foodBox.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_birdToy1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/crocodileToy.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/spikyToy5.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/lobsterToy.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_donutToy.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_spikyToy1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_fishToy.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_spikyToy1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_mouseToy.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_foodBox3.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_fishToy.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/fishToy.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_donutToy.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_foodBox9.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_lobsterToy.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_foodBox8.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/foodBox4.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_spikyToy6.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/spikyToy3.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_spikyToy2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_PetSupplies_TextureAtlas.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_spikyToy7.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/mouseToy.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/birdToy1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/donutToy.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/spikyToy1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/foodBox9.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_spikyToy.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_fishBoneToy.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/foodBox8.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/spikyToy7.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_spikyToy5.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_crocodileToy.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_fishBoneToy.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_fishBoneToy.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_spikyToy9.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_crocodileToy.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_spikyToy9.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_foodBox9.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/spikyToy2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/PetSupplies_TextureAtlas.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_foodBox4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_foodBox5.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/foodBox3.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_mouseToy.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/foodBox5.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_foodBox1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/match_3d_color_palette_unity_2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_spikyToy2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/foodBox2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/foodBox7.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/spikyToy6.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/spikyToy8.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_spikyToy3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_foodBox2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_birdToy2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_spikyToy6.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/spikyToy9.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_spikyToy7.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/spikyToy4.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_foodBox9.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_fishToy.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_spikyToy5.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_spikyToy2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_spikyToy1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_spikyToy4.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_spikyToy9.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_foodBox6.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_spikyToy8.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_foodBox.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_foodBox2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_spikyToy7.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_spikyToy5.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_crocodileToy.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_birdToy2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_whistle.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_foodBox6.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_spikyToy8.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_foodBox7.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_lobsterToy.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_spikyToy4.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_whistle.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_foodBox5.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_birdToy1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/spikyToy.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_treat.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_spikyToy6.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_lobsterToy.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_foodBox3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/birdToy2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_foodBox4.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/model_spikyToy3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_spikyToy8.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_foodBox7.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_foodBox1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_spikyToy.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/foodBox1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_foodBox.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Texture/tx_spikyToy.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Prefab/obj_spikyToy4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack10_PetSupplies/Fbx/Materials/fishBoneToy.mat
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat

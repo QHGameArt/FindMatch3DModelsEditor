@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 906118763
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e996e12678f4f887a2dcfc833bb016f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/Sprite/HeartNotEnoughPop/Image_Gold.png
+- Assets/GameAssets/Local/Sprite/HeartNotEnoughPop/Image_BtnBlueBg.png
+- Assets/GameAssets/Local/Sprite/HeartNotEnoughPop/Image_BtnGreenBg.png
+- Assets/GameAssets/Local/Sprite/HeartNotEnoughPop/Image_BgTwo.png
+- Assets/GameAssets/Local/Sprite/HeartNotEnoughPop/Image_Close.png
+- Assets/GameAssets/Local/Sprite/HeartNotEnoughPop/Image_CountDownBg.png
+- Assets/GameAssets/Local/Sprite/HeartNotEnoughPop/Image_AlarmClock.png
+- Assets/GameAssets/Local/Sprite/HeartNotEnoughPop/Image_TitleBg.png
+- Assets/GameAssets/Local/Sprite/HeartNotEnoughPop/Image_Bg.png
+- Assets/GameAssets/Local/Sprite/HeartNotEnoughPop/Image_Heart.png
+- Assets/GameAssets/Local/Sprite/HeartNotEnoughPop/Image_TimeCountDownBg.png
+Dependencies: []

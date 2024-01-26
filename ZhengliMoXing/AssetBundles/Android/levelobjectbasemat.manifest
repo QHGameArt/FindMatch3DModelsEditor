@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2947158786
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c46592569306b87e9155848c6544712b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3e82b817dac6d0f0aa4db403c7a6f780
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectBaseMat/Texture/Bu_tx_Alpha.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectBaseMat/Texture/tx_03.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectBaseMat/Texture/tx_04.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectBaseMat/Texture/tx_02.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectBaseMat/match_3d_color_palette_unity_2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectBaseMat/ItemPhysicMat.physicMaterial
+- Assets/GameAssets/Local/LevelObjects/LevelObjectBaseMat/Texture/tx_01.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectBaseMat/base_mat_2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectBaseMat/Texture/tx_match_3d_color_palette_unity_2.png
+Dependencies: []

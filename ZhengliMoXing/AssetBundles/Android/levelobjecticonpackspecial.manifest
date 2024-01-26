@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2730008090
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1d98d1c02f48b33c470539787dc74d52
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackSpecial/icon_obj_enlarger.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackSpecial/icon_obj_timerElement.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackSpecial/icon_obj_garbageBin.png
+Dependencies: []

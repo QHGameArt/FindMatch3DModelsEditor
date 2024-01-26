@@ -1,0 +1,104 @@
+ManifestFileVersion: 0
+CRC: 3658217024
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65b63d0e7128af28ab1bc69255c4a32c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1bec0d2795cb808fa5e660c0d994698e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3529e14e1800647dc926255f4276c7fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 14a3d746b71645b39e27a15eddcc21e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61a4afe52ede4a1bb6913cc6aac17172, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9d4eb17ee00c4fc59c447297d6e5507b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Local/Ui/Ui_RemoveAd/Sprite/img_bg_popup_remove_ads_pack.png
+- Assets/GameAssets/Local/Ui/Ui_RemoveAd/Sprite/img_ic_coins .png
+- Assets/GameAssets/Local/Ui/Ui_RemoveAd/Prefabs/ActivityRemoveAdTwoButton.prefab
+- Assets/GameAssets/Local/Ui/Ui_RemoveAd/Sprite/img_ic_add.png
+- Assets/GameAssets/Local/Ui/Ui_RemoveAd/Sprite/img_ic_ribbon_purple.png
+- Assets/GameAssets/Local/Ui/Ui_RemoveAd/Sprite/img_frame_purple_l.png
+- Assets/GameAssets/Local/Ui/Ui_RemoveAd/Sprite/img_shop_ic_coins.png
+- Assets/GameAssets/Local/Ui/Ui_RemoveAd/Prefabs/ActivityRemoveAdButton.prefab
+- Assets/GameAssets/Local/Ui/Ui_RemoveAd/Sprite/img_bg_container_popup_remove_ads.png
+- Assets/GameAssets/Local/Ui/Ui_RemoveAd/Sprite/img_bg_ribbon_yellow_pop_remove_ads.png
+- Assets/GameAssets/Local/Ui/Ui_RemoveAd/Sprite/img_frame_purple_s.png
+- Assets/GameAssets/Local/Ui/Ui_RemoveAd/Sprite/img_ic_ads_s.png
+- Assets/GameAssets/Local/Ui/Ui_RemoveAd/Prefabs/RemoveAdPopPanel.prefab
+- Assets/GameAssets/Local/Ui/Ui_RemoveAd/Sprite/img_poster_remove_ads_pack.png
+- Assets/GameAssets/Local/Ui/Ui_RemoveAd/Sprite/img_ic_ads_bundle.png
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/gameitemicon
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_activity_flowers
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_everydayreward
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_main
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_shop

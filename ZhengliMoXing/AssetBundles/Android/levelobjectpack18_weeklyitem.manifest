@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 100716860
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1f68bdde9f3ffbe246114f9554ebea3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Texture/tx_JigsawPuzzle.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/Materials/pinata.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Texture/tx_Yellowduck.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/Materials/lambert1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Prefab/obj_WeeklySnowman.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Prefab/obj_WeeklyHalloween.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Prefab/obj_WeeklyRose.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Texture/tx_pinata.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/Materials/Avokado.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/Materials/match_3d_color_palette_unity_2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/model_ChistmasTree.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/model_halloween_pumpkin.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/Materials/JigsawPuzzle.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/model_camera.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Prefab/obj_weeklyJigsaw.prefab
+- "Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/Materials/\u5357\u74DC.mat"
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Prefab/obj_WeeklyEgg2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/model_Eggnew_58.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Texture/tx_Rose1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Prefab/obj_WeeklyChristmasTree.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Prefab/obj_WeeklyTurkey.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/Materials/Rose1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/model_Yellowduck.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Texture/tx_Avokado.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Texture/tx_halloween_pumpkin.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/model_Avokado.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/model_Snowman.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Prefab/obj_WeeklyAvocado.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Texture/tx_Eggnew_58.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/Materials/halloween_pumpkin.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/model_Rose1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Prefab/obj_WeeklySantaHat.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/model_JigsawPuzzle.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/model_RoastedChicken.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/model_SantaHat.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/model_pinata.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/Materials/Yellowduck.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Prefab/obj_WeeklyYellowduck.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Texture/tx_camera.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Fbx/Materials/Eggnew_58.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Prefab/obj_WeeklyCamera.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack18_WeeklyItem/Prefab/obj_WeeklyPinata.prefab
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/gameitempackegg4
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat

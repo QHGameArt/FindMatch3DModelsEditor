@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1321000830
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 346511b2794500f5f8f164e46d477d91
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_firstAidKit2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_barrelMetal1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_pan.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_binoculars2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_log1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_barrelMetal2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_flashlight1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_compass.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_soupLadle.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_steakKnife.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_firstAidKit1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_walkieTalkie1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_fish4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_binoculars3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_hammer2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_meat2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_telescope2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_walkieTalkie2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_hammer1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_axe1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_fish2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_survivalBag2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_shovel.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_fish3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_medicalPil1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_meat1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_pickaxe.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_chopperButcherKnife.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_matchbox.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_hammer3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_binoculars1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_binoculars4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_log2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_tape2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_medicalPil2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_fireAxe.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_anvil1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_telescope1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_survivalBag1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack12_SurvivalAsset/icon_obj_tape1.png
+Dependencies: []

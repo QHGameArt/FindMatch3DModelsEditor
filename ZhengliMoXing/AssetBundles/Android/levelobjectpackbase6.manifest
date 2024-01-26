@@ -1,0 +1,180 @@
+ManifestFileVersion: 0
+CRC: 3008423601
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0fd53547f6865c709e9fb4c88146a545
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 63b2e4155cc3b117b404318f8ba12bb6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Chip_Bag_04.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Cake_Matcha_Slice.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Donut_12.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Cheesecake_Lemon.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/Shaders/Glass.shader
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Cookie_Heart_01.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Chip_Bag_03.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Cookie_01.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Cupcake_03.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Sauce_HMustard.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Cupcake_11.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Cookie_01.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Cake_Matcha_Whole.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Donut_01.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Cake_Bday_Slice.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Hashbrown_01.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/Prefabs/Fountain_Cup_Small.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/Materials/Fountain_Drinks_01.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Cookie_01.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Corndog_Mustard.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Donut_Filled_04.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Donut_12.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Corndog_Ketchup.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Eclair_03.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Chip_Bag_01.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Cake_Matcha_Slice.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Eclair_03.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Sauce_Diablo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Burger_Cheese.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Corndog_Ketchup.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Corndog_Mustard.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Chip_Bag_01.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Donut_01.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Cake_Matcha_Whole.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Cupcake_06.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/FBX Meshes/Smoothie_Liquid.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/Prefabs/obj_Smoothie_04.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Cake_Matcha_Slice.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/Materials/Plastic.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Donut_Filled_04.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Cake_Carrot_Slice.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Cheesecake_Lemon.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Chip_Bag_02.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Eclair_03.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Cake_Carrot_Slice.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Cake_Bday_Whole.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Donut_06.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Hashbrown_01.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Hashbrown_02.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Corndog_Mustard.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Cheesecake_Matcha.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/Textures/Fountain_Drinks_01.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Cake_Matcha_Whole.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Donut_06.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/Materials/Smoothie_01.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/Textures/Smoothie_04.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Cheesecake_Matcha.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/Prefabs/obj_Smoothie_02.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Cheesecake_Matcha.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Burger_Cheese.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Cake_Bday_Whole.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Sauce_Ranch.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Chip_Bag_01.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Burger_Cheese.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Cheesecake_Lemon.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Chip_Bag_03.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/Prefabs/obj_Smoothie_01.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/Prefabs/Straw.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Corndog_Ketchup.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Sauce_Spicy.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Donut_01.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Cake_Matcha_Whole.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Donut_12.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Sauce_Ranch.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Cookie_Heart_01.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Burger_Cheese.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Cake_Bday_Whole.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/Materials/Smoothie_04.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Chip_Bag_03.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Hashbrown_02.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Eclair_03.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Cupcake_06.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Cake_Bday_Slice.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Sauce_Spicy.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Cake_Bday_Slice.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Cake_Bday_Slice.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Cupcake_11.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Chip_Bag_04.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Chip_Bag_04.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Donut_Filled_04.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Sauce_Ranch.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Cookie_01.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Cheesecake_Matcha.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Donut_01.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Cupcake_11.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Croissant_02.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Chips_01.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/Textures/Smoothie_01.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Hashbrown_01.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Sauce_Spicy.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Cupcake_11.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Cupcake_03.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Croissant_02.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/FBX Meshes/Fountain_Cup_Small.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Donut_06.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Cake_Bday_Whole.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Chip_Bag_04.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Chip_Bag_03.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Cheesecake_Lemon.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Materials/Smoothie_04.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Cake_Carrot_Slice.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Chip_Bag_02.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/FBX Meshes/Straw.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Hashbrown_02.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Sauce_Ranch.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Chip_Bag_02.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Donut_06.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Cake_Matcha_Slice.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Sauce_HMustard.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Cookie_Heart_01.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Sauce_Diablo.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Corndog_Ketchup.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Cupcake_06.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Chip_Bag_02.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/Materials/Plastic_Containers.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/Textures/Smoothie_02.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Cake_Carrot_Slice.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Hashbrown_02.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/Prefabs/Fountain_Lid.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Corndog_Mustard.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Materials/Croissant_02.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Cupcake_03.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Sauce_Spicy.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Cookie_Heart_01.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Cupcake_06.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Donut_12.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fbx/Sauce_HMustard.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Cupcake_03.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Hashbrown_01.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Sauce_Diablo.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Sauce_Diablo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Texture/Croissant_02.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/Materials/Smoothie_02.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Fast Food/FBX Meshes/Fountain_Lid.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Sauce_HMustard.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase6/Prefab/obj_Donut_Filled_04.prefab
+Dependencies: []

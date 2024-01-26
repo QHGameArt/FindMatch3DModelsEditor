@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 1241955605
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d6a39beb3e1bdde7dce2fdee0da9e6c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Prefab/obj_beerHat1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/model_detectiveHat1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/Materials/mat_FirefighterHat01_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/model_cactusHat1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/Materials/chefHat1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Texture/tx_astronautHelmet1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/Materials/cactusHat1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/model_chefHat1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Texture/tx_bunnyEars1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Texture/tx_dinosaurHat1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Texture/tx_bigHornedHelmet1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Prefab/obj_bigHornedHelmet1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Texture/tx_chefHat1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Texture/tx_mat_CylinderHat01_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/Materials/bigHornedHelmet1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/model_bunnyEars1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Prefab/obj_detectiveHat1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/Materials/detectiveHat1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Texture/tx_beerHat1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/model_dinosaurHat1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/model_cylinderHat1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Prefab/obj_cylinderHat1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/Materials/bunny1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Prefab/obj_dinosaurHat1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/Materials/match_3d_color_palette_unity_2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/model_bigHornedHelmet1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/model_astronautHelmet1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/model_firefighterHat1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/Materials/bunnyEars1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Prefab/obj_cactusHat1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/Materials/mat_CylinderHat01_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Prefab/obj_firefighterHat1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Texture/tx_cactusHat1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Texture/tx_mat_FirefighterHat01_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Prefab/obj_chefHat1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Texture/tx_detectiveHat1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/Materials/astronautHelmet1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Texture/tx_bunny1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/model_beerHat1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/Materials/beerHat1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Fbx/Materials/dinosaurHat1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Prefab/obj_astronautHelmet1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack9_LowpolyHats/Prefab/obj_bunnyEars1.prefab
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat

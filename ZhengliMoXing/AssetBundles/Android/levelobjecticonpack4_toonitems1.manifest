@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 2129832187
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e68bbb68c87bf0e1584368d3548f1b70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack4_ToonItems1/icon_obj_diamond1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack4_ToonItems1/icon_obj_trafficCone.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack4_ToonItems1/icon_obj_milk.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack4_ToonItems1/icon_obj_diamond2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack4_ToonItems1/icon_obj_woodBarrel.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack4_ToonItems1/icon_obj_diamond3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack4_ToonItems1/icon_obj_wrench.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack4_ToonItems1/icon_obj_laserGun.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack4_ToonItems1/icon_obj_crown.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack4_ToonItems1/icon_obj_thunder.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack4_ToonItems1/icon_obj_magnifyingGlass.png
+Dependencies: []

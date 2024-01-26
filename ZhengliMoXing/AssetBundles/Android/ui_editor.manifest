@@ -1,0 +1,120 @@
+ManifestFileVersion: 0
+CRC: 2707630455
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce9713a821e33c10afe134a85b0d0cd1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31038e4c8fe130dfdc623e85b27ca691
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e190d043ef387ee4fad4acea6146931e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d91f3355172a47d596940665680a5235, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6b456be5d1694928b4ecaa336c107ea2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a0f0aad9b35a4336a83e381822e58cf4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 36ba860ae42124704a491b4988dd1c7a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15c4f49a8bc445f9aaef13a80897efe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aebcd299fed14b858354b44275fa5a59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 90b4358f64484a32b0686f0e0f138053, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56ba8b8af745545c3b293de113059f4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09f87ca1a51e492c8ac9c564141e9fd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f65f5c8669a47f99e4a3e48ba47c01c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 10a366198c1e4de6ae28ccaeb7adf953, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: SuperScrollView.ItemPrefabConfData
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.InputField/OnChangeEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.InputField/SubmitEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+Assets:
+- Assets/GameAssets/Local/Ui/UI_Editor/TestEditorPanel.prefab
+- Assets/GameAssets/Local/Ui/UI_Editor/LevelEditorMainPanel.prefab
+- Assets/GameAssets/Local/Ui/UI_Editor/CoinAndJewelEditorPanel.prefab
+- Assets/GameAssets/Local/Ui/UI_Editor/WeeklyChllengeEditorPanel.prefab
+- Assets/GameAssets/Local/Ui/UI_Editor/LevelEditorPanel.prefab
+- Assets/GameAssets/Local/Ui/UI_Editor/SpaceChllengeEditorPanel.prefab
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/heartbankpop

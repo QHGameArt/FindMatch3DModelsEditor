@@ -1,0 +1,185 @@
+ManifestFileVersion: 0
+CRC: 3739123500
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 510bb2a000e13532d8ad24eb2610ced8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9b2b10f14352a2c3d6cc746133927f6c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f60a4245b464d248596a571b2164601, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fb0ab7f4791422a9bace0d39621d0b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61896a9315f643e889d6c6d302573af3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 18c89dc2969d4227a54a6e76b0afdecd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4883631102bd4a1ba6d237be177cbd98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1f05bb25847a4cc087f4f7f3a240c439, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e7e48cb99bb28465fb255c93761d86c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72e2d7c04f2a48e5b8f8507b6ff4da05, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 98a1902421c1420c8c79eef77315fb79, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89db371097ec4d8e9f99ae7a0f027172, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20ed9b76750147f6bbb4c53ac3532729, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d32a83482b49649e9b8220d8ca027e43, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c19ebac303646c1ad5d33c2ea3fe879, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 953c47a0af1b49da89fc05c0712d99f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad70e2c9ba6b47d8801425a5cb2b4115, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86fff5f3cd064156a09f7f58c6d82b01, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9e3895cdac9244b3a5b04bd721bfa63, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/FlowerRace/img_ic_picture.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Prefabs/CollectFlowerLeaderboardPopUI.prefab
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/PlayPop/img_title_noflowers.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/FlowerRace/img_daily_frame_s.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/PlayPop/img_frame_time_s.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_ic_close.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_icon_time.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/FlowerRace/img_daily_green
+  frame_s.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_icon_magnet.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Prefabs/BalooThambi2_Bold.ttf
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_picture.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_ic_recall.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/FlowerRace/img_light1.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/FlowerRace/img_frame_wood.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_ic_home_flowers-3.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Prefabs/CollectFlowerPopUI.prefab
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_ic.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_ic_title .png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_frame_horn.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_ic_flowers_m.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/PlayPop/img_bg_wood_s.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/PlayPop/img_daily_frame_m.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_icon_shake.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/FlowerRace/img_ic_arrow.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/PlayPop/img_ic_rank_m.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_ic_Bottom of box2.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Prefabs/CollectFlowerExplainGuidePopUI.prefab
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_bottom_below.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/PlayPop/img_daily_green frame_m.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/TapToOpen/img_light3.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/TapToOpen/img_ic_box close.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_frame_green_score.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_icon_limitless.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Prefabs/ActivityOneHourBoxPopUI.prefab
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_ic_title1.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_icon_team_player_slot_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_icon_team_slot_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/PlayPop/img_frame_others_score.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_ic_plus-2.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Prefabs/ActivityBtnFlower.prefab
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_picture2.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_frame_big.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_ic_box2.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_frame_time.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_ic_plus.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_title_flowers.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/FlowerRace/img_frame_my score_s.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/PlayPop/img_frame_my score.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Prefabs/LevelPrepareActivityContainerFlowerRace.prefab
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Prefabs/FlowerRaceStartPopUI.prefab
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Prefabs/UserRankItem.prefab
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Prefabs/FlowerPlayerRankItem.prefab
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Prefabs/NameParent.prefab
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_frame_score.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/PlayPop/img_ic_others rank.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/FlowerRace/img_light2 .png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_bg2.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/FlowerRace/img_frame_score_s.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_bt.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_Flowers/Sprite/img_icon_clock.png
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/passcheck
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_team
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/uipop

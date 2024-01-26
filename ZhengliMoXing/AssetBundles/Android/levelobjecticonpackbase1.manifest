@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 2064760467
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1837a338e3b970c458f278dd97e59909
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_backpack.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_exclamationMark.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_dice.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_bag.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_cake.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_can.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_chair.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_elephant.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_bee.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_ball.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_cow.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_dragonfly.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_bicycle.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_broom.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_dog.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_driver.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_acorn.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_cat.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_cherry.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_carrot.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_egg.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_canon.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_ant.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_basket.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_butterfly.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_cup.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_duck.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_eagle.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_car.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_desk.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_airplane.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_banana.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_candy.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_bow.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_coin.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_balloon.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_bone.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_book2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_apple.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_book.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_drum.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase1/icon_obj_earth.png
+Dependencies: []

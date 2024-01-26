@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 3438309818
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2968a9379f195d84879133ba940ed0e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_chickenLeg.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_macaron.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_iceCreamCone.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_cupCake.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_pancakes.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_cheese.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_pretzel.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_pancake.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_ramen.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_sandwich.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_frenchFries.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_gingerbread.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_croissant.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_donut.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_frenchBread.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_bread.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_frozenYogurt.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_bacon.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_hotdog.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_cookie.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_muffin.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_friedEgg.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack3_ToonFood/icon_obj_pie.png
+Dependencies: []

@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 1270185755
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64edd7b0594d9c205de0add9757576b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Prefabs/obj_WeeklyPineapple.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Prefabs/obj_WeeklyShell.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Fbx/Materials/TEX01.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Fbx/model_Rudder.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Texture/tx_TEX05.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Prefabs/obj_WeeklyDragonFruit.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Fbx/model_shell.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Fbx/Materials/Dragonfruit.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Fbx/Materials/match_3d_color_palette_unity_2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Texture/tx_greenhat1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Texture/tx_Dragonfruit.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Fbx/Materials/greenhat1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Fbx/model_Dragonfruit.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Fbx/model_Buding.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Prefabs/obj_WeeklyRudder.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Texture/tx_TEX04.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Prefabs/obj_WeeklyBuding.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Fbx/Materials/TEX05.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Fbx/model_Pineapple_0.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Texture/tx_TEX01.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Fbx/model_Greenhat.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Fbx/Materials/TEX04.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack27_WeeklyItem2/Prefabs/obj_WeeklyGreenHat.prefab
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat

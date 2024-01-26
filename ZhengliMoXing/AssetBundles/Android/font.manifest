@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 115027464
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b5e3f59a37a973826a7b26be039c16b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 818998f6ad50b01be7500ae860b195e5
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Remote/Font/Font-Ja/KosugiMaru-Regular.ttf
+- Assets/GameAssets/Remote/Font/Font-Kr/Jua-Regular.ttf
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh

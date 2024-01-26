@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 2143768028
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a61ddec8e591f2a908c3c0d70b55446f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/Audio/audio_key_collect.mp3
+- Assets/GameAssets/Local/Audio/audio_undersea_completed.mp3
+- Assets/GameAssets/Local/Audio/audio_collect_pearl.mp3
+- Assets/GameAssets/Local/Audio/game_audio_chest_out.mp3
+- Assets/GameAssets/Local/Audio/audio_match_player.mp3
+- Assets/GameAssets/Local/Audio/audio_quest_fall.mp3
+- Assets/GameAssets/Local/Audio/audio_undersea_reaval_all.mp3
+- Assets/GameAssets/Local/Audio/game_audio_object_click.mp3
+- Assets/GameAssets/Local/Audio/game_audio_level_lose.mp3
+- Assets/GameAssets/Local/Audio/audio_undersea_new_chest.mp3
+- Assets/GameAssets/Local/Audio/audio_undersea_click_empty.mp3
+- Assets/GameAssets/Local/Audio/game_audio_combo8.mp3
+- Assets/GameAssets/Local/Audio/audio_bubble.mp3
+- Assets/GameAssets/Local/Audio/audio_sliderBoom.mp3
+- Assets/GameAssets/Local/Audio/game_audio_collect_coin.mp3
+- Assets/GameAssets/Local/Audio/audio_undersea_chest_bubble.mp3
+- Assets/GameAssets/Local/Audio/game_audio_prop_undo.mp3
+- Assets/GameAssets/Local/Audio/game_audio_chest_open.mp3
+- Assets/GameAssets/Local/Audio/audio_tool_tip_open.mp3
+- Assets/GameAssets/Local/Audio/game_audio_object_match.mp3
+- Assets/GameAssets/Local/Audio/audio_undersea_reward.mp3
+- Assets/GameAssets/Local/Audio/game_audio_weekly_show_reward2.wav
+- Assets/GameAssets/Local/Audio/audio_match_pass_bonus_bank_jump.mp3
+- Assets/GameAssets/Local/Audio/game_audio_unlock.wav.mp3
+- Assets/GameAssets/Local/Audio/game_audio_space_mission_rocket_up.mp3
+- Assets/GameAssets/Local/Audio/game_audio_level_add_time.mp3
+- Assets/GameAssets/Local/Audio/game_audio_tick.wav.mp3
+- Assets/GameAssets/Local/Audio/audio_undersea_claim_reward.mp3
+- Assets/GameAssets/Local/Audio/game_audio_gem.mp3
+- Assets/GameAssets/Local/Audio/game_audio_prop_shrink.mp3
+- Assets/GameAssets/Local/Audio/game_audio_bgm.mp3
+- Assets/GameAssets/Local/Audio/game_audio_prop_freeze.mp3
+- Assets/GameAssets/Local/Audio/game_audio_weekly_claim_reward.wav
+- Assets/GameAssets/Local/Audio/game_audio_prop_fan.mp3
+- Assets/GameAssets/Local/Audio/audio_undersea_bubble.mp3
+- Assets/GameAssets/Local/Audio/audio_undersea_chest_unlock.mp3
+- Assets/GameAssets/Local/Audio/game_audio_button_click.mp3
+- Assets/GameAssets/Local/Audio/game_audio_coin_collect.mp3
+- Assets/GameAssets/Local/Audio/audio_quest_forward.mp3
+- Assets/GameAssets/Local/Audio/audio_undersea_tile_break.mp3
+- Assets/GameAssets/Local/Audio/game_audio_weekly_show_reward1.wav
+- Assets/GameAssets/Local/Audio/game_audio_lock.wav.mp3
+- Assets/GameAssets/Local/Audio/game_audio_level_win.mp3
+- Assets/GameAssets/Local/Audio/game_audio_week_item_collect.mp3
+- Assets/GameAssets/Local/Audio/game_audio_prop_magnet.mp3
+- Assets/GameAssets/Local/Audio/game_audio_weekly_back_to_slider.wav
+- Assets/GameAssets/Local/Audio/audio_failObj.mp3
+- Assets/GameAssets/Local/Audio/game_audio_star_fly1.mp3
+- Assets/GameAssets/Local/Audio/audio_match_pass_bonus_bank_open.mp3
+Dependencies: []

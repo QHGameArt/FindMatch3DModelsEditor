@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 2980074363
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2366ba90aaa3859a5e518d4c6f2a263e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Fbx/model_octopus1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Fbx/Materials/bunny.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Prefab/obj_octopus1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Fbx/Materials/rhino1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Prefab/obj_bunny1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Texture/tx_octopus1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Fbx/model_turtle1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Fbx/model_bunny1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Texture/tx_sheep1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Fbx/Materials/sheep2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Fbx/Materials/octopus1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Fbx/model_rhino1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Fbx/Materials/turtle1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Prefab/obj_sheep2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Texture/tx_rhino1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Prefab/obj_turtle1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Fbx/Materials/sheep1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Fbx/model_sheep2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Texture/tx_sheep2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Prefab/obj_rhino1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Fbx/Materials/match_3d_color_palette_unity_2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack2_Baby/Texture/tx_turtle1.png
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectpack13_toys

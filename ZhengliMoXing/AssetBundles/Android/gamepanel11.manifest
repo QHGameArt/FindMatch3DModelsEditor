@@ -1,0 +1,156 @@
+ManifestFileVersion: 0
+CRC: 1224476152
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ecc29b285b65d47b946a6637b528618
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0bd74f0fe13dbf45721846b9e9dfa812
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d199490a83bb2b844b9695cbf13b01ef, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9d05bdbfba75459f9bf2a58870629801, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e3b7cbcedac40ae941e8c5b330df73d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25db04d49b234ddf8b182def63c05fd0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d3a24e4f32534ba592349335edf856a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3b1499b4b27b4960ab491d563d867852, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 029a1ccfe5b145b7aa64bdcb8939863b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 98de39a4176b4c4d97df04caa12cd29e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 181442fbf6aeb40949b67d0b3d12f38c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4fe36ca6afc43ee8dbd3fcab4fe4c6f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d81a0e6b83c546d0a5d7c241212c388c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 63dcecd37ab9465da5907537bce374f1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphPairAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphValueRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.InputField/OnChangeEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.InputField/SubmitEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Local/Ui/GamePanel11/ic_home_reddot.png
+- Assets/GameAssets/Local/Ui/GamePanel11/img_icon_btn_add.png
+- Assets/GameAssets/Local/Ui/GamePanel11/img_pop_lock.png
+- Assets/GameAssets/Local/Ui/GamePanel11/img_bg_object_collector_game_panel.png
+- Assets/GameAssets/Local/Ui/GamePanel11/img_bg_container_goal_game_panel.png
+- Assets/GameAssets/Local/Ui/GamePanel11/img_bg_top_game_panel.png
+- Assets/GameAssets/Local/Ui/GamePanel11/img_icon_clock_timer_game_panel.png
+- Assets/GameAssets/Local/Ui/GamePanel11/img_bg_container_prop_bar_game_panel.png
+- Assets/GameAssets/Local/Ui/GamePanel11/Prefab/PropButton.prefab
+- Assets/GameAssets/Local/Ui/GamePanel11/Prefab/GamePanelObjectCollector.prefab
+- Assets/GameAssets/Local/Ui/GamePanel11/img_bg_object_collector_game_panel_black.png
+- Assets/GameAssets/Local/Ui/GamePanel11/img_bg_container_lebel_game_panel.png
+- Assets/GameAssets/Local/Ui/GamePanel11/img_icon_btn_pause_game_panel.png
+- Assets/GameAssets/Local/Ui/GamePanel11/img_mask_level_freeze.png
+- Assets/GameAssets/Local/Ui/GamePanel11/img_game_bp_target(1).png
+- Assets/GameAssets/Local/Ui/GamePanel11/Prefab/GamePanel.prefab
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/gameicon
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjecticonpackbase1
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/root
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_activity_flowers

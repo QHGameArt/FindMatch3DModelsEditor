@@ -1,0 +1,130 @@
+ManifestFileVersion: 0
+CRC: 1940687030
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f619c666cd4a3f777cebf4aad50bdb6a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/Materials/tx_car.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_egg.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_banana.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/Materials/03.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_basket.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_carrot.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_cup.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_eagle.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_earth.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_exclamationMark.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_ball.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_bone.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_cherry.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_butterfly.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_desk.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_candy.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_coin.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_butterfly.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/Materials/02.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_egg.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_driver.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_cake.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_cow.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/Materials/01.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_balloon.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_bicycle.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_airplane.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_eagle.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_bicycle.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_bone.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_bag.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_broom.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_acorn.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_broom.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_elephant.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/Materials/04.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_cake.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_car.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_book2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_ant.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_drum.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_airplane.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_chair.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_bee.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_acorn.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_coin.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_dragonfly.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_balloon.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_bag.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_canon.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_cherry.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_desk.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_candy.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_book2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_duck.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_earth.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_banana.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_cat.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_elephant.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_can.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_duck.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_driver.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_backpack.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_cup.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_bow.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_can.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_exclamationMark.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/Materials/car.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_canon.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_dragonfly.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_carrot.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_backpack.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_apple.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/Materials/cake.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_ant.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_book.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_car.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_cat.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_cow.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_bee.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_dice.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_ball.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_dice.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_chair.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_dog.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Prefab/obj_basket.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_drum.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/Materials/Alpha.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_apple.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_bow.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/Materials/cake.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_dog.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase1/Fbx/model_book.fbx
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat

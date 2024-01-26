@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2404284053
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44bb707cb7d72c2bbd2b8ddc417f2337
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/Ui/GameIcon/icon_coin_l.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_magnet_m.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_fan_s.png
+- Assets/GameAssets/Local/Ui/GameIcon/img_icon_diamond1.png
+- Assets/GameAssets/Local/Ui/GameIcon/img_shop_coin_one.png
+- Assets/GameAssets/Local/Ui/GameIcon/img_bg_dot_green.png
+- Assets/GameAssets/Local/Ui/GameIcon/img_bg_dot_red.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_clock_m.png
+- Assets/GameAssets/Local/Ui/GameIcon/Coin_Activity.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_clock_timer.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_hint_s.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_magnet_s.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_magnet_l.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_undo_l.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_ice_l.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_grid_m.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_grid_l.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_shrink_s.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_plus.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_ice_s.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_clock_l.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_check_prop_selection.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_clock_s.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_heart_l.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_endlessheart_l.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_hint_l.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_fan_l.png
+- "Assets/GameAssets/Local/Ui/GameIcon/\u221E.png"
+- Assets/GameAssets/Local/Ui/GameIcon/icon_undo_s.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_grid_s.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_coins.png
+- Assets/GameAssets/Local/Ui/GameIcon/icon_heart_s.png
+Dependencies: []

@@ -1,0 +1,215 @@
+ManifestFileVersion: 0
+CRC: 3124571453
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 706137a5d64ded7ad0ab3180e9e7d2d9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c436a7c1085724bec01e179b1bb780fd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9677bbe703c5a42e2b1c6aa60b0e22e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3b8d74216b004abd99defa8a8c21753, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1d20520b64c1e4abeae320e31d2a327d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c250f9e0d57014a52ab6ad00e7da851c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c28ff2a7480714387af02c5efd6f2014, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 56af83d34b0154436afbeb153851d8c0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 693364d1c69a46cfae95bc109bb64fbf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a324bc767a5dc43ba9e347f2d603f06f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6c48da9e79bd44d9bb08630f3ae9f43, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89db371097ec4d8e9f99ae7a0f027172, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6d50378fe9e5d453aa060fe25ba3aa90, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6f3c13d86e8b48f7b76a0d3d7c3a1b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 139bc760699704164bbada65b2f4dcf2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Slider/SliderEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/a7b7d66b3dc32fc14d8628bb8011b02d.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/home_ic_coins.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/UiPopFloatingIslandGuide1.prefab
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_bp2.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_title1.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_pic1.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_bp.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_x.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_btn1.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_rewards1.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_t.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/UiPopFloaringIsLandStart.prefab
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_btn_green_shot.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_ribbon5.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_h.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_ic_square.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/Actbtn/img_ic_land2.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_bg7.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_bg3.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_frame_bth.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_bg5.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_pointer.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_v.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_cloud3.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_title2.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_bg4.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_ic_line.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_z.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_n.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_bg1.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_ic_light2.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/Actbtn/img_ic_cloud2.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/UiPopFloatingIslandGuide3.prefab
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_bg6.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_bg7-14.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_ic_coins2.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_box_1.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_frame.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_bg8.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_cloud1.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_ic_cloud1.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_c.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_bg_left.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_b.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_frame_bp2.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/Point1.prefab
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_bg_front.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/Actbtn/img_ic_sky_land.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_y.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_triangle1.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_btn2.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_cloud2.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_r.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_g.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/UiFloatIslandQuitRewards.prefab
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_o.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_box_2.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_rewards.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_p.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_frame_progress_bar.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_frame_clock.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_ribbon4.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_d.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_m.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_ic_arrow .png
+- Assets/GameAssets/Local/Ui/FloatingIsland/UiPopFloatingIslandMain.prefab
+- Assets/GameAssets/Local/Ui/FloatingIsland/ActivityFloatIsland.prefab
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_i.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_w.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_ic_cloud2.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_bg_sky.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_triangle2.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_bg_right.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_1000cions.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_ic_light1.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/UiPopFloaringIsLandEscape.prefab
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_pic_sky_quit.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_u.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/UiPopFloatingIslandVectory.prefab
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_progress_bar.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/Actbtn/img_ic_cloud1.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_s.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_j.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_bg2.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_btn_blue_shot.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_ribbon3.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_picture.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_k.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_ribbon2.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_bg_rewards.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_ic_close.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_f.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/UiPopFloaringIsLandFaild.prefab
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_ic_hint.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_pic_users2.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/Actbtn/img_ic_land1.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_q.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_bubble.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_ic_clock.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_rewards2.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_a.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_pic_users1.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_l.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/StandingPoint.prefab
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/img_ribbon1.png
+- Assets/GameAssets/Local/Ui/FloatingIsland/FloatingIsland/PhotoName/img_ic_user_e.png
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/gameicon
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/root
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_removead

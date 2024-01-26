@@ -1,0 +1,232 @@
+ManifestFileVersion: 0
+CRC: 1838599036
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fce2a768fe92be7984dae2f37a2ec073
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dcab1efb006575ac1aacd80a0d817369
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e190d043ef387ee4fad4acea6146931e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6309556412a8424fb8d8c88bd4ece19d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2bf0c06008f248b6922fc0b7089eed02, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3529e14e1800647dc926255f4276c7fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b470870e45e846b595990e38c3fdbbd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5bf89ef727074bc88582baa289f1b08, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cde72b648347e418588af337db7bad56, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9deb940f948746278acad888b6502c51, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 69e137dfdbe54bbca6ca675af13770a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6387cdd73d6d419d80ed31c98bdc2773, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aebcd299fed14b858354b44275fa5a59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d25409f3d80e44029b79032e997fcaf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd89ac065881434f9bd9ccaabbce5d91, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 254e9e9109c84ba0beb724e71e499184, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09f87ca1a51e492c8ac9c564141e9fd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89db371097ec4d8e9f99ae7a0f027172, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a2d4f2c606d4f30b8c31f933ec2d0ae, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 18a3caa36d7984b7d88189f242a9a307, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bbcbd7952202d4d44a555aea5af2a351, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: EnjoyPlay.FMatch.MatchPassTheme
+- AssemblyName: Assembly-CSharp
+  ClassName: EnjoyPlay.FMatch.MatchPassThemeBoxData
+- AssemblyName: Assembly-CSharp
+  ClassName: SuperScrollView.ItemPrefabConfData
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Slider/SliderEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_bank_bar_bottom.png
+- Assets/GameAssets/Local/Ui/PassCheck/Prefabs/ActivityBtnPassCheck.prefab
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_bar_top.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_ic_arrow.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 2/img_pass_team_bg.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 2/img_pass_shop.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_bp.png
+- Assets/GameAssets/Local/Ui/PassCheck/Prefabs/UiPopMatchPassTip.prefab
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_ic_match_pass.png
+- Assets/GameAssets/Local/Ui/PassCheck/Prefabs/MatchPassListItem.prefab
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_ic_blank.png
+- Assets/GameAssets/Local/Ui/PassCheck/PassThemeConfig.asset
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_name_gold.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_pass_pop_frame.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_bar_bottom_s.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_bar_top.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_icon_box_pass_halloween_4.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_icon_box_pass_halloween_5.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_frame_blue.png
+- Assets/GameAssets/Local/Ui/PassCheck/Prefabs/UiPopMatchPassStart.prefab
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_pass_pop_bg 1.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_bar_top_s.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_pass.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 2/Box.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_match_pass.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_pass_bonus_bank.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 2/img_ic_shop_pass.png
+- Assets/GameAssets/Local/Ui/PassCheck/Prefabs/MatchPassTitleListItem.prefab
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_ic_pass_stars.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_bg.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/dynamic/img_ic_box11.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_frame_purple.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/dynamic/img_ic_box17.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_frame1.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_ic_pass_star.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/dynamic/img_ic_box15.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_frame_yellow.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_ic_bonus_s.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_pass_bg.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_ic_pass_stars.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_pass_title.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_ic_bonus_bank.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/dynamic/img_ic_box01.png
+- Assets/GameAssets/Local/Ui/PassCheck/Prefabs/UiPopMatchPassOpenCoinBox.prefab
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_ic_bonus_l.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_icon_box_pass_halloween_1.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_ic_line.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_pass_gold.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 2/img_icon_ gift box2.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_bt_s.png
+- Assets/GameAssets/Local/Ui/PassCheck/Prefabs/MatchPassRewardItem.prefab
+- Assets/GameAssets/Local/Ui/PassCheck/Prefabs/UiPopMatchPass.prefab
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_ic_blue.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/Streamer.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_pass_title1.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_title
+  1.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/pass_icon_lock.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/dynamic/img_ic_key.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_poster_pass_start_halloween.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/dynamic/img_ic_box16.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_bank_bar_top.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_congrats.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_bp2.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/pass_icon_lock_small.png
+- Assets/GameAssets/Local/Ui/PassCheck/Prefabs/UiPopMatchPassBuyRewards.prefab
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_frame_qipao_1.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_pass_free.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_bar_bottom_s.png
+- Assets/GameAssets/Local/Ui/PassCheck/Prefabs/MatchPassBoxListItem.prefab
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_icon_box_pass_halloween_2.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_btn_acticated.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_pass_pop_bg.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_bar_bottom_b.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_yellow_line.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_bt_gold_noshadow.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_frame_yellow.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_bar_bottom.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 2/img_ic_name_gold.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_pass_pop_frame1.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_icon_box_pass_halloween_3.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/dynamic/img_ic_box13.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_frame_yellow.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_bt_yellow.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 2/img_pass_buy_banner.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 2/img_team_gold_pass.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_bar_top_s.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_matchpass_s.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_ic_coin.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 2/img_ic_clear.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_bt_purple.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/img_icon_ gift box2.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/dynamic/img_ic_box14.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_pass_frame.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder/ic_home_green.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/Sprites/Theme_Halloween/img_poster_pass_top_halloween.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 2/img_ic_pass_reward_s.png
+- Assets/GameAssets/Local/Ui/PassCheck/Sprites/New Folder 1/img_frame_qipao.png
+- Assets/GameAssets/Local/Ui/PassCheck/Prefabs/UiPopMatchPassBuy.prefab
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/coinandjewel
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/endlessbuy
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/gameicon
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/root
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_chest
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/uipop
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/weeklycollenge

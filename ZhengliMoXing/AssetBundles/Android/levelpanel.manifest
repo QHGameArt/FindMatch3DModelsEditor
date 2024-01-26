@@ -1,0 +1,159 @@
+ManifestFileVersion: 0
+CRC: 1961138790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4bec5f9203e7466cc4e58bccf06eceb5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6fe17ab586141c053ebfeb951f456ace
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 203fdf197fb04a4c80bdb1c98a2fb9f3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 77a7bf29c14e47adb4b1ebce2aba6d6c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 43c52610223b4487a2e08ebcf961efde, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2e4a4ad1a2240949c852db61f23ec14, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3725ee481f5e49f18a5f130109d8b47a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3529e14e1800647dc926255f4276c7fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7fb63dfb27544147937b2bd80309235d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 78a67c3d02ea4c73853ecaa869b43bdd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ebc26462cb814910961bf1ff2f0d14c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b5d53fea15d429992ae572e7041ea7d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd7e84215ec546b5b8c105d60c4e0c12, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fa406a152cba4a3db963b78058939f3a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e7e48cb99bb28465fb255c93761d86c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0770f49d8da641d2a88c529c6b67f943, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81c5ff34dd984a87bcc24567e7c8191b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72e2d7c04f2a48e5b8f8507b6ff4da05, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7f31585ad7724b3d821cabb615eed741, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed92bc34274d4ae9b7f7289c7f0edc50, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2408b0110e842daafb1d3be9b874301, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20ed9b76750147f6bbb4c53ac3532729, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6f3c13d86e8b48f7b76a0d3d7c3a1b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d8a39584b41040828b4b9b5247814cfc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 20badc84b3e846e3a64500d3347a0b37, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 874c6d6156e6442d961c74f95723d061, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a92b2c9299904d1ca34c2a292f9226fc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Slider/SliderEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Local/Ui/LevelPanel/Played/LevelSettlementStar.prefab
+- Assets/GameAssets/Local/Ui/LevelPanel/Playing/ReviveAskAgainPanel1.prefab
+- Assets/GameAssets/Local/Ui/LevelPanel/Playing/RetainPanel.prefab
+- Assets/GameAssets/Local/Ui/LevelPanel/Played/WinPanel.prefab
+- Assets/GameAssets/Local/Ui/LevelPanel/Playing/RevivePanel.prefab
+- Assets/GameAssets/Local/Ui/LevelPanel/Playing/ReviveAskAgainPanel.prefab
+- Assets/GameAssets/Local/Ui/LevelPanel/Prepare/LevelPropShopPanel.prefab
+- Assets/GameAssets/Local/Ui/LevelPanel/Playing/ActivityItems.prefab
+- Assets/GameAssets/Local/Ui/LevelPanel/Prepare/StartLevelPanel.prefab
+- Assets/GameAssets/Local/Ui/LevelPanel/Played/LosePanel.prefab
+- Assets/GameAssets/Local/Ui/LevelPanel/Playing/LevelPausePanel.prefab
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/floatingisland
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/gameicon
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/magicreward
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/root
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/spacemission
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/tutorials
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_activity_flowers
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_activity_underseatreasure
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/uipop
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/weeklycollenge

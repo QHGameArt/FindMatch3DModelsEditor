@@ -1,0 +1,123 @@
+ManifestFileVersion: 0
+CRC: 4020458473
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77597db8e93c32bb434b727683689632
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textG.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textZ.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textT.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_yogurt.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textY.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textX.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textV.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textY.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textU.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_waffle.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_whale.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textC.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_wheel.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textT.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textB.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textB.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textC.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_wheel.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_yam.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textN.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textI.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_volleyball.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textJ.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textW.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_yam.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_watermelon.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_xylophone.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_umbrellaLarge.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textD.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textG.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/Materials/waffle.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textJ.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textR.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textF.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textE.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_wolf.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_wolf.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textH.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_violin.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textV.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textX.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textM.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_waffle.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_ufo.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textZ.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/Materials/waffle.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_ufo.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textP.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textS.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_umbrella.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_volleyball.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textD.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_window.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textQ.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textH.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textL.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textO.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textQ.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textW.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textE.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_umbrella.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textL.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_yarn.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_xylophone.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textU.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_watermelon.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textN.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textK.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textO.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_yarn.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textK.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textP.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_violin.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_yogurt.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textA.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textF.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textS.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_window.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textI.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_whale.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textA.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_textM.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_zebra.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Prefab/obj_zebra.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase5/Fbx/model_textR.fbx
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectpackbase1

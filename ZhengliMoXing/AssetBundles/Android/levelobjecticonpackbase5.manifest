@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 328640669
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53818693bca98c51caebe336f8068228
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_zebra.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textD.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_ufo.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_watermelon.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textQ.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textY.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textB.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textX.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textG.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textO.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_waffle.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textE.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textW.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_whale.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textL.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_yarn.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_umbrella.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_yogurt.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textS.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textN.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_yam.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textZ.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textA.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_violin.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textV.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textR.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_wheel.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textJ.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textF.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_window.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textI.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_xylophone.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textU.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_volleyball.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_wolf.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textM.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textT.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textC.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textP.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textK.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase5/icon_obj_textH.png
+Dependencies: []

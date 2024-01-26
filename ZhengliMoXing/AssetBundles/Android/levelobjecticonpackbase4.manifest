@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 2789713382
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed2debcf6d5091427bcda97c7a61e56d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_rose.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_top.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_spider.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_rainbow.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_tambourine.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_shield.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_scissors.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_ring2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_tank.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_rabbit.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_questionBox.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_spoon.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_trophy.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_skull.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_quail.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_shark.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_treasureChest.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_smartphones.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_sheep.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_queen.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_scooter.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_shoes.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_ship.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_ring.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_tomato.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_tiger.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_rocket.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_radio.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_robot.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_train.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_tree.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_trumpet.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_star.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_questionMark.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase4/icon_obj_table.png
+Dependencies: []

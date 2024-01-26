@@ -1,0 +1,151 @@
+ManifestFileVersion: 0
+CRC: 571377255
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8533f3cdc7eef9e2323b181ea8296f26
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b8edefa528289d56185ad7975a5fcf8c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e190d043ef387ee4fad4acea6146931e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e5b2f47b8c4b47648f33cc80dd159c7f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1ed3ec3eef0854c9b868a9bdc784faf0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aebcd299fed14b858354b44275fa5a59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af9917782924454b9cca97c5dc48227f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09070ff3185194ffabd0cbb9d381399f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09f87ca1a51e492c8ac9c564141e9fd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89db371097ec4d8e9f99ae7a0f027172, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 98270a51a18e4c4f8d9a1c6b2d5afff7, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: SuperScrollView.ItemPrefabConfData
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Slider/SliderEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Sprites/Pup1/img_pop_bg2_2.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/icon_activity_object_weekly_avocado.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/activity_poster_weekly_jigsaw.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/activity_poster_weekly_turkey.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Sprites/Pup1/img_qizhi.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Sprites/Pup1/img_pop_progressbar_adequate_l.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Sprites/Pup1/img_icon_x2.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Sprites/Pup1/ic_wifi.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/activity_poster_weekly_christmastree.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/icon_activity_object_weekly_christmastree.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/icon_activity_object_weekly_jigsaw.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/icon_activity_object_weekly_pinata.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/icon_activity_object_weekly_santahat.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/activity_poster_weekly_yellowduck.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Parfabs/WeeklyItemCollector.prefab
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Sprites/Pup1/img_pop_progressbox_m.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/activity_poster_weekly_santahat.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/icon_activity_object_weekly_halloween.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/activity_poster_weekly_rose.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/activity_poster_weekly_avocado.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Sprites/Pup1/ic_wifi_bg.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/icon_activity_object_weekly_camera.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/icon_activity_object_weekly_rudder.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/icon_activity_object_weekly_yellowduck.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/icon_activity_object_weekly_snowman.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/activity_poster_weekly_shell.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Sprites/Pup1/img_pop_bg6_2.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Sprites/Pup1/img_zhouhuodong_wuwangluo.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Sprites/Pup1/img_pop_blue_btn.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Sprites/Pup1/img_rateofprogress_bg2.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/icon_activity_object_weekly_rose.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Parfabs/WeeklyRewardSlot.prefab
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/activity_poster_weekly_snowman.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/activity_poster_weekly_buding.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/icon_activity_object_weekly_dragonfruit.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Sprites/Pup1/img_pop_bg6.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Parfabs/UiPopWeeklyChallenge.prefab
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/activity_poster_weekly_dragonfruit.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Sprites/Pup1/img_doublerewards2.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/activity_poster_weekly_egg2.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Sprites/Pup1/img_pop_bg6-2.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Parfabs/UiPopWeeklyItemReward.prefab
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/icon_activity_object_weekly_egg2.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Sprites/Pup1/img_pop_lock_l.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/activity_poster_weekly_pinata.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/activity_poster_weekly_pineapple.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/activity_poster_weekly_rudder.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/activity_poster_weekly_halloween.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/icon_activity_object_weekly_pineapple.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/activity_poster_weekly_camera.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/icon_activity_object_weekly_buding.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/icon_activity_object_weekly_greenhat.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/icon_activity_object_weekly_turkey.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/icon_activity_object_weekly_shell.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/Sprites/Pup1/team_reasure_mark_l.png
+- Assets/GameAssets/Local/Ui/WeeklyCollenge/WeeklyTheme/activity_poster_weekly_greenhat.png
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/gameicon
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/root
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/uipop

@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 611719268
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60df0982251cb7614f662f23e7f770dd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_highlighterPen1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_pencilColored7.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_paintContainer1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_pencilColored1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_paperPlane.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_pencilColored4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_pencilColored8.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_pencilColored5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_pencilColored10.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_tapeDispenser1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_pencilColored6.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_pencilColored2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_pencilColored9.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_highlighterPen3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_headphones.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_paintContainer3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_tapeDispenser2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_paintContainer4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_chocolateDrink.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_pencilColored3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_highlighterPen2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack11_SchoolSupplies/icon_obj_paintContainer2.png
+Dependencies: []

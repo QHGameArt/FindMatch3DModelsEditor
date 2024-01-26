@@ -1,0 +1,101 @@
+ManifestFileVersion: 0
+CRC: 3757999144
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f0e64136a758f247af1e23b4b34e7125
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Prefab/obj_dumbbell.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/Materials/dumbbell.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Texture/tx_Battery_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Prefab/obj_cloud.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Prefab/obj_dinosaurEgg.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Texture/tx_Bell_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/model_dinosaurEgg.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Prefab/obj_basketball.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/model_scroll.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Prefab/obj_honeyJar.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/model_bell.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/model_woodCrate.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Texture/tx_globe.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Texture/tx_scroll.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/Materials/globe.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/model_globe.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/model_gear.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/Materials/Bell_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Texture/tx_meteor.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/Materials/SingleBarNote.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Prefab/obj_bell.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Prefab/obj_gear.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Prefab/obj_eighthNote.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Texture/tx_DinosaurEgg_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/Materials/SawBlade_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/model_jigsaw.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Prefab/obj_sawBlade.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Texture/tx_dumbbell.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/Materials/HoneyJar_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Prefab/obj_globe.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/model_cloud.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/Materials/Cloud_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/Materials/Dumbbell_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/Materials/basketball.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Texture/tx_Jigsaw.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Prefab/obj_meteor.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/Materials/match_3d_color_palette_unity_2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/model_dumbbell.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Prefab/obj_battery.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Prefab/obj_scroll.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Texture/tx_woodCrate.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/model_basketball.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/model_eighthNote.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/Materials/Jigsaw.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Texture/tx_SawBlade_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/Materials/Gear_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/Materials/scroll.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/model_singleBarNote.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Prefab/obj_jigsaw.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Prefab/obj_woodCrate.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/Materials/eighthNote.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Texture/tx_Cloud_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/Materials/DinosaurEgg_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Texture/tx_Gear_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Texture/tx_basketball.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Texture/tx_HoneyJar_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/model_sawBlade.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/model_meteor.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Prefab/obj_singleBarNote.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/Materials/meteor.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/model_battery.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/model_honeyJar.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/Materials/woodCrate.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack5_ToonItems2/Fbx/Materials/Battery_Albedo.mat
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat

@@ -1,0 +1,138 @@
+ManifestFileVersion: 0
+CRC: 1129415784
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5e2434ad9e8ef492131b7f145bc6b7fb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b1860bed99e9d10d02111c99beb34dfe
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+Assets:
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline_white_black.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline 1.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline151071.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline53290.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline05814.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline73300.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline7.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline#003AOE.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_Green.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline6.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline_#6F2600.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_____Green_Thin.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_B84C24.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline8503.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline34324.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline12400.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_SemiBold_Outline_#1F181E.mat
+- Assets/GameAssets/Local/FontTestMesh/KosugiMaru-Regular SDF.asset
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold SDF.asset
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline05814.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline_#1F181E.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_#8C3227_Thin.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline19784.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline7903.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_#54084A.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline390891.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline1.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline#512700.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline5 1.mat
+- Assets/GameAssets/Local/FontTestMesh/Jua-Regular.ttf
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline_#7B2800.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_#8C342C.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_1235017.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Regular SDF Material-#6F600.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_SemiBold SDF.asset
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Medium SDF.asset
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Regular.ttf
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_#4C2000.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_1405039.mat
+- Assets/GameAssets/Local/FontTestMesh/Characters_Ja.json
+- Assets/GameAssets/Local/FontTestMesh/Characters_Kr.json
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline#4C2000.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_003A0E.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold.ttf
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline_7D2C00.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_#B84C24.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_BrownBlack.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline85031.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold.ttf
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_Brown.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Regular_Outline.mat
+- Assets/GameAssets/Local/FontTestMesh/KosugiMaru-Regular.ttf
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_#8E3692.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Medium.ttf
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline122590.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline#7B2800.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_#7B2800_Two.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline273196.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_#1F181E.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline_DeepRed.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline_#114B02.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline8623.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline#A74A00.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline_#7C000E.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_SemiBold_Outline.mat
+- Assets/GameAssets/Local/FontTestMesh/Jua-Regular SDF.asset
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline046148.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_#003A0E_C.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline_#7A3B00.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_#003A0E.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Medium_Outline.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Regular SDF.asset
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline8.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_#7B2800.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold SDF.asset
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline_1D7701.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline73410.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline105601.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline_#6F2600 1.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline_#8C3227.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline_#772C02.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_SemiBold.ttf
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline39089.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_ExtraBold_Outline5.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline184560.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline47211.mat
+- Assets/GameAssets/Local/FontTestMesh/BalooThambi2_Bold_Outline4212225.mat
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/font

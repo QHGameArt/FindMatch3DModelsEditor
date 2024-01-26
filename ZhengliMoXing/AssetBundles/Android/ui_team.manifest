@@ -1,0 +1,403 @@
+ManifestFileVersion: 0
+CRC: 2116729428
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7d1d87f615d29ae80200c7f877e4692a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b4216c3820a813ac72abd45a8435c20d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 689ff7b540ef4a18b7cb600c9873b6c7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e190d043ef387ee4fad4acea6146931e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f35a184768004b169fe6dbe70f88a475, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 08f59c1fcb1b4f1aa98d5200346fc0d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68f6b499ad4e490d975cd41ec48df7b5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0117d57521234b02b867c9a8d3f1af9c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 805c6e5290c141bd95e430cf83f9c954, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a67717353b484d2aa7425294f03db0f8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 781b5a20631a4f8a924c33a2c69edf90, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b2ec3785e52498a90dff953f81f37f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 888b0bdb56704975b9caa2bb84f5eb4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 821a99364e1d4317a4e424c30db191e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e7e48cb99bb28465fb255c93761d86c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 107a17541a754455fa998dc2dc25845f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31630dd6ac2a426991c4b9155841a979, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b99c90183dc4560af29d590820f13ed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ae1489cbde7041fca8ad57d89a52f7f5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aebcd299fed14b858354b44275fa5a59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 77fce18881ec4d7ca464af261659ba58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9001892aa88446eaa3016c3319aaacf3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2da0c512f12947e489f739169773d7ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d2e67070c4a74d5c8d2a38a152f590d0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0296ae0200b24f26825e6da2b5af0ac9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7b0fca78d3144020a0d6d328919d2320, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09f87ca1a51e492c8ac9c564141e9fd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2ba194bb8854476829aa790a5a6b650, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2be1eaa1c12647b6af92c2bea1f8e94b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6f3c13d86e8b48f7b76a0d3d7c3a1b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6fc9d392aebe4d579ed51eb49e2167a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 490e3682d2aa40eabe0b045803abf6c6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bbcbd7952202d4d44a555aea5af2a351, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06088c16bfa74f76b4c42c5d151d6b9d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: SuperScrollView.ItemPrefabConfData
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphPairAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphValueRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/OnChangeEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/SelectionEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/SubmitEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/TextSelectionEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/TouchScreenKeyboardEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_23.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_46.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_81.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_63.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_progress_bg1.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_22.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_64.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_88.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_68.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_team_player_slot_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_41.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_34.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_bg_input_team_edit_require.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_14.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_crown.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_29.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_name_input_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_70.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/PopPanel/CreatPanel.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_red_s.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_select_right_night.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_1.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_49.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/PopPanel/UiPopDemoteColeader.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_search_bg1.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_26.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_s.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_right_arrow.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_green.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_tap_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_leave_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_12.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_4.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/PopPanel/SingleTeamInfo.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/PopPanel/TeamPageLock.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_member_rank2.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_search_bg2.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_33.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_clock_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/Img_btn_prop_green.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_62.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_bg_btn_team_s.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_request_other_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/PopPanel/Tip.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_51.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_53.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_team_slot_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_team_item_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/PopPanel/UiPopTeamSetLogo.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_bg_btn_red.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/PopPanel/UiPopTeamEdit.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_select_left_night.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_select_mid_night.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_request_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_18.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_60.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_capacity_brown.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/MsgSlot/OtherRequestHeart.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_team_info_panel_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/Slot/ProgressBg.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/Slot/CreateTeamInfoList.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_create_green.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/PopPanel/TeamPageMyTeam.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/PopPanel/EditPanel.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_search_delete.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_join_msg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_90.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_left_arrow.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_select_mid_light.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_21.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_team_info_mid_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_56.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_no_help.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_no_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_45.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/PopPanel/Streamername.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/UiPopTeamInfo.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/Slot/JoinMemberSlot.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_35.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_11.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_39.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_bg_btn_tip_team.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_message_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/Slot/TopBar.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_select_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/Slot/JoinPalyerSlot.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_79.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_request_green_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_17.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/Slot/SmallLoading.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_kick_out_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_select_left_light.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_28.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_demote_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/PopPanel/UiPopMikeColeader.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_25.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_select_right_light.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/Slot/TeamMemberRankSlot.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_search_show.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_73.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/PopPanel/NetworkDisconnectTip.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_unlock_logo.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_close.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/home_ic_coins.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_15.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_47.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/Slot/ShowTeam.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_59.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/PopPanel/UiPopLeaveTeam.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_capacity_green.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_40.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_pop_close.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_24.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_84.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/Slot/JoinTeamSlot.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_member_rank3.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/Slot/WaitLoading.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_help_night.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/PopPanel/UiPopTeamJoin.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/Slot/SearchItemSlot.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/Slot/MainPageTeam.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/Slot/Night.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_16.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/MsgSlot/Notice.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_tip_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/MsgSlot/MatchPassMsg.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_8.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_team_name_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_85.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_player_msg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_member_rank1.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_request_progress_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_progress_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_other_msg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/Slot/UiContainer.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_86.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_3.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_75.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_join_team_logo.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_30.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_5.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_67.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_20.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_78.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_13.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_creat_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/Slot/ShowBtnPanel.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_55.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_31.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/MsgSlot/OtherChat.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_7.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/PopPanel/UiPopKickOut.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_heart.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/PopPanel/SearchPanel.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_team_info_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_76.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_10.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_61.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_2.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_82.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/MsgSlot/Join.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_37.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_19.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_69.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_select_root_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_9.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_57.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_0.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_profession.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_54.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_77.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_required_level_Bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/MsgSlot/OwnRequestsHeart.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/Img_btn_prop_grey.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_58.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_83.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_89.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_27.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_50.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/Slot/TeamLogo.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_80.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_join_green.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_36.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_request_heart.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_44.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_66.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/PopPanel/OwnTeamInfo.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_btn_edit_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_48.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_message_logo.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_52.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_72.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_65.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_default.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_74.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_32.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_38.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/PopPanel/CreateName.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_request_own_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_team_head.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_43.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_42.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_87.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/PopPanel/ChangeName.prefab
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_71.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_team_message_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_search_num_bg.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/team_logo_6.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Sprites/img_icon_team_top.png
+- Assets/GameAssets/Local/Ui/Ui_Team/Prefabs/MsgSlot/OwnChat.prefab
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/coinandjewel
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/gameicon
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/otherlayer
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/passcheck
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_everydayreward
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_rankinglist
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_shop

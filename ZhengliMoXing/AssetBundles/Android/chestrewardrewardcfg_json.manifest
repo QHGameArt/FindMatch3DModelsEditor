@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3128983675
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6719c7843d5e1c340a4d822b0740562f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/Config/ChestRewardRewardCfg.json
+Dependencies: []

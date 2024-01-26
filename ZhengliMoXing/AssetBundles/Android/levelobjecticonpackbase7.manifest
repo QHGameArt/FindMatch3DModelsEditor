@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 596456632
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e308250a73911ec3e0a570d7a81a28ec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Strudel_01.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Fork_01.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Napoleon_Raspberry.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Napoleon_Vanilla.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Macaron_06.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Macaron_02.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Pie_Apple_Whole.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Macaron_03.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Pizza_Slice.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Tart_Lemon.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Pie_Apple_Slice.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Palmier_02.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Cannolis_04.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Fries_W.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Spoon_01.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Dango_03.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Pie_KeyLime_Slice.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Cannolis_02.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Taiyaki_01.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Tart_Raspberry.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase7/icon_obj_Dango_02.png
+Dependencies: []

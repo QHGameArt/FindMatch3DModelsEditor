@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1576557409
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 131d7bd408ccf9f94bc0fbc1a4acbf58
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/Sprite/SettingPop/Image_BgThree.png
+- Assets/GameAssets/Local/Sprite/SettingPop/Image_Gray.png
+- Assets/GameAssets/Local/Sprite/SettingPop/Image_Shake.png
+- Assets/GameAssets/Local/Sprite/SettingPop/Image_Video.png
+- Assets/GameAssets/Local/Sprite/SettingPop/Image_GreenSquare.png
+- Assets/GameAssets/Local/Sprite/SettingPop/Image_BgTwo.png
+- Assets/GameAssets/Local/Sprite/SettingPop/Image_Sound.png
+- Assets/GameAssets/Local/Sprite/SettingPop/Image_AddReport.png
+- Assets/GameAssets/Local/Sprite/SettingPop/Image_Send.png
+- Assets/GameAssets/Local/Sprite/SettingPop/Image_GraySquare.png
+- Assets/GameAssets/Local/Sprite/SettingPop/Image_SendBg.png
+- Assets/GameAssets/Local/Sprite/SettingPop/Image_Bg.png
+Dependencies: []

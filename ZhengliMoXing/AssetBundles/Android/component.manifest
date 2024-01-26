@@ -1,0 +1,192 @@
+ManifestFileVersion: 0
+CRC: 1464094283
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fc1d1b92ab2f16aa35acbfbfa7418207
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 80397420792a48b307aa106c07308bc7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9677bbe703c5a42e2b1c6aa60b0e22e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e190d043ef387ee4fad4acea6146931e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3529e14e1800647dc926255f4276c7fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03a6bb3bc63247238452255a62cb46a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b5d53fea15d429992ae572e7041ea7d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 029a1ccfe5b145b7aa64bdcb8939863b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fafe2cfe61f6974895a912c3755e8f1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aebcd299fed14b858354b44275fa5a59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 250424a18636447eeb58feaf59d29d9c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1a3a77698a6941bbae3d8c7be816acc6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09070ff3185194ffabd0cbb9d381399f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4fe36ca6afc43ee8dbd3fcab4fe4c6f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09f87ca1a51e492c8ac9c564141e9fd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89db371097ec4d8e9f99ae7a0f027172, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6f3c13d86e8b48f7b76a0d3d7c3a1b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4cbd9a905e7946168d00f86a5e148169, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ad70e2c9ba6b47d8801425a5cb2b4115, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86fff5f3cd064156a09f7f58c6d82b01, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: SuperScrollView.ItemPrefabConfData
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Toggle/ToggleEvent
+Assets:
+- Assets/GameAssets/Local/Ui/Component/Sprite/img_ic_ribbon_GF.png
+- Assets/GameAssets/Local/Ui/Component/Prafab/LevelFrontPropButton.prefab
+- Assets/GameAssets/Local/Ui/Component/Prafab/PopupBannerContainer.prefab
+- Assets/GameAssets/Local/Ui/Component/Sprite/img_pop_neadle.png
+- Assets/GameAssets/Local/Ui/Component/Sprite/img_home_time_frame.png
+- Assets/GameAssets/Local/Ui/Component/Prafab/CloseBtn.prefab
+- Assets/GameAssets/Local/Ui/Component/Prafab/ImgAngTextButton.prefab
+- Assets/GameAssets/Local/Ui/Component/FlowingLightText.prefab
+- Assets/GameAssets/Local/Ui/Component/Prafab/Timer.prefab
+- Assets/GameAssets/Local/Ui/Component/Prafab/LoopScrollView.prefab
+- Assets/GameAssets/Local/Ui/Component/Prafab/TextButton.prefab
+- Assets/GameAssets/Local/Ui/Component/Prafab/SafeTop.prefab
+- Assets/GameAssets/Local/Ui/Component/PanelSafeFooter.prefab
+- Assets/GameAssets/Local/Ui/Component/Sprite/img_home_coin_frame.png
+- Assets/GameAssets/Local/Ui/Component/Sprite/img_pop_frame.png
+- Assets/GameAssets/Local/Ui/Component/Prafab/HeartBar.prefab
+- Assets/GameAssets/Local/Ui/Component/Sprite/img_ic_clock_bg2.png
+- Assets/GameAssets/Local/Ui/Component/Sprite/img-ic_B.png
+- Assets/GameAssets/Local/Ui/Component/Container.prefab
+- Assets/GameAssets/Local/Ui/Component/BackGround.prefab
+- Assets/GameAssets/Local/Ui/Component/Sprite/Img_toggle_Bg.png
+- Assets/GameAssets/Local/Ui/Component/Sprite/img_btn-hui.png
+- Assets/GameAssets/Local/Ui/Component/Sprite/img_ic_clock_l.png
+- Assets/GameAssets/Local/Ui/Component/RewardsItemText_Black.prefab
+- Assets/GameAssets/Local/Ui/Component/Sprite/img_pop_btn_close1.png
+- Assets/GameAssets/Local/Ui/Component/Sprite/home_ic_coin.png
+- Assets/GameAssets/Local/Ui/Component/Sprite/img_pop_bg1.png
+- Assets/GameAssets/Local/Ui/Component/Sprite/img_ic_ribbon_B.png
+- Assets/GameAssets/Local/Ui/Component/Prafab/ActivityBtn.prefab
+- Assets/GameAssets/Local/Ui/Component/Prafab/CoinBar.prefab
+- Assets/GameAssets/Local/Ui/Component/Sprite/img_toggle_bg2.png
+- Assets/GameAssets/Local/Ui/Component/PanelSafeHeader.prefab
+- Assets/GameAssets/Local/Ui/Component/Sprite/img-ic_C.png
+- Assets/GameAssets/Local/Ui/Component/RewardsItem_WeeklyChenge.prefab
+- Assets/GameAssets/Local/Ui/Component/Sprite/home_icon_circle_man.png
+- Assets/GameAssets/Local/Ui/Component/Sprite/img_ic_ribbon_GB.png
+- Assets/GameAssets/Local/Ui/Component/Prafab/SafeBottom.prefab
+- Assets/GameAssets/Local/Ui/Component/Sprite/img_ic_clock_bg.png
+- Assets/GameAssets/Local/Ui/Component/Sprite/img_pop_tile_frame.png
+- Assets/GameAssets/Local/Ui/Component/Sprite/img_btn_claim.png
+- Assets/GameAssets/Local/Ui/Component/Sprite/img_btn_add.png
+- Assets/GameAssets/Local/Ui/Component/RewardsItem.prefab
+- Assets/GameAssets/Local/Ui/Component/Sprite/img_ic_ribbon_F.png
+- Assets/GameAssets/Local/Ui/Component/Sprite/img_icon_heart_s.png
+- Assets/GameAssets/Local/Ui/Component/Prafab/UIContainRoot.prefab
+- Assets/GameAssets/Local/Ui/Component/Sprite/Img_close_btn.png
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/gameicon
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/gameitemicon
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/gamepanel11
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_cuptournament
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_main
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/uipop
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/weeklycollenge

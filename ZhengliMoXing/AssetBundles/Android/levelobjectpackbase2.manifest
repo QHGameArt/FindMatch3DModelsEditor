@@ -1,0 +1,142 @@
+ManifestFileVersion: 0
+CRC: 1576866096
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 253c2a672ef094537dc080365e9a91df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_kettle.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_lemon.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_giraffe.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_hat.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_leaf.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_hen.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Texture/bread.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_hat.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_ink.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_lipstick.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_frog.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/Materials/lambert1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_fox.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_fan.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_fork.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_ladybug.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_jewel.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_hamburger.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_house.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Materials/New Material.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_kiwi.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/Materials/hambuger_2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Materials/Ham.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_fork.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_guitar.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_ink.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_kleenex.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_garlic.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_heart.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_goldCoinBag2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/Materials/bread.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_football.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_jewel.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_garlic.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Materials/HighLight.shader
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_grape.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_heart.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_helmet.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_lamp.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_igloo.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_ham.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Materials/ladybug.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_fly.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_goldCoinBag1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_football.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Materials/GrayFade.shader
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_log.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_horse.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_giraffe.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_juice.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_leopard.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_giftbox.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_fish.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_horse.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_letter.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Texture/tx_ladybug.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_goldCoinBag1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_lemon.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_fly.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_ham.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_kiwi.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_igloo.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_guitar.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_lesserPanda.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_letter.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_leopard.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_leaf.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_house.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_hamburger.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_kleenex.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_fish.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_grape.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_hippo.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_lamp.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_helmet.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_log.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_harp.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_ice.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_key.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_fan.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_jar.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_lipstick.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_harp.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_key.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_juice.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_icecream.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Texture/humburger.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_hen.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_ice.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_goldCoinBag2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_fox.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_hippo.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Materials/Custom_HighLight.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_giftbox.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_lesserPanda.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_ladybug.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_frog.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_ghost.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/model_jar.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_kettle.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Fbx/Materials/hamburger.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_ghost.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase2/Prefab/obj_icecream.prefab
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectpack3_toonfood
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectpackbase1

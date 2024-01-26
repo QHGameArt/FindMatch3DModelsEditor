@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 57514854
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b1fe63d70ca8b076087fad45193aa08
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack5_ToonItems2/icon_obj_bell.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack5_ToonItems2/icon_obj_dumbbell.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack5_ToonItems2/icon_obj_eighthNote.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack5_ToonItems2/icon_obj_sawBlade.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack5_ToonItems2/icon_obj_honeyJar.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack5_ToonItems2/icon_obj_battery.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack5_ToonItems2/icon_obj_singleBarNote.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack5_ToonItems2/icon_obj_dinosaurEgg.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack5_ToonItems2/icon_obj_scroll.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack5_ToonItems2/icon_obj_basketball.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack5_ToonItems2/icon_obj_gear.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack5_ToonItems2/icon_obj_globe.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack5_ToonItems2/icon_obj_jigsaw.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack5_ToonItems2/icon_obj_meteor.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack5_ToonItems2/icon_obj_woodCrate.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack5_ToonItems2/icon_obj_cloud.png
+Dependencies: []

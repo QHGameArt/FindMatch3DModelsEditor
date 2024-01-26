@@ -1,0 +1,132 @@
+ManifestFileVersion: 0
+CRC: 2268612388
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e51a86741f6fd26bdeeac9f777d69ac5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 42f566158f880126ce33a29fed17644a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9677bbe703c5a42e2b1c6aa60b0e22e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec815e6bac3c3477d9c4bfe59a4c0c0a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b41a97c0989c4b2b8a384aaf2826c566, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6bdb4a3a37d40198c5bab804c364c08, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89db371097ec4d8e9f99ae7a0f027172, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dd2fcb3fd6b574e5889f5a9cec727483, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/img_icon_giftbox2.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/Halloween/img_icon_box_endless_treasure_halloween_1.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/Halloween/img_bg_slot_endless_halloween.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/img_pop_lock_open_ba.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/Christmas/img_icon_endless_treasure_christmas_main.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/Christmas/img_icon_box_endless_treasure_christmas_4.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Prefabs/EndlessBuyBackItem.prefab
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/Christmas/img_icon_box_endless_treasure_christmas_5.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/Halloween/img_icon_box_endless_treasure_halloween_2.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Prefabs/EndlessBoxItem.prefab
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/img_icon_giftbox5.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Prefabs/ActivityBtnEndlessBuy.prefab
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/Christmas/img_icon_box_endless_treasure_christmas_1.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Prefabs/UiPopEndlessBuy.prefab
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/Christmas/img_bg_theme_endless_pop_christmas.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/Christmas/img_bg_slot_endless_christmas_green.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/EndlessThemeHalloween.asset
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/img_bg1.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/Halloween/img_icon_box_endless_treasure_halloween_4.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/img_pop_lock_open_suoxin.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/img_direction.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Lack.controller
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/img_pole.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Lack.anim
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/guandao.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/Christmas/img_bg_slot_endless_christmas_red.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/Christmas/img_icon_box_endless_treasure_christmas_3.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/Halloween/img_bg_theme_endless_pop_halloween.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/Halloween/img_icon_box_endless_treasure_halloween_3.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/img_icon_giftbox3.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/img_pop_bg5.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/Halloween/img_icon_endless_treasure_halloween_main.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/Halloween/img_icon_box_endless_treasure_halloween_5.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/Christmas/img_bg_pipe_endless_pop_christmas.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/img_icon_giftbox1.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/img_btn_bg.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/Christmas/img_icon_box_endless_treasure_christmas_2.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/Halloween/img_bg_pipe_endless_pop_halloween.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/img_icon_soldout.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/Sprites/img_icon_giftbox4.png
+- Assets/GameAssets/Local/Ui/EndlessBuy/EndlessThemeChristmas.asset
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/root
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_shop
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/weeklycollenge

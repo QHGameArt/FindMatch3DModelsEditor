@@ -1,0 +1,237 @@
+ManifestFileVersion: 0
+CRC: 3666518026
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e6ce2ddf7177569707a875cc41d7a2ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3b18542ce7a97fc814280626343ab917
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b43a128fa98f4531af93dbaa5f3e6b8d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73e8c0460820744e4acc4b88c3766d3d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4b7689793408f43ef88d31a552a50663, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 19d232f5b6ad482e9f226f822edad4e0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3529e14e1800647dc926255f4276c7fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ee59dc1b56434fac9a4853e5f80ce193, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a371373a16ce41d8867adfa14d1093e1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1b7b3945e6142fc9c4604058fd639ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8bda6f7c06fd4c5eb4bb82e3a1552bb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5bb637b117824f06846d2ae1ba797675, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a42c95515e40c4efcaf3d45eb3040ef6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef1cec1958f74c5586891121e681e8af, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2050a3e957b94caf8810a51522809886, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89db371097ec4d8e9f99ae7a0f027172, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e58d5762aebf428cb8cbd96a6d58260c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: db68ecc5e06d45d3ab59f27b514d0214, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15fb8968943f84a508f42ac1984f75a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bbcbd7952202d4d44a555aea5af2a351, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Slider/SliderEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.BlendModeMaterials
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.MeshGenerator
+- AssemblyName: spine-unity
+  ClassName: Spine.Unity.MeshGenerator/Settings
+Assets:
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Prefabs/UnderseaTreasureChest.prefab
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_bg_undersea_sand_grid.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_box_undersea_treasure_l_2.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_shovel2.png
+- "Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Undersea/\u56FE\u5C42
+  48 - \u667A\u80FD\u5BF9\u8C61\u7EC4 \u62F7\u8D1D.json"
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Prefabs/ActivityBtnUnderseaTreasure.prefab
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_bg_treasure_progress_undersea_popup.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Prefabs/UiPopupActivityUnderseaTreasure.prefab
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_box_undersea_treasure_s_close_4.png
+- "Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Undersea/\u6D77\u5E95\u8239\u823162.png"
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_bg_container_undersea_offer.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_box_undersea_treasure_s_close_1.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_undersea_treasure_offer_main.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/Profile/img_profile_undersea_treature_2.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_post_undersea_treasure_pop.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Prefabs/UiPopOfferUnderseaTreasure.prefab
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_box_undersea_treasure_l_5.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_light_undersea_shovel.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_box_undersea_treasure_s_close_5.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Prefabs/UiPopActivityUnderseaTreasureStart.prefab
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/Profile/img_profile_undersea_treature_3.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Prefabs/GuideHandAni1.anim
+- "Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Undersea/\u6D77\u5E95\u8239\u82316_Material.mat"
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_tile_sand.png
+- "Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Undersea/\u56FE\u5C42
+  48 - \u667A\u80FD\u5BF9\u8C61\u7EC4 \u62F7\u8D1D_Atlas.asset"
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_bg_content_items_banner_darkblue.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_box_undersea_treasure_s_open_2.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_box_undersea_treasure_s_open_3.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_pearl.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_bg_banner_undersea_treasure.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_ribbon_title_undersea_treasure_pop.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_box_undersea_treasure_s_close_2.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_post_undersea_treasure_popup_start.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_box_undersea_treasure_s_open_1.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_box_undersea_treasure_s_close_3.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_frame_pop_container_grid.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_endless_undersae_offer.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_box_undersea_treasure_s_open_5.png
+- "Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Undersea/\u6D77\u5E95\u8239\u82316.atlas.txt"
+- "Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Undersea/\u6D77\u5E95\u8239\u82316.json"
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_bg_content_items_pop_tangerine.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_frame_pop_tangerine.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_bg_label_undersea_s_popup.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_slider_fill_undersea_treasure_progress.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_post_undersea_treasure_popup_finish.png
+- "Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Undersea/\u6D77\u5E95\u8239\u82316.png"
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_slider_fill_undersea_key_progress.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_bg_btn_popup_undersea_start.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Prefabs/GuideHand.controller
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_arrow_profile_yellow.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_shovel.png
+- "Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Undersea/\u56FE\u5C42
+  48 - \u667A\u80FD\u5BF9\u8C61\u7EC4 \u62F7\u8D1D.atlas.txt"
+- "Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Undersea/\u56FE\u5C42
+  48 - \u667A\u80FD\u5BF9\u8C61\u7EC4 \u62F7\u8D1D.png"
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/Profile/img_profile_undersea_treature_4.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_undersea_treasure.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Prefabs/ChestHint.prefab
+- "Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Undersea/\u56FE\u5C42
+  48 - \u667A\u80FD\u5BF9\u8C61\u7EC4 \u62F7\u8D1D_Material.mat"
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_box_undersea_treasure_l_4.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_bg_title_undersea_popup.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_slider_bg_undersea_treasure_progress.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_bg_popup_undersea.png
+- "Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Undersea/\u56FE\u5C42
+  48 - \u667A\u80FD\u5BF9\u8C61\u7EC4 \u62F7\u8D1D_SkeletonData.asset"
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_box_undersea_treasure_l_1.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_bg_slider_undersea_treasure_popup.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_bg_pop_undersea_offer.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/Profile/img_profile_undersea_treature_title.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_box_undersea_treasure_s_open_4.png
+- "Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Undersea/\u6D77\u5E95\u8239\u82316_SkeletonData.asset"
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/Profile/img_profile_undersea_treature_1.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_bg_tile_popup_undersea.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Prefabs/ActivityBtnUnderseaOffer.prefab
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_bg_container_prop_undersea_treasure.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Prefabs/ShopBundleUnderseaTreasureSlot.prefab
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_box_undersea_treasure_l_3.png
+- "Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Undersea/\u6D77\u5E95\u8239\u82316_Atlas.asset"
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_btn_open_undersea_treasure_popup.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_cursor_undersea_popup.png
+- Assets/GameAssets/Local/Ui/Ui_Activity_UnderseaTreasure/Sprites/img_icon_undersea_chest_key.png
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/coinandjewel
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/gameicon
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/heartbankpop
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectpackbase2
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/passcheck
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/root
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/spacemission
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/tutorials
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_shop

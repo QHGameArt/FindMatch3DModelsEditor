@@ -1,0 +1,68 @@
+ManifestFileVersion: 0
+CRC: 3929342908
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6ee3b183d153089718bed8dc9b2f2191
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_macaron4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_eighthNote4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_macaron3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_birdToy4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_candy13.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_lobsterToy6.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_donut6.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_birdToy3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_candy16.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_lobsterToy3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_jigsaw2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_dinosaurEgg5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_donut7.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_tube1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_fuelCan3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_lobsterToy4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_dinosaurEgg3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_eighthNote5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_octopus2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_dinosaurEgg1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_tube2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_octopus4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_macaron2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_dinosaurEgg2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_fuelCan1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_lobsterToy5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_candy14.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_jigsaw4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_tube4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_dinosaurEgg4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_fuelCan5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_tube3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_eighthNote2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_octopus3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_eighthNote3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_jigsaw3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_jigsaw1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_donut8.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_fuelCan4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_candy12.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_donut4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_macaron5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_jigsaw5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_macaron1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_candy15.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_lobsterToy2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_fuelCan2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_donut5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_eighthNote1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack16_Variation2/icon_obj_tube5.png
+Dependencies: []

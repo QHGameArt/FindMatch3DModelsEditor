@@ -1,0 +1,84 @@
+ManifestFileVersion: 0
+CRC: 2439257653
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1b0a6f35c8dc44b118458b414969faaa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_58.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_63.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_56.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_44.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_30.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_20.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_41.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_34.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_12.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_66.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_17.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_21.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_50.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_35.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_59.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_53.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_32.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_13.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_55.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_23.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_24.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_48.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_67.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_62.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_64.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_38.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_28.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_42.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_9.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_46.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_27.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_18.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_29.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_52.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_45.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_49.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_39.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_15.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_14.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_65.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_11.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_61.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_16.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_31.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_33.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_60.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_7.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_36.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_37.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_19.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_40.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_54.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_6.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_22.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_47.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_10.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_26.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_8.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_43.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_51.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackEgg4/icon_obj_NewEgg1_25.png
+Dependencies: []

@@ -1,0 +1,133 @@
+ManifestFileVersion: 0
+CRC: 1779041126
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f692640931c3f7d86e9141681ff953c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_frenchBread.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_iceCreamCone.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/Cupcake_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/bread.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_sandwich.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_pretzel.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_cupCake.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_macaron.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_muffin.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_sandwich.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/Macaron_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/croissant.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_cheese.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_iceCreamCone.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_macaron.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/bread.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_ChickenLeg_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_Gingerbread_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/FriedEgg_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_FrenchBread_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_Hotdog_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_bacon.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/FrenchBread_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_croissant.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_frenchFries.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/muffin.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/Sandwich_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/Bread_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_donut.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_pancake.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_cheese.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_friedEgg.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/Pie_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_Cheese_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/Gingerbread_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_pancake.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/bacon.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/frozenYogurt.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_Macaron_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_ramen.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_chickenLeg.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_ramen.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_muffin.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_pancakes.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_Pretzel_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_donut.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_hotdog.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_bread.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_pancakes.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_iceCreamCone.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/Pretzel_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_frozenYogurt.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_pancake.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_pancakes.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_ramen.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_bacon.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_bacon.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_frozenYogurt.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/Cheese_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/Cookie_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_chickenLeg.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_FriedEgg_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/pancake.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/ramen.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_pretzel.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/iceCreamCone.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/sandwich.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_Bread_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/Croissant_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_frenchFries.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_Pie_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_gingerbread.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_frozenYogurt.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_Sandwich_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/Hotdog_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_Croissant_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_Cupcake_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_frenchFries.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_cookie.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_Donut_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_muffin.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/frenchBread.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_cupCake.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_friedEgg.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_hotdog.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_Croissant.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/Donut_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Texture/tx_Cookie_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_bread.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_gingerbread.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_pie.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_frenchBread.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Prefab/obj_cookie.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/ChickenLeg_Albedo.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/Materials/frenchFries.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack3_ToonFood/Fbx/model_pie.fbx
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat

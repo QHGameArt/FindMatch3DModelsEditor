@@ -1,0 +1,193 @@
+ManifestFileVersion: 0
+CRC: 1660639980
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30041bd9349978fffabd083aeef4ca70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_firstAidKit2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_steakKnife.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/soupLadle.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_compass.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/fireAxe.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/fish3.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/matchbox.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/tape2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_binoculars4.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_binoculars3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_Shovel_A_A.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_fish2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_walkieTalkie1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/match_3d_color_palette_unity_2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_telescope2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_chopperButcherKnife.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_shovel.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_survivalBag1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_Compass_A_A.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/walkieTalkie2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_Binoculars2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_walkieTalkie2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/log1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_medicalPil2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/medicalPil2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_binoculars4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_fish4.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_survivalBag1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_fish2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/survivalBag1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_barrelMetal1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_firstAidKit2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/hammer3.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_meat2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/steakKnife.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_hammer1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/hammer1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_tape1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_log1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_meat2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_telescope2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_survivalBag2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_medicalPil2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_Pan_A_A.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_matchbox.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_hammer2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_walkieTalkie2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_fish3.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_firstAidKit1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/fish2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/flashlight1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_meat1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_binoculars2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_barrelMetal2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_fish3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_telescope1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/Binoculars1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_hammer1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_pickaxe.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_matchbox.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/hammer2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/Binoculars4.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_steakKnife.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/anvil1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_binoculars1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_flashlight1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_hammer1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_Binoculars1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_hammer3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_chopperButcherKnife.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_soupLadle.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_axe1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_flashlight1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_survivalBag2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_soupLadle.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_meat2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/telescope2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_tape2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_log1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_anvil1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/survivalBag2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_chopperButcherKnife.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_medicalPil2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/pickaxe.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_binoculars2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/chopperButcherKnife.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/Shovel_A_A.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_anvil1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_binoculars3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_pickaxe.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/medicalPil1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_compass.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_barrelMetal2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_steakKnife.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_survivalBag2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_telescope1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_fish4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_firstAidKit1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_hammer2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_medicalPil1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_telescope2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_hammer3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_walkieTalkie1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_shovel.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/Compass_A_A.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/firstAidKit1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_fireAxe.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/meat1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_matchbox.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_walkieTalkie1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/firstAidKit2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/meat2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/telescope1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_fireAxe.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_firstAidKit2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/Pan_A_A.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_meat1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/Binoculars2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_fish4.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_tape2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_axe1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_pan.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_Binoculars4.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_telescope1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_fish2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_hammer3.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_soupLadle.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_tape1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_binoculars1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_Binoculars3.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_flashlight1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/barrelMetal1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_log2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_survivalBag1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/fish4.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_axe1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_anvil1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/axe1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_pan.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_meat1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_barrelMetal2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_medicalPil1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_fish3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/log2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Texture/tx_fireAxe.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/walkieTalkie1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/tape1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_walkieTalkie2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/barrelMetal2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_log2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_pickaxe.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_log2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_tape2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/Materials/Binoculars3.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Fbx/model_hammer2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack12_SurvivalAsset/Prefab/obj_barrelMetal1.prefab
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat

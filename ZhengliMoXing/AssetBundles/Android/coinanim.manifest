@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 1049234517
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb6195eff8b2ac6f584dd808624ab682
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2b49fbf0a7000fa47aedea4ff1e31113
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF2.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF17.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF12.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF24.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF16.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF6.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF21.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF7.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF5.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF18.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF29.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF9.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF20.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/ItemIcon.controller
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF1.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF28.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF13.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF10.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF27.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF14.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF4.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF19.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF3.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF22.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF11.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF15.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF26.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAnim.anim
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF23.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF25.png
+- Assets/GameAssets/Local/Ui/OtherLayer/Sprite/CoinAnim/CoinAniF8.png
+Dependencies: []

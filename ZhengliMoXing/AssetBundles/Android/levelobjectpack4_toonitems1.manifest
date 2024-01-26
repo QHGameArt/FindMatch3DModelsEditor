@@ -1,0 +1,84 @@
+ManifestFileVersion: 0
+CRC: 4096244669
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b656c4f1861ddcd2fbff97190af33e06
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/model_thunder.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/Materials/woodBarrel.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Prefab/obj_diamond3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Prefab/obj_magnifyingGlass.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Texture/tx_wrench.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Texture/tx_Crown_BaseColor.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Texture/tx_Milk_BaseColor.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/Materials/MagnifyingGlass_BaseColor.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Prefab/obj_laserGun.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Texture/tx_TrafficCone_BaseColor.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Prefab/obj_crown.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Texture/tx_diamond3.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Texture/tx_woodBarrel.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/Materials/WoodBarrel_BaseColor.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Texture/tx_diamond2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/model_wrench.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/Materials/Milk_BaseColor.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/Materials/LaserGun_BaseColor.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/model_trafficCone.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/Materials/wrench.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/model_woodBarrel.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Prefab/obj_milk.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Texture/tx_Thunder_BaseColor.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Texture/tx_MagnifyingGlass_BaseColor.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Texture/tx_LaserGun_BaseColor.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/Materials/lightning.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/model_magnifyingGlass.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/Materials/TrafficCone_BaseColor.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Texture/milk.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/Materials/diamond1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/Materials/Thunder_BaseColor.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Prefab/obj_trafficCone.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/Materials/Crown_BaseColor.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Prefab/obj_thunder.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Prefab/obj_woodBarrel.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/Materials/milk.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/model_laserGun.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Prefab/obj_wrench.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Prefab/obj_diamond1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/model_diamond3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Texture/tx_lightning.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Texture/tx_diamond1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/model_milk.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/Materials/diamond3.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/model_crown.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Fbx/Materials/diamond2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack4_ToonItems1/Prefab/obj_diamond2.prefab
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat

@@ -1,0 +1,100 @@
+ManifestFileVersion: 0
+CRC: 603256238
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b9e93a51a1356b50a7e4cf202b70530b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 04c6ddc8b4baf362e043abba4dd0f3b1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6966d9c1abf438e8c65a714f59e3dfc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59eb706ce1514561bdad81b0dfddf54f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89db371097ec4d8e9f99ae7a0f027172, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_pop_heart_l.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_dailyrewards_day7.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_pop_btn_close1.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Prefab/EveryDayRewardPanel.prefab
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Prefab/ActivityDailyRewardButton.prefab
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_giftbox.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_pop_onetenth.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_pop_snowflake_xl.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_giftbox1.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_pop_fan.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_coins.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_pop_bg.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_dailyrewards_day7_sign.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_dailyrewards_day7_notsign.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_pop_lamp3.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_kou.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_home_time_frame_ok.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_pop_return_l.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_coin.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_dailyrewards_notsign.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_home_time_frame.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_frame.png
+- Assets/GameAssets/Local/Ui/UI_EveryDayReward/Sprite/img_dailyrewards_sign.png
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/heartnotenoughpop

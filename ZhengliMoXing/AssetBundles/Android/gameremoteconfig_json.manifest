@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3303820191
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a49ea66eb81b891f2ef4372ed5e2a79
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Remote/Config/GameRemoteConfig.json
+Dependencies: []

@@ -1,0 +1,89 @@
+ManifestFileVersion: 0
+CRC: 3661345633
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 728081324c1017d58a427dbc7024e3bd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2a1e00a6bd70ce6a02725257718ea5da
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/Materials/wineBottle.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/model_dustbin.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/model_chickenBone.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Texture/tx_wineBottle.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Prefab/obj_waterBottle2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Prefab/obj_wineBottle.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Prefab/obj_sodaCan.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Texture/tx_sodaCan.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Prefab/binOpen.anim
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/model_garbageBag.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Prefab/obj_bottle.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/model_waterBottle2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/Materials/dustbin.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/Materials/sodaCan.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Prefab/obj_waterMelonPeel.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/model_eatenApple.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Texture/tx_waterBottle.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/model_bananaPeel.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/model_sodaCan.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/model_bottle.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Prefab/obj_fishBone.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Texture/tx_fishBone.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Texture/tx_eatenApple.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Prefab/obj_chickenBone.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/Materials/fishBone.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Prefab/dustbin
+  1.controller
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Prefab/obj_bananaPeel.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/model_fishBone.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Texture/tx_CollectingItemsTex1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/Materials/CollectingItemsTex1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Texture/tx_dustbin.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Prefab/obj_waterBottle.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/Materials/waterBottle2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/Materials/bananaPeel.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/Materials/garbageBag.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/Materials/waterBottle.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Texture/tx_waterBottle2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/Materials/eatenApple.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Texture/tx_chickenBone.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Prefab/obj_eatenApple.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Texture/tx_garbageBag.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/Materials/chickenBone.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Texture/tx_bananaPeel.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Prefab/obj_garbageBag.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Prefab/obj_dustbin.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/model_wineBottle.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack8_LowpolyGarbage/Fbx/model_waterMelonPeel.fbx
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat

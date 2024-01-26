@@ -1,0 +1,175 @@
+ManifestFileVersion: 0
+CRC: 1224021607
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f22abbbfd8d18a1f250076222b7162db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_tube5.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_jigsaw2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_donut5.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_donut8.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_dinosaurEgg3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_candy16.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_octopus2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_FuelCan1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_lobsterToy2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_octopusTexture.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_Tube3.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_lobsterToy3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/eightNotePlusJigsaw.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/FuelCan4.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_eighthNote3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_lobsterToy6.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_birdToy4.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/macaron4.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_donut4.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_candy12.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_donut7.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/DinosaurEgg5.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_DinosaurEgg1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_jigsaw3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_jigsaw5.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_eighthNote5.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/DinosaurEgg1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_jigsaw4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_dinosaurEgg1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_lobsterToy4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_macaron4.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_jigsaw4.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_macaron4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_donut5.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_candy16.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/Toys_TextureAtlas.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_fuelCan1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_lobsterToy2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_fuelCan2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_eighthNote3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_octopus4.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_FuelCan3.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_junkFoodAtlas2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_FuelCan2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/PetSupplies_TextureAtlas.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/DinosaurEgg3.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_birdToy3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/Tube4.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_fuelCan5.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_tube1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_donut7.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_Tube5.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/Tube2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/Tube5.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_dinosaurEgg4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_dinosaurEgg5.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_Tube4.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_jigsaw1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/octopusTexture.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_jigsaw1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_donut4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_macaron2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_tube4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_fuelCan3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_octopus2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_macaron2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_octopus3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_fuelCan3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_octopus3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_candy12.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_macaron5.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_jigsaw2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_tube5.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_eighthNote4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_lobsterToy5.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_jigsaw5.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/FuelCan5.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_donut6.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/DinosaurEgg2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_candy15.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_tube2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/Tube1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_eighthNote4.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/macaron5.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_eighthNote5.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_birdToy4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_eighthNote2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_DinosaurEgg2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_PetSupplies_TextureAtlas.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/macaron1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_tube3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_FuelCan5.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_DinosaurEgg3.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/FuelCan3.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_fuelCan5.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/FuelCan2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/junkFoodAtlas2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_Toys_TextureAtlas.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_eighthNote1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_donut6.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_fuelCan4.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_macaron3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_donut8.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_fuelCan1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_jigsaw3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_Tube1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_candy14.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_dinosaurEgg2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_lobsterToy5.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_macaron3.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_dinosaurEgg5.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/Tube3.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_eightNotePlusJigsaw.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/DinosaurEgg4.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_macaron5.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_fuelCan4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_lobsterToy3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_candy14.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/macaron3.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/macaron2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_fuelCan2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_DinosaurEgg4.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_macaron5.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_Tube2.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_lobsterToy6.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_candy13.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_octopus4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_candy15.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Materials/FuelCan1.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_macaron1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_eighthNote1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_eighthNote2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_macaron1.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_FuelCan4.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Prefab/obj_candy13.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Texture/tx_DinosaurEgg5.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_birdToy3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack16_Variation2/Fbx/model_lobsterToy4.fbx
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat

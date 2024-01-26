@@ -1,0 +1,209 @@
+ManifestFileVersion: 0
+CRC: 982818650
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb2106a0a903d4a76e0b4a9a40df7f66
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75ed116e9174d4adc6bbad9f201e8778
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2180feb02edf41e3a463d445effab787, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9677bbe703c5a42e2b1c6aa60b0e22e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ba0ca57d74f61438dbd0a4f39c58a360, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bddc7c621df349cda1da9b2d8e4c180d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b594231192694cf8b97a50add9c2dbfc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed92bc34274d4ae9b7f7289c7f0edc50, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dee96550a93044fb810f9f9187a500b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22c268e4ccb44212838e184fd77dae81, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89db371097ec4d8e9f99ae7a0f027172, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8d499992dc7b4dcfb199a3aac2dc9b6c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a92b2c9299904d1ca34c2a292f9226fc, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_main_rocket2.png
+- Assets/GameAssets/Local/Ui/SpaceMission/animals/Head_10.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_mission1_white.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_rocket1_bg.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_base.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_rocket2_details.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_game3_box.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_big_chest3_open.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_spaceship1_blue.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_big_chest2_open.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_mission3_green.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_rocket2_bg1.jpg
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_big_chest2_close.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_smallchest2.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Prefabs/UiPopSpaceMissionStart.prefab
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_rank2.png
+- Assets/GameAssets/Local/Ui/SpaceMission/animals/Head_1.png
+- Assets/GameAssets/Local/Ui/SpaceMission/animals/Head_6.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_lose_rocket3.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_mission_start.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_big_chest1_open.png
+- Assets/GameAssets/Local/Ui/SpaceMission/animals/Head_3.png
+- Assets/GameAssets/Local/Ui/SpaceMission/animals/Head_11.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_rocket_green.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_mission3_white.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Prefabs/SpaceMissionChest.prefab
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_game1_move.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_rank1.png
+- Assets/GameAssets/Local/Ui/SpaceMission/animals/Head_12.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_rocket1_bg1.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Prefabs/Rod.prefab
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_game_rule3.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Prefabs/ActivityBtnSpaceMission.prefab
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_btn_levelRace_bottom.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_game_winner.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_spaceship3_blue.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_rocket1_details.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_rank4.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Prefabs/IconRoot.controller
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_mission2_green.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_smallchest3.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_spaceship2_blue.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_title_long.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_badge_small.png
+- Assets/GameAssets/Local/Ui/SpaceMission/animals/Head_14.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_finished.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_mission2_white.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_rocket3_winner.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_game2_icon.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_big_chest1_close.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_smallchest1.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_lose_rocket1.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_moon.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_title_start.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_mask.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_game1_box.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_yellow_arrow.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_game1_icon.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_game1_bubble.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_mission_over.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_spaceship3_red.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_yellow_arrow1.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Prefabs/UserRocket1.prefab
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_lose_rocket2.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_rocket3_bg.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Prefabs/UiPopSpaceMissionRocket.prefab
+- Assets/GameAssets/Local/Ui/SpaceMission/animals/Head_4.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_game2_frame.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_purple2.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Prefabs/SpaceMissionAnim.anim
+- Assets/GameAssets/Local/Ui/SpaceMission/animals/Head_5.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_spaceship2_red.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_rocket3_details.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_splite_end.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Prefabs/RacePropRocket.prefab
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_reward_box.png
+- Assets/GameAssets/Local/Ui/SpaceMission/animals/Head_13.png
+- Assets/GameAssets/Local/Ui/SpaceMission/animals/Head_9.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_rank5.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_main_rocket1.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_badge_big.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_congratulations.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_mission1_green.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_bar_green.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_purple1.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Prefabs/SpaceMissionGuide.prefab
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_game2_box.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_split_bar.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_game_rule2.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_start_purple.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_rank3.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_bar_dark.png
+- Assets/GameAssets/Local/Ui/SpaceMission/animals/Head_8.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_game_rule1.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Prefabs/UiPopSpaceMissionFinish.prefab
+- Assets/GameAssets/Local/Ui/SpaceMission/Prefabs/UserRocket.prefab
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_rocket_white.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_big_chest3_close.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_rod.png
+- Assets/GameAssets/Local/Ui/SpaceMission/animals/Head_7.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_main_rocket3.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_mars.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_rocket2_bg.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_purple3.png
+- Assets/GameAssets/Local/Ui/SpaceMission/animals/Head_2.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_spaceship1_red.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_title_text.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_game3_icon.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_rocket3_bg1.png
+- Assets/GameAssets/Local/Ui/SpaceMission/Sprites/img_icon_saturn.png
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/root
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_chest
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/uipop

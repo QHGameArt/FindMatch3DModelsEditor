@@ -1,0 +1,87 @@
+ManifestFileVersion: 0
+CRC: 672955598
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0bece5d35ed91b1b95fcd59dbd3bbe0d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/Materials/merge3D_game_eggs_color.mat
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack60.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack74.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Texture/tx_eggs_color.png
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack76.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack82.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack75.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack84.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack58.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack83.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack63.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack87.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack62.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack61.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack59.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack76.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack75.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack65.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack80.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack64.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack87.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack66.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack80.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack77.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack83.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack88.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Texture/tx_billiards_color.png
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack59.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/Materials/merge3D_game_billiards_color.mat
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack84.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack61.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack78.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack65.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack82.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack86.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack63.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack79.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack85.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack64.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack81.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack73.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack77.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack78.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack86.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack74.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack81.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack62.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack60.prefab
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Fbx/model_Eggpack79.fbx
+- Assets/GameAssets/Local/LevelObjects/GameEggPack/LevelObjectPackEgg2/Prefab/obj_EggPack85.prefab
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat

@@ -1,0 +1,106 @@
+ManifestFileVersion: 0
+CRC: 2203630284
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53a88da1594aaea19c74ae027cf49aa6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e8c56440a31beaf2b1429292db7ae916
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_pea.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_number2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_pumpkin.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_octopus.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_octopus.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_mouse.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_potionRed.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_piano.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_orange.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_number6.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_newspaper.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_number8.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_moon.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_number3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_pizza.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_number0.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_note.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_newspaper.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_number2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_monkey.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_moon.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_monitor.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_megaphone.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_note.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_pen.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_planet.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_potionRed.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_pig.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_piano.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_pig.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_pencil.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_mushroom.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_panda.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_number6.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_onion.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_orange.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_number5.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_number9.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_potionBlue.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_panda.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_number4.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_number0.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_nut.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_pea.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_pumpkin.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_pizza.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_number3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_nut.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_potionBlue.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_number9.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_onion.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_number1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_number5.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_megaphone.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_mike.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_number7.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_monkey.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_mouse.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_magnet.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_owl.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_number7.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_number8.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_owl.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_mike.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_number1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_monitor.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_magnet.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Fbx/model_mushroom.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_number4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_pencil.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_planet.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase3/Prefab/obj_pen.prefab
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectpackbase1

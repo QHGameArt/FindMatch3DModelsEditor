@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1087642459
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ae04a95091692cf398eddae3c28ada69
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack2_Baby/icon_obj_octopus1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack2_Baby/icon_obj_bunny1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack2_Baby/icon_obj_turtle1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack2_Baby/icon_obj_sheep2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack2_Baby/icon_obj_rhino1.png
+Dependencies: []

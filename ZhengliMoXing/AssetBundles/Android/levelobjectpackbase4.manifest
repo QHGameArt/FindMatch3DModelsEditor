@@ -1,0 +1,110 @@
+ManifestFileVersion: 0
+CRC: 2317990114
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4f5189cb05f451b74817793c38162435
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_skull.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_sheep.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_rainbow.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Texture/tx_questionBox.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_table.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_smartphones.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_sheep.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_star.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_radio.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_table.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_scissors.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_robot.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_top.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_treasureChest.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_quail.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_ring.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_rose.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_tambourine.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_tank.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_rose.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_questionMark.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_scooter.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_trophy.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_smartphones.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_tambourine.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_trophy.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_shark.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_shield.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_shield.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_trumpet.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_tiger.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_spider.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_tree.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_rocket.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_rainbow.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_robot.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_shoes.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_tree.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_rabbit.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_rabbit.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_spoon.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_treasureChest.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_ship.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_spider.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_skull.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_quail.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_rocket.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_scissors.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_ring2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_tomato.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_ring.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_tank.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_queen.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_ship.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_radio.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_tiger.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_scooter.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_star.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_ring2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Materials/questionBox.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_questionBox.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_trumpet.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_shoes.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_train.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_questionBox.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_shark.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_questionMark.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_top.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_tomato.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_queen.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Prefab/obj_train.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPackBase4/Fbx/model_spoon.fbx
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectpackbase1

@@ -1,0 +1,621 @@
+ManifestFileVersion: 0
+CRC: 1403453405
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: heartbankpop
+      Dependencies: {}
+    Info_1:
+      Name: levelobjectpack3_toonfood
+      Dependencies:
+        Dependency_0: levelobjectbasemat
+    Info_2:
+      Name: otherlayer
+      Dependencies:
+        Dependency_0: fonttestmesh
+        Dependency_1: coinanim
+        Dependency_2: root
+        Dependency_3: component
+    Info_3:
+      Name: levelobjecticonpack5_toonitems2
+      Dependencies: {}
+    Info_4:
+      Name: ui_activity_underseatreasure
+      Dependencies:
+        Dependency_0: heartbankpop
+        Dependency_1: fonttestmesh
+        Dependency_2: gameicon
+        Dependency_3: levelobjectpackbase2
+        Dependency_4: spacemission
+        Dependency_5: coinandjewel
+        Dependency_6: passcheck
+        Dependency_7: tutorials
+        Dependency_8: root
+        Dependency_9: ui_shop
+        Dependency_10: component
+    Info_5:
+      Name: levelobjectpack8_lowpolygarbage
+      Dependencies:
+        Dependency_0: levelobjectbasemat
+    Info_6:
+      Name: levelobjecticonpackbase3
+      Dependencies: {}
+    Info_7:
+      Name: magicreward
+      Dependencies:
+        Dependency_0: fonttestmesh
+        Dependency_1: gameicon
+        Dependency_2: root
+        Dependency_3: uipop
+    Info_8:
+      Name: ui_rankinglist
+      Dependencies:
+        Dependency_0: ui_team
+        Dependency_1: fonttestmesh
+        Dependency_2: component
+    Info_9:
+      Name: levelobjecticonpack14_variations
+      Dependencies: {}
+    Info_10:
+      Name: levelobjecticonpack6_fantasymega
+      Dependencies: {}
+    Info_11:
+      Name: levelobjectpackbase4
+      Dependencies:
+        Dependency_0: levelobjectpackbase1
+        Dependency_1: levelobjectbasemat
+    Info_12:
+      Name: levelpropdata_json
+      Dependencies: {}
+    Info_13:
+      Name: endlessbuy
+      Dependencies:
+        Dependency_0: fonttestmesh
+        Dependency_1: root
+        Dependency_2: ui_shop
+        Dependency_3: weeklycollenge
+        Dependency_4: component
+    Info_14:
+      Name: levelobjectpack4_toonitems1
+      Dependencies:
+        Dependency_0: levelobjectbasemat
+    Info_15:
+      Name: ui_editor
+      Dependencies:
+        Dependency_0: heartbankpop
+        Dependency_1: component
+    Info_16:
+      Name: levelobjecticonpack2_baby
+      Dependencies: {}
+    Info_17:
+      Name: levelobjecticonpack16_variation2
+      Dependencies: {}
+    Info_18:
+      Name: heartnotenoughpop
+      Dependencies: {}
+    Info_19:
+      Name: activityconfigweekly_json
+      Dependencies: {}
+    Info_20:
+      Name: levelobjecticonpackegg4
+      Dependencies: {}
+    Info_21:
+      Name: maintabbarui_prefab
+      Dependencies:
+        Dependency_0: tab
+    Info_22:
+      Name: shopconfig_json
+      Dependencies: {}
+    Info_23:
+      Name: floatingisland
+      Dependencies:
+        Dependency_0: fonttestmesh
+        Dependency_1: gameicon
+        Dependency_2: root
+        Dependency_3: component
+        Dependency_4: ui_removead
+    Info_24:
+      Name: ui_team
+      Dependencies:
+        Dependency_0: otherlayer
+        Dependency_1: ui_rankinglist
+        Dependency_2: fonttestmesh
+        Dependency_3: gameicon
+        Dependency_4: coinandjewel
+        Dependency_5: passcheck
+        Dependency_6: ui_shop
+        Dependency_7: ui_everydayreward
+        Dependency_8: component
+    Info_25:
+      Name: levelobjectpack14_variations
+      Dependencies:
+        Dependency_0: levelobjectpackbase1
+        Dependency_1: levelobjectbasemat
+    Info_26:
+      Name: levelobjecticonpackbase4
+      Dependencies: {}
+    Info_27:
+      Name: gameitempackegg3
+      Dependencies:
+        Dependency_0: levelobjectbasemat
+    Info_28:
+      Name: levelobjecticonpackegg2
+      Dependencies: {}
+    Info_29:
+      Name: fonttestmesh
+      Dependencies:
+        Dependency_0: font
+    Info_30:
+      Name: levelobjectpack28_activity
+      Dependencies: {}
+    Info_31:
+      Name: levelobjecticonpack17_newspecial
+      Dependencies: {}
+    Info_32:
+      Name: gameicon
+      Dependencies: {}
+    Info_33:
+      Name: levelobjecticonpack3_toonfood
+      Dependencies: {}
+    Info_34:
+      Name: ui_cuptournament
+      Dependencies:
+        Dependency_0: ui_rankinglist
+        Dependency_1: endlessbuy
+        Dependency_2: floatingisland
+        Dependency_3: fonttestmesh
+        Dependency_4: coinanim
+        Dependency_5: root
+        Dependency_6: ui_activity_flowers
+        Dependency_7: component
+        Dependency_8: uipop
+        Dependency_9: gameitemicon
+    Info_35:
+      Name: locallanguage_json
+      Dependencies: {}
+    Info_36:
+      Name: endlessbuyreward_json
+      Dependencies: {}
+    Info_37:
+      Name: levelobjecticonpack13_toys
+      Dependencies: {}
+    Info_38:
+      Name: levelobjectpack27_weeklyitem2
+      Dependencies:
+        Dependency_0: levelobjectbasemat
+    Info_39:
+      Name: levelobjectpackbase2
+      Dependencies:
+        Dependency_0: levelobjectpack3_toonfood
+        Dependency_1: levelobjectpackbase1
+        Dependency_2: levelobjectbasemat
+    Info_40:
+      Name: gameitempackegg5
+      Dependencies:
+        Dependency_0: levelobjectbasemat
+    Info_41:
+      Name: normal
+      Dependencies: {}
+    Info_42:
+      Name: gameremoteconfig_json
+      Dependencies: {}
+    Info_43:
+      Name: easy
+      Dependencies: {}
+    Info_44:
+      Name: spacemission
+      Dependencies:
+        Dependency_0: fonttestmesh
+        Dependency_1: ui_chest
+        Dependency_2: root
+        Dependency_3: component
+        Dependency_4: uipop
+    Info_45:
+      Name: coinandjewel
+      Dependencies:
+        Dependency_0: fonttestmesh
+        Dependency_1: gameicon
+        Dependency_2: root
+        Dependency_3: weeklycollenge
+        Dependency_4: component
+        Dependency_5: uipop
+    Info_46:
+      Name: levelobjectpack6_fantasymega
+      Dependencies:
+        Dependency_0: levelobjectpack5_toonitems2
+        Dependency_1: levelobjectbasemat
+    Info_47:
+      Name: levelobjectpack11_schoolsupplies
+      Dependencies:
+        Dependency_0: levelobjectbasemat
+    Info_48:
+      Name: settingpop
+      Dependencies: {}
+    Info_49:
+      Name: levelgroups_json
+      Dependencies: {}
+    Info_50:
+      Name: levelobjectpackbase5
+      Dependencies:
+        Dependency_0: levelobjectpackbase1
+        Dependency_1: levelobjectbasemat
+    Info_51:
+      Name: rate
+      Dependencies:
+        Dependency_0: fonttestmesh
+        Dependency_1: root
+        Dependency_2: uipop
+    Info_52:
+      Name: levelobjectpack12_survivalasset
+      Dependencies:
+        Dependency_0: levelobjectbasemat
+    Info_53:
+      Name: levelobjectpack2_baby
+      Dependencies:
+        Dependency_0: levelobjectpack13_toys
+        Dependency_1: levelobjectbasemat
+    Info_54:
+      Name: levelobjectpack20_special
+      Dependencies:
+        Dependency_0: levelobjectbasemat
+    Info_55:
+      Name: gameitempackegg4
+      Dependencies:
+        Dependency_0: levelobjectbasemat
+    Info_56:
+      Name: levelobjecticonpackbase1
+      Dependencies: {}
+    Info_57:
+      Name: levelobjectpackbase3
+      Dependencies:
+        Dependency_0: levelobjectpackbase1
+        Dependency_1: levelobjectbasemat
+    Info_58:
+      Name: levelscene_prefab
+      Dependencies:
+        Dependency_0: fonttestmesh
+        Dependency_1: levelobjectpackbase6
+    Info_59:
+      Name: coinanim
+      Dependencies: {}
+    Info_60:
+      Name: matchpassboxconfig_json
+      Dependencies: {}
+    Info_61:
+      Name: cfgunderseatreasure_json
+      Dependencies: {}
+    Info_62:
+      Name: uinormalmain_prefab
+      Dependencies: {}
+    Info_63:
+      Name: ui_chest
+      Dependencies:
+        Dependency_0: fonttestmesh
+        Dependency_1: gameicon
+        Dependency_2: coinandjewel
+        Dependency_3: root
+        Dependency_4: component
+        Dependency_5: uipop
+    Info_64:
+      Name: levelobjectpack9_lowpolyhats
+      Dependencies:
+        Dependency_0: levelobjectbasemat
+    Info_65:
+      Name: proptips
+      Dependencies:
+        Dependency_0: fonttestmesh
+        Dependency_1: root
+        Dependency_2: component
+    Info_66:
+      Name: passcheck
+      Dependencies:
+        Dependency_0: endlessbuy
+        Dependency_1: fonttestmesh
+        Dependency_2: gameicon
+        Dependency_3: coinandjewel
+        Dependency_4: ui_chest
+        Dependency_5: root
+        Dependency_6: weeklycollenge
+        Dependency_7: component
+        Dependency_8: uipop
+    Info_67:
+      Name: tutorials
+      Dependencies:
+        Dependency_0: fonttestmesh
+        Dependency_1: root
+    Info_68:
+      Name: tutorials_json
+      Dependencies: {}
+    Info_69:
+      Name: levelobjectpack15_magichat
+      Dependencies:
+        Dependency_0: levelobjectpackbase1
+        Dependency_1: levelobjectbasemat
+    Info_70:
+      Name: levelobjecticonpack9_lowpolyhats
+      Dependencies: {}
+    Info_71:
+      Name: levelobjecticonpack10_petsupplies
+      Dependencies: {}
+    Info_72:
+      Name: devicemodetable_json
+      Dependencies: {}
+    Info_73:
+      Name: root
+      Dependencies:
+        Dependency_0: fonttestmesh
+        Dependency_1: component
+        Dependency_2: uipop
+    Info_74:
+      Name: levelobjecticonpack11_schoolsupplies
+      Dependencies: {}
+    Info_75:
+      Name: levelobjectpackbase1
+      Dependencies:
+        Dependency_0: levelobjectbasemat
+    Info_76:
+      Name: ui_shop
+      Dependencies:
+        Dependency_0: ui_activity_underseatreasure
+        Dependency_1: floatingisland
+        Dependency_2: ui_team
+        Dependency_3: fonttestmesh
+        Dependency_4: gameicon
+        Dependency_5: passcheck
+        Dependency_6: root
+        Dependency_7: ui_activity_flowers
+        Dependency_8: component
+        Dependency_9: ui_removead
+        Dependency_10: gameitemicon
+    Info_77:
+      Name: ui_activity_flowers
+      Dependencies:
+        Dependency_0: ui_team
+        Dependency_1: fonttestmesh
+        Dependency_2: passcheck
+        Dependency_3: component
+        Dependency_4: uipop
+    Info_78:
+      Name: ui_everydayreward
+      Dependencies:
+        Dependency_0: heartnotenoughpop
+        Dependency_1: fonttestmesh
+        Dependency_2: component
+    Info_79:
+      Name: weeklycollenge
+      Dependencies:
+        Dependency_0: fonttestmesh
+        Dependency_1: gameicon
+        Dependency_2: root
+        Dependency_3: component
+        Dependency_4: uipop
+    Info_80:
+      Name: levelobjectpack13_toys
+      Dependencies:
+        Dependency_0: levelobjectpack2_baby
+        Dependency_1: levelobjectpack16_variation2
+        Dependency_2: levelobjectbasemat
+    Info_81:
+      Name: levelobjecticonpack7_junkfood
+      Dependencies: {}
+    Info_82:
+      Name: gameconfig_json
+      Dependencies: {}
+    Info_83:
+      Name: levelobjectpack7_junkfood
+      Dependencies:
+        Dependency_0: levelobjectpack3_toonfood
+        Dependency_1: levelobjectbasemat
+    Info_84:
+      Name: levelobjecticonpack20_cards
+      Dependencies: {}
+    Info_85:
+      Name: audio
+      Dependencies: {}
+    Info_86:
+      Name: gameitempackegg2
+      Dependencies:
+        Dependency_0: levelobjectbasemat
+    Info_87:
+      Name: font
+      Dependencies:
+        Dependency_0: fonttestmesh
+    Info_88:
+      Name: levelobjecticonpackspecial
+      Dependencies: {}
+    Info_89:
+      Name: component
+      Dependencies:
+        Dependency_0: fonttestmesh
+        Dependency_1: gameicon
+        Dependency_2: ui_cuptournament
+        Dependency_3: weeklycollenge
+        Dependency_4: uipop
+        Dependency_5: gameitemicon
+        Dependency_6: ui_main
+        Dependency_7: gamepanel11
+    Info_90:
+      Name: levelobjecticonpackbase2
+      Dependencies: {}
+    Info_91:
+      Name: tab
+      Dependencies:
+        Dependency_0: fonttestmesh
+    Info_92:
+      Name: levelobjecticonpack12_survivalasset
+      Dependencies: {}
+    Info_93:
+      Name: levelpanel
+      Dependencies:
+        Dependency_0: ui_activity_underseatreasure
+        Dependency_1: magicreward
+        Dependency_2: floatingisland
+        Dependency_3: fonttestmesh
+        Dependency_4: gameicon
+        Dependency_5: spacemission
+        Dependency_6: tutorials
+        Dependency_7: root
+        Dependency_8: ui_activity_flowers
+        Dependency_9: weeklycollenge
+        Dependency_10: component
+        Dependency_11: uipop
+    Info_94:
+      Name: levelobjecticonpackegg3
+      Dependencies: {}
+    Info_95:
+      Name: levelobjectpack18_weeklyitem
+      Dependencies:
+        Dependency_0: gameitempackegg4
+        Dependency_1: levelobjectbasemat
+    Info_96:
+      Name: levelobjectcatalog_json
+      Dependencies: {}
+    Info_97:
+      Name: levelobjecticonpack4_toonitems1
+      Dependencies: {}
+    Info_98:
+      Name: activitycfgoffers_json
+      Dependencies: {}
+    Info_99:
+      Name: gameoffers
+      Dependencies:
+        Dependency_0: heartbankpop
+        Dependency_1: fonttestmesh
+        Dependency_2: gameicon
+        Dependency_3: coinandjewel
+        Dependency_4: passcheck
+        Dependency_5: root
+        Dependency_6: ui_shop
+        Dependency_7: ui_activity_flowers
+        Dependency_8: weeklycollenge
+        Dependency_9: component
+        Dependency_10: ui_removead
+        Dependency_11: uipop
+    Info_100:
+      Name: special
+      Dependencies:
+        Dependency_0: root
+    Info_101:
+      Name: matchpassconfig_json
+      Dependencies: {}
+    Info_102:
+      Name: gameitempackegg1
+      Dependencies:
+        Dependency_0: levelobjectbasemat
+    Info_103:
+      Name: ui_setting
+      Dependencies:
+        Dependency_0: heartnotenoughpop
+        Dependency_1: fonttestmesh
+        Dependency_2: settingpop
+        Dependency_3: root
+        Dependency_4: component
+        Dependency_5: uipop
+    Info_104:
+      Name: ui_heart
+      Dependencies:
+        Dependency_0: heartbankpop
+        Dependency_1: ui_rankinglist
+        Dependency_2: ui_team
+        Dependency_3: fonttestmesh
+        Dependency_4: gameicon
+        Dependency_5: root
+        Dependency_6: component
+        Dependency_7: uipop
+        Dependency_8: ui_main
+    Info_105:
+      Name: ranktip_prefab
+      Dependencies:
+        Dependency_0: ui_rankinglist
+        Dependency_1: ui_team
+        Dependency_2: fonttestmesh
+    Info_106:
+      Name: chestrewardrewardcfg_json
+      Dependencies: {}
+    Info_107:
+      Name: ui_removead
+      Dependencies:
+        Dependency_0: fonttestmesh
+        Dependency_1: ui_shop
+        Dependency_2: ui_activity_flowers
+        Dependency_3: ui_everydayreward
+        Dependency_4: component
+        Dependency_5: gameitemicon
+        Dependency_6: ui_main
+    Info_108:
+      Name: levelobjectpack5_toonitems2
+      Dependencies:
+        Dependency_0: levelobjectbasemat
+    Info_109:
+      Name: weeklyrewardconfig_json
+      Dependencies: {}
+    Info_110:
+      Name: uipop
+      Dependencies: {}
+    Info_111:
+      Name: levelobjecticonpackegg1
+      Dependencies: {}
+    Info_112:
+      Name: levelobjectpack10_petsupplies
+      Dependencies:
+        Dependency_0: levelobjectbasemat
+    Info_113:
+      Name: devicesizeconfig_json
+      Dependencies: {}
+    Info_114:
+      Name: levelobjecticonpack8_lowpolygarbage
+      Dependencies: {}
+    Info_115:
+      Name: levelobjecticonpackegg5
+      Dependencies: {}
+    Info_116:
+      Name: levelobjectpack21_cards
+      Dependencies:
+        Dependency_0: levelobjectbasemat
+    Info_117:
+      Name: gameitemicon
+      Dependencies: {}
+    Info_118:
+      Name: ui_main
+      Dependencies:
+        Dependency_0: magicreward
+        Dependency_1: ui_team
+        Dependency_2: fonttestmesh
+        Dependency_3: gameicon
+        Dependency_4: root
+        Dependency_5: ui_everydayreward
+        Dependency_6: component
+    Info_119:
+      Name: levelobjectpack16_variation2
+      Dependencies:
+        Dependency_0: levelobjectbasemat
+    Info_120:
+      Name: levelobjecticonpackbase5
+      Dependencies: {}
+    Info_121:
+      Name: gamepanel11
+      Dependencies:
+        Dependency_0: fonttestmesh
+        Dependency_1: gameicon
+        Dependency_2: levelobjecticonpackbase1
+        Dependency_3: root
+        Dependency_4: ui_activity_flowers
+        Dependency_5: component
+    Info_122:
+      Name: levelobjectbasemat
+      Dependencies: {}
+    Info_123:
+      Name: cupmatchrewardsconfig_json
+      Dependencies: {}
+    Info_124:
+      Name: levelobjectpackbase6
+      Dependencies: {}
+    Info_125:
+      Name: levelobjectpackbase7
+      Dependencies: {}
+    Info_126:
+      Name: levelobjecticonpackbase7
+      Dependencies: {}
+    Info_127:
+      Name: levelobjecticonpackbase6
+      Dependencies: {}

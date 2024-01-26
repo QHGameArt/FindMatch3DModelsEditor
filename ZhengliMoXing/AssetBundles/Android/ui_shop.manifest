@@ -1,0 +1,195 @@
+ManifestFileVersion: 0
+CRC: 1682541422
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e2a1c1bf3f5ecb989535258c7b2d0459
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e552ad66ab0b027a97b9c9ac733c16c3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e190d043ef387ee4fad4acea6146931e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4cb12031f28e94f25b258cc26b796856, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2b7d9617245a34ffeac6224c33956997, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3529e14e1800647dc926255f4276c7fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4a1f378407024441cbfce86b9b91ca7f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 666bc7660e5e04b1e924f8295e16e73d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 107a17541a754455fa998dc2dc25845f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aebcd299fed14b858354b44275fa5a59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8bda6f7c06fd4c5eb4bb82e3a1552bb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e2806c99a6b49709c6dacc8cb0210a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00699a22e47147c8a3931379d02dae68, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2da0c512f12947e489f739169773d7ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09f87ca1a51e492c8ac9c564141e9fd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b3e43757e85243809b3ef1de549889e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6f3c13d86e8b48f7b76a0d3d7c3a1b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bbcbd7952202d4d44a555aea5af2a351, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c4482866c21486bb4607f302ea3cd0e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34df6a7c1d9824532aaecc1cd8fd8321, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: SuperScrollView.ItemPrefabConfData
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphPairAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_GlyphValueRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/OnChangeEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/SelectionEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/SubmitEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/TextSelectionEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_InputField/TouchScreenKeyboardEvent
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Local/Ui/Ui_Shop/Sprites/0cfae28ec9881c901a6cb4a051eee180.png
+- Assets/GameAssets/Local/Ui/Ui_Shop/Prefabs/MainPageShop.prefab
+- Assets/GameAssets/Local/Ui/Ui_Shop/Sprites/img_shop_coin_frame.png
+- Assets/GameAssets/Local/Ui/Ui_Shop/Prefabs/ShopCoinSlot.prefab
+- Assets/GameAssets/Local/Ui/Ui_Shop/Sprites/img_game_clock.png
+- Assets/GameAssets/Local/Ui/Ui_Shop/Sprites/shop_icon_noad_3d.png
+- Assets/GameAssets/Local/Ui/Ui_Shop/Prefabs/UiPopShop.prefab
+- Assets/GameAssets/Local/Ui/Ui_Shop/Prefabs/LimitedSlot.prefab
+- Assets/GameAssets/Local/Ui/Ui_Shop/Sprites/img_frame_pueple_m.png
+- Assets/GameAssets/Local/Ui/Ui_Shop/Sprites/img_shop_normal.png
+- Assets/GameAssets/Local/Ui/Ui_Shop/Sprites/Lable.png
+- Assets/GameAssets/Local/Ui/Ui_Shop/Prefabs/UiPopTeam.prefab
+- Assets/GameAssets/Local/Ui/Ui_Shop/Sprites/img_bg_slot_shop_remove_ads_pack.png
+- Assets/GameAssets/Local/Ui/Ui_Shop/Sprites/img_shop_coin_frame1.png
+- Assets/GameAssets/Local/Ui/Ui_Shop/Prefabs/ShopBundleSlot.prefab
+- Assets/GameAssets/Local/Ui/Ui_Shop/Sprites/img_shop_purple.png
+- Assets/GameAssets/Local/Ui/Ui_Shop/Sprites/img_shop_bar_red.png
+- Assets/GameAssets/Local/Ui/Ui_Shop/Prefabs/FoldBtn.prefab
+- Assets/GameAssets/Local/Ui/Ui_Shop/Sprites/img_add.png
+- Assets/GameAssets/Local/Ui/Ui_Shop/Prefabs/ShopBundleMatchPassSlot.prefab
+- Assets/GameAssets/Local/Ui/Ui_Shop/Sprites/img_shop_coin_frame_s.png
+- Assets/GameAssets/Local/Ui/Ui_Shop/Sprites/img_btn_buy.png
+- Assets/GameAssets/Local/Ui/Ui_Shop/Sprites/img_ic_red_label.png
+- Assets/GameAssets/Local/Ui/Ui_Shop/Sprites/img_shop_frame_prop.png
+- Assets/GameAssets/Local/Ui/Ui_Shop/Prefabs/RemoveAdsPackSlot.prefab
+- Assets/GameAssets/Local/Ui/Ui_Shop/Sprites/img_ic_shop.png
+- Assets/GameAssets/Local/Ui/Ui_Shop/Sprites/img_icon_plus_remove_ads_pack_pop.png
+- Assets/GameAssets/Local/Ui/Ui_Shop/Sprites/img_shop_frame_prop_s.png
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/floatingisland
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/gameicon
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/gameitemicon
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/passcheck
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/root
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_activity_flowers
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_activity_underseatreasure
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_removead
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_team

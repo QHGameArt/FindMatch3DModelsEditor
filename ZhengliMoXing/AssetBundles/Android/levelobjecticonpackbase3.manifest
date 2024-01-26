@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 2781459641
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 241e2988372fb2b0d275ce8f59c29a73
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_mike.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_onion.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_pea.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_number7.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_number0.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_number9.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_number4.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_monitor.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_number2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_piano.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_potionRed.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_pencil.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_potionBlue.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_newspaper.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_orange.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_pumpkin.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_monkey.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_number3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_mushroom.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_pizza.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_moon.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_note.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_number1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_magnet.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_mouse.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_number8.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_panda.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_octopus.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_megaphone.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_nut.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_planet.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_pen.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_number5.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_pig.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_owl.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase3/icon_obj_number6.png
+Dependencies: []

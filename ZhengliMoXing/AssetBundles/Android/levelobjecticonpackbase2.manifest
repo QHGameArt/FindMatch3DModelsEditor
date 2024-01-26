@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 2660664194
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 32ffe1429befe1a31deb274e132fcb41
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_leopard.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_frog.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_fly.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_giraffe.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_goldCoinBag1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_kiwi.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_hen.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_ghost.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_igloo.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_goldCoinBag2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_jar.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_lipstick.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_ink.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_juice.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_hippo.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_hat.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_fan.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_fork.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_ice.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_harp.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_fish.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_jewel.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_heart.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_helmet.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_giftbox.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_lemon.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_hamburger.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_kleenex.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_fox.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_kettle.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_ham.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_guitar.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_horse.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_garlic.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_football.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_grape.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_ladybug.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_lamp.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_leaf.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_lesserPanda.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_house.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_icecream.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_letter.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_log.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPackBase2/icon_obj_key.png
+Dependencies: []

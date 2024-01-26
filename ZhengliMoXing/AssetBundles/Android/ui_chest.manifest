@@ -1,0 +1,104 @@
+ManifestFileVersion: 0
+CRC: 1713454921
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f7dba6c3bd01482fb537b12cfaee62c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 42ff291cab9a9af19aedfcbda8852b2e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9677bbe703c5a42e2b1c6aa60b0e22e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68a5fc82a2bee4c2f8b97336a15d6353, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c8fe98403c347edaef75b66eddd3364, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ebf64832482c44688d3e9134c9008b9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Local/Ui/Ui_Chest/Sprite/img_icon_chest_bottom_blue.png
+- Assets/GameAssets/Local/Ui/Ui_Chest/Sprite/img_icon_chest_top_pink.png
+- Assets/GameAssets/Local/Ui/Ui_Chest/Prefabs/UiPopOpenCoinBox.prefab
+- Assets/GameAssets/Local/Ui/Ui_Chest/Sprite/img_icon_chest_bottom_purple.png
+- Assets/GameAssets/Local/Ui/Ui_Chest/Sprite/img_icon_chest_top_blue.png
+- Assets/GameAssets/Local/Ui/Ui_Chest/Prefabs/UiPopCollectStar.prefab
+- Assets/GameAssets/Local/Ui/Ui_Chest/Sprite/img_bg_slot_claim.png
+- Assets/GameAssets/Local/Ui/Ui_Chest/Sprite/img_icon_chest_bottom_pink.png
+- Assets/GameAssets/Local/Ui/Ui_Chest/Sprite/img_bg_light_chest_open.png
+- Assets/GameAssets/Local/Ui/Ui_Chest/Prefabs/Anim.controller
+- Assets/GameAssets/Local/Ui/Ui_Chest/Prefabs/CoinActivityBoxOpen.anim
+- Assets/GameAssets/Local/Ui/Ui_Chest/Prefabs/UiPopChestOpen.prefab
+- Assets/GameAssets/Local/Ui/Ui_Chest/Sprite/img_icon_chest_top_red.png
+- Assets/GameAssets/Local/Ui/Ui_Chest/Prefabs/CoinActivityBoxAnim.anim
+- Assets/GameAssets/Local/Ui/Ui_Chest/Sprite/img_icon_chest_top_purple.png
+- Assets/GameAssets/Local/Ui/Ui_Chest/Sprite/img_icon_chest_bottom_red.png
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/coinandjewel
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/gameicon
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/root
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/uipop

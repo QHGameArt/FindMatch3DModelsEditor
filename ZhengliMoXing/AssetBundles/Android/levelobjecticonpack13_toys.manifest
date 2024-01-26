@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 3131892519
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43ed3393499ee2491d8eb3d6b837c866
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_ball1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_bee1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_watergun3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_pogostick.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_plane.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_woodenTrainWagon3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_woodenTrainFront.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_woodenTrainWagon2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_watergun1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_doll1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_skateboard.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_bucket.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_teddyBear.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_woodenTrainWagon1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_rockingHorse.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_fish1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_rubberDuck.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_boomerang.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_sword.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_watergun2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_toyTrumpet.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_horse1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_bunny.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_ball2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_darts.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_doll2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_robot1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_piano1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_sheep1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_dinosaur.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_boat.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_doll3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_rollerSkate.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_rocket1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack13_Toys/icon_obj_rugbyBall.png
+Dependencies: []

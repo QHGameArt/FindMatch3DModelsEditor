@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 3534488078
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a86bf5f126a004aedb38a456281a7739
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 63b2e4155cc3b117b404318f8ba12bb6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack28_Activity/Prefabs/obj_flower.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack28_Activity/Fbx/lambert2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack28_Activity/Fbx/potting_Albedo.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack28_Activity/Fbx/Materials/lambert2.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack28_Activity/Fbx/Potting_low.fbx
+Dependencies: []

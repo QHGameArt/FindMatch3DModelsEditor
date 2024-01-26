@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 645038584
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1e95fe99086532d4dfc7f4c0a6c75274
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack8_LowpolyGarbage/icon_obj_chickenBone.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack8_LowpolyGarbage/icon_obj_sodaCan.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack8_LowpolyGarbage/icon_obj_waterBottle2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack8_LowpolyGarbage/icon_obj_waterMelonPeel.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack8_LowpolyGarbage/icon_obj_eatenApple.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack8_LowpolyGarbage/icon_obj_garbageBag.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack8_LowpolyGarbage/icon_obj_bottle.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack8_LowpolyGarbage/icon_obj_fishBone.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack8_LowpolyGarbage/icon_obj_wineBottle.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack8_LowpolyGarbage/icon_obj_dustbin.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack8_LowpolyGarbage/icon_obj_bananaPeel.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack8_LowpolyGarbage/icon_obj_waterBottle.png
+Dependencies: []

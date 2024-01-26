@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 1661890940
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 00801f93ab5d87ae75f022001b3c020f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack6_FantasyMega/icon_obj_mysteryBox.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack6_FantasyMega/icon_obj_nitro.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack6_FantasyMega/icon_obj_scroll2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack6_FantasyMega/icon_obj_tube.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack6_FantasyMega/icon_obj_axe.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack6_FantasyMega/icon_obj_pirateHook.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack6_FantasyMega/icon_obj_wheel2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack6_FantasyMega/icon_obj_fuelCan.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack6_FantasyMega/icon_obj_hammer.png
+Dependencies: []

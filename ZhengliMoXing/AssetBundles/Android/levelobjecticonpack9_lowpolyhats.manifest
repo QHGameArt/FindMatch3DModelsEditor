@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3290086797
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 288a45b8b3b1d3c409922af1c3a935b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack9_LowpolyHats/icon_obj_cylinderHat1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack9_LowpolyHats/icon_obj_bigHornedHelmet1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack9_LowpolyHats/icon_obj_chefHat1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack9_LowpolyHats/icon_obj_astronautHelmet1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack9_LowpolyHats/icon_obj_dinosaurHat1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack9_LowpolyHats/icon_obj_beerHat1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack9_LowpolyHats/icon_obj_cactusHat1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack9_LowpolyHats/icon_obj_bunnyEars1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack9_LowpolyHats/icon_obj_firefighterHat1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack9_LowpolyHats/icon_obj_detectiveHat1.png
+Dependencies: []

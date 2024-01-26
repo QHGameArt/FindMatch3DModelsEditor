@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 1062321730
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 67d148d32792d4da83bbadfcbf665d09
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_applePieSlice.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_energyDrink1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_cakeSlice1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_candy10.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_chickenNugget.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_sweetBun.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_fastFoodBoxLarge.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_sandwichTriangle.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_cornDog.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_candy11.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_fruitJuice2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_honey.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_milkyBar.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_onionRing.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_sodaBottle3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_cider.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_chip.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_jam.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_shake2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_iceCream11.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_smoothie.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_drink.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_chocolateBar.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_sodaBottle1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_taco.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_ketchupSauce.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_biscuit.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_energyDrink2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_shake1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_cakeSlice2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_bolognese.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_energyDrink3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_wafer.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_sausage.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_friesBox.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_shake3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_peanutButter.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_iceCreamCone2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_coffeeMug.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_donut3.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_donut1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_popsicle1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_lollipop1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_hamburgerNormal.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_fruitJuice1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_iceCreamCone1.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_lollipop2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_largeSoda.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_cinnamonRoll.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_moscowBun.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_popsicle2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_grilledCheese.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_grilledCheeseTriangle.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_drumstick.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_fry.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_donut2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_sodaBottle2.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_nacho.png
+- Assets/GameAssets/Local/LevelObjectIcons/LevelObjectIconPack7_JunkFood/icon_obj_mustardSauce.png
+Dependencies: []

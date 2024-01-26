@@ -1,0 +1,79 @@
+ManifestFileVersion: 0
+CRC: 3549068182
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df3f333c2e072e5cdaa4f13af9c7a2f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b1b781b720b7cb66878073cb4c2105d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardRed1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardBlack3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardRed9.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardBlack4.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardBlack6.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardBlack7.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardRed7.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardBlack3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardBlack2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardBlack2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardBlack4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardRed4.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardRed8.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardRed3.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardRed2.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardRed4.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardBlack5.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardRed10.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardBlack8.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardRed9.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/Materials/cards.mat
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardRed6.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardBlack5.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardBlack6.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardRed2.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardRed8.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardBlack7.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardRed3.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardBlack10.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardBlack10.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardRed5.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/tx_cards.png
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardRed5.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardRed6.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardRed7.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardBlack9.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardBlack9.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardRed10.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardBlack1.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Prefabs/obj_cardBlack8.prefab
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardBlack1.fbx
+- Assets/GameAssets/Local/LevelObjects/LevelObjectPack21_Cards/Fbx/model_cardRed1.fbx
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/levelobjectbasemat

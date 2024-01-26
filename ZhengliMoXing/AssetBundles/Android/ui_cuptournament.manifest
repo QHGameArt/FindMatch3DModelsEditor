@@ -1,0 +1,181 @@
+ManifestFileVersion: 0
+CRC: 2697918546
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 881c36f1eb3ce9d20520428261efca2c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6a32a066217840412aa09602d7489d0d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b979ce6b246d4fd38e23d714ff056655, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e190d043ef387ee4fad4acea6146931e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57d01a021f4b4236ad7f639fc0702901, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f5187a7a9dce44fea6bf9c3428d5984f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3529e14e1800647dc926255f4276c7fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 162e0f3adf416411a910e30ca8b0820c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 178177055d0804746a3fd8ccb0b6ccc2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aebcd299fed14b858354b44275fa5a59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09f87ca1a51e492c8ac9c564141e9fd4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89db371097ec4d8e9f99ae7a0f027172, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5cb2f68201a004d6aabe7f5a7812146e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0051cf48a0356441cb4890f17c1b20dc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d01d1354b3444c7a8ac2d9776a62ab47, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: SuperScrollView.ItemPrefabConfData
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ScrollRect/ScrollRectEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_btn_claim_bg.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_tip2.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_add.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_windmill_stick.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_tip1.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_progress_bar_grey.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_cup_bg_red.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Prefabs/ScoreSlotRight.prefab
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_progressbar_green.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Prefabs/OutOfSpacePanel.prefab
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_cup_title.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Prefabs/CupTournamentLoopScroll.prefab
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_cup_multiple_green_right.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_progress_bar_light.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_progress_bg.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_ic_blue.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_clock.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_progress_bar_green_grey.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_continue_bg.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_cup_1.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Prefabs/ScoreSlotCenter.prefab
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_tip3.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_activity_slot_light.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Prefabs/CupMoveBack.prefab
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_chest1_grey.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Prefabs/ScoreSlotLeft.prefab
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Prefabs/TimerRoot Variant.prefab
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_ic_tournament.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Prefabs/CupTournamentSettingPanel.prefab
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_race_bg.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_cup_multiple_green_center.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_cup_multiple_white_right.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_chest2_grey.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_chest3.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_finish_claim_bg.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_tab_bg.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_cup_icon_content.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_ic.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_progress_prop_windmill_grey.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Prefabs/DetailsBtn Variant.prefab
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_finish_bg.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_windmill.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_splite.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_time_bg.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_activity_slot_night.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Prefabs/CupRaceStartPopUI.prefab
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_rank_line.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_cup_multiple_white_left.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Prefabs/ActivityBtnCupTournament.prefab
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Prefabs/ScoreBarRoot.prefab
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_btn_start.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_tab.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/img_icon_cup2.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_cup_icon_top.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Prefabs/UiPopCupTournamentStart.prefab
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_cup_frame_red.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_chest2.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_progress_prop_windmill_light.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_team_heart.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Prefabs/UiPopCupTournamentRocket.prefab
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_frame_time.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_chest3_grey.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_cup_multiple_white_center.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_title_bg.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_bg.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_step_bg.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_chest1.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_icon_rank_bg.png
+- Assets/GameAssets/Local/Ui/UI_CupTournament/Sprite/img_cup_multiple_green_left.png
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/coinanim
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/endlessbuy
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/floatingisland
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/gameitemicon
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/root
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_activity_flowers
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_rankinglist
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/uipop

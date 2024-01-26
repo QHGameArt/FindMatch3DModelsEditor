@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2945801386
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0808e48182c2257f0abbd2de74233dcf
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameAssets/Local/Sprite/HeartBankPop/Image_Close.png
+- Assets/GameAssets/Local/Sprite/HeartBankPop/Image_Btn_OK.png
+- Assets/GameAssets/Local/Sprite/HeartBankPop/Image_Btn.png
+- Assets/GameAssets/Local/Sprite/HeartBankPop/Image_HeartIcon.png
+- Assets/GameAssets/Local/Sprite/HeartBankPop/Image_Bg.png
+Dependencies: []

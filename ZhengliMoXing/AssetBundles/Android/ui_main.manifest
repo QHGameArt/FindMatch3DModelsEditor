@@ -1,0 +1,106 @@
+ManifestFileVersion: 0
+CRC: 1940537058
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7f353007102acc4ec2008b985fc6646d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b8f4ec4ba98c746d46a8702edeb4275c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8568e33bc137a4fd6bc74a0484665b6e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d49428bf6b4449aa10bafeddae10311, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3529e14e1800647dc926255f4276c7fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c8239369c8b1e4508aa30b6c3ee0d734, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f5084a994fc4734854325518e15912d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 250424a18636447eeb58feaf59d29d9c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 024dcb24d2274382a56f84b9caf0e21a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5434fae0e21b2483c8f5759567ab9c1d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c6f3c13d86e8b48f7b76a0d3d7c3a1b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4cbd9a905e7946168d00f86a5e148169, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/GameAssets/Local/Ui/UI_Main/Parfabs/DailyRewardBar.prefab
+- Assets/GameAssets/Local/Ui/UI_Main/Sprite/home_icon_circle.png
+- Assets/GameAssets/Local/Ui/UI_Main/Sprite/img_icon_shop.png
+- Assets/GameAssets/Local/Ui/UI_Main/Sprite/img_starchest_bar_dark.png
+- Assets/GameAssets/Local/Ui/UI_Main/Sprite/img_pop_cap_l.png
+- Assets/GameAssets/Local/Ui/UI_Main/Parfabs/PlayerButton.prefab
+- Assets/GameAssets/Local/Ui/UI_Main/Sprite/img_starchest_bar_green.png
+- Assets/GameAssets/Local/Ui/UI_Main/Sprite/img_pop_cap_m.png
+- Assets/GameAssets/Local/Ui/UI_Main/Sprite/home_ic_playBtn.png
+- Assets/GameAssets/Local/Ui/UI_Main/Parfabs/HomePanel.prefab
+- Assets/GameAssets/Local/Ui/UI_Main/Sprite/img_btn_grey.png
+- Assets/GameAssets/Local/Ui/UI_Main/Sprite/img_icon_star chest.png
+- Assets/GameAssets/Local/Ui/UI_Main/Sprite/img_btn_star_chest.png
+- Assets/GameAssets/Local/Ui/UI_Main/Parfabs/BoxButton.prefab
+- Assets/GameAssets/Local/Ui/UI_Main/Sprite/Setting.png
+- Assets/GameAssets/Local/Ui/UI_Main/Sprite/img_icon_heart_l.png
+- Assets/GameAssets/Local/Ui/UI_Main/Sprite/img_pop_cap_s.png
+Dependencies:
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/component
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/fonttestmesh
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/gameicon
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/magicreward
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/root
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_everydayreward
+- /Users/likaikun/lkk/new/New-FindMatch/FindMatch_New/AssetBundles/Android/ui_team
