@@ -48,7 +48,7 @@ public class FbxUnitConverter : AssetPostprocessor
                 //string materialPath = Path.Combine(materialFolder, Path.GetFileNameWithoutExtension(assetPath) + ".mat");
 
                 // 创建新的材质
-                Material material = new Material(Shader.Find("Standard"));
+                //Material material = new Material(Shader.Find("Standard"));
 
                 // 获取原始材质列表
                 ModelImporterClipAnimation[] clipAnimations = modelImporter.defaultClipAnimations;
@@ -60,11 +60,11 @@ public class FbxUnitConverter : AssetPostprocessor
                 }
 
                 // 保存原始材质列表到材质文件
-                material.SetFloat("_OriginalMaterialsCount", originalMaterials.Length);
-                for (int i = 0; i < originalMaterials.Length; i++)
-                {
-                    material.SetTexture("_OriginalMaterial_" + i, AssetDatabase.LoadAssetAtPath<Texture>(originalMaterials[i]));
-                }
+                //material.SetFloat("_OriginalMaterialsCount", originalMaterials.Length);
+                //for (int i = 0; i < originalMaterials.Length; i++)
+                //{
+                //    material.SetTexture("_OriginalMaterial_" + i, AssetDatabase.LoadAssetAtPath<Texture>(originalMaterials[i]));
+                //}
 
                 // 生成材质球文件
                 //AssetDatabase.CreateAsset(material, materialPath);

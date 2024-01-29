@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using EPOOutline;
 using UnityEditor;
 using UnityEngine;
 
@@ -71,6 +72,9 @@ namespace Editor
             newObject.GetComponent<Rigidbody>().useGravity=false;
             newObject.transform.position = Vector3.zero;
             newObject.transform.localScale = Vector3.one*6;
+            var child = newObject.transform.GetChild(0);
+            var outlinable = child.gameObject.AddComponent<Outlinable>();
+            outlinable.OutlineParameters.Color=Color.white;
             SetLayerRecursively(newObject, "ShouJiBanZi");
         }
 

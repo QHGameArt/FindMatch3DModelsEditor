@@ -1,0 +1,895 @@
+fileFormatVersion: 2
+guid: 7946eaf817ae94ceea9ba276e998c9cf
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: badge_cop
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: doughnut
+  - first:
+      1: 100006
+    second: head1_head
+  - first:
+      1: 100008
+    second: head1_neck
+  - first:
+      1: 100010
+    second: holster_w_gun
+  - first:
+      1: 100012
+    second: leftArm1_LoResClavical
+  - first:
+      1: 100014
+    second: leftArm1_LoResHand
+  - first:
+      1: 100016
+    second: leftArm1_LoResLowerArm
+  - first:
+      1: 100018
+    second: leftArm1_LoResUpperArm
+  - first:
+      1: 100020
+    second: leftLeg1_LoResFoot
+  - first:
+      1: 100022
+    second: leftLeg1_LoResLowerLeg
+  - first:
+      1: 100024
+    second: leftLeg1_LoResToe
+  - first:
+      1: 100026
+    second: leftLeg1_LoResUpperLeg
+  - first:
+      1: 100028
+    second: male_calf_left_cop
+  - first:
+      1: 100030
+    second: male_calf_right_cop
+  - first:
+      1: 100032
+    second: male_hand_left_cop
+  - first:
+      1: 100034
+    second: male_hand_right_cop
+  - first:
+      1: 100036
+    second: male_hat_cop
+  - first:
+      1: 100038
+    second: male_head_cop
+  - first:
+      1: 100040
+    second: male_hips_cop
+  - first:
+      1: 100042
+    second: male_lowerarm_left_cop
+  - first:
+      1: 100044
+    second: male_lowerarm_right_cop
+  - first:
+      1: 100046
+    second: male_shoe_left_cop
+  - first:
+      1: 100048
+    second: male_shoe_right_cop
+  - first:
+      1: 100050
+    second: male_thigh_left_cop
+  - first:
+      1: 100052
+    second: male_thigh_right_cop
+  - first:
+      1: 100054
+    second: male_torso_cop
+  - first:
+      1: 100056
+    second: male_upperarm_left_cop
+  - first:
+      1: 100058
+    second: male_upperarm_right_cop
+  - first:
+      1: 100060
+    second: rifle
+  - first:
+      1: 100062
+    second: rightArm1_LoResClavical
+  - first:
+      1: 100064
+    second: rightArm1_LoResHand
+  - first:
+      1: 100066
+    second: rightArm1_LoResLowerArm
+  - first:
+      1: 100068
+    second: rightArm1_LoResUpperArm
+  - first:
+      1: 100070
+    second: rightLeg1_LoResFoot
+  - first:
+      1: 100072
+    second: rightLeg1_LoResLowerLeg
+  - first:
+      1: 100074
+    second: rightLeg1_LoResToe
+  - first:
+      1: 100076
+    second: rightLeg1_LoResUpperLeg
+  - first:
+      1: 100078
+    second: spine1_loResSpine1
+  - first:
+      1: 100080
+    second: spine1_loResSpine2
+  - first:
+      1: 100082
+    second: spine1_loResSpine3
+  - first:
+      1: 100084
+    second: TSMGWorldJoint
+  - first:
+      4: 400000
+    second: badge_cop
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: doughnut
+  - first:
+      4: 400006
+    second: head1_head
+  - first:
+      4: 400008
+    second: head1_neck
+  - first:
+      4: 400010
+    second: holster_w_gun
+  - first:
+      4: 400012
+    second: leftArm1_LoResClavical
+  - first:
+      4: 400014
+    second: leftArm1_LoResHand
+  - first:
+      4: 400016
+    second: leftArm1_LoResLowerArm
+  - first:
+      4: 400018
+    second: leftArm1_LoResUpperArm
+  - first:
+      4: 400020
+    second: leftLeg1_LoResFoot
+  - first:
+      4: 400022
+    second: leftLeg1_LoResLowerLeg
+  - first:
+      4: 400024
+    second: leftLeg1_LoResToe
+  - first:
+      4: 400026
+    second: leftLeg1_LoResUpperLeg
+  - first:
+      4: 400028
+    second: male_calf_left_cop
+  - first:
+      4: 400030
+    second: male_calf_right_cop
+  - first:
+      4: 400032
+    second: male_hand_left_cop
+  - first:
+      4: 400034
+    second: male_hand_right_cop
+  - first:
+      4: 400036
+    second: male_hat_cop
+  - first:
+      4: 400038
+    second: male_head_cop
+  - first:
+      4: 400040
+    second: male_hips_cop
+  - first:
+      4: 400042
+    second: male_lowerarm_left_cop
+  - first:
+      4: 400044
+    second: male_lowerarm_right_cop
+  - first:
+      4: 400046
+    second: male_shoe_left_cop
+  - first:
+      4: 400048
+    second: male_shoe_right_cop
+  - first:
+      4: 400050
+    second: male_thigh_left_cop
+  - first:
+      4: 400052
+    second: male_thigh_right_cop
+  - first:
+      4: 400054
+    second: male_torso_cop
+  - first:
+      4: 400056
+    second: male_upperarm_left_cop
+  - first:
+      4: 400058
+    second: male_upperarm_right_cop
+  - first:
+      4: 400060
+    second: rifle
+  - first:
+      4: 400062
+    second: rightArm1_LoResClavical
+  - first:
+      4: 400064
+    second: rightArm1_LoResHand
+  - first:
+      4: 400066
+    second: rightArm1_LoResLowerArm
+  - first:
+      4: 400068
+    second: rightArm1_LoResUpperArm
+  - first:
+      4: 400070
+    second: rightLeg1_LoResFoot
+  - first:
+      4: 400072
+    second: rightLeg1_LoResLowerLeg
+  - first:
+      4: 400074
+    second: rightLeg1_LoResToe
+  - first:
+      4: 400076
+    second: rightLeg1_LoResUpperLeg
+  - first:
+      4: 400078
+    second: spine1_loResSpine1
+  - first:
+      4: 400080
+    second: spine1_loResSpine2
+  - first:
+      4: 400082
+    second: spine1_loResSpine3
+  - first:
+      4: 400084
+    second: TSMGWorldJoint
+  - first:
+      23: 2300000
+    second: badge_cop
+  - first:
+      23: 2300002
+    second: doughnut
+  - first:
+      23: 2300004
+    second: holster_w_gun
+  - first:
+      23: 2300006
+    second: male_calf_left_cop
+  - first:
+      23: 2300008
+    second: male_calf_right_cop
+  - first:
+      23: 2300010
+    second: male_hand_left_cop
+  - first:
+      23: 2300012
+    second: male_hand_right_cop
+  - first:
+      23: 2300014
+    second: male_hat_cop
+  - first:
+      23: 2300016
+    second: male_head_cop
+  - first:
+      23: 2300018
+    second: male_hips_cop
+  - first:
+      23: 2300020
+    second: male_lowerarm_left_cop
+  - first:
+      23: 2300022
+    second: male_lowerarm_right_cop
+  - first:
+      23: 2300024
+    second: male_shoe_left_cop
+  - first:
+      23: 2300026
+    second: male_shoe_right_cop
+  - first:
+      23: 2300028
+    second: male_thigh_left_cop
+  - first:
+      23: 2300030
+    second: male_thigh_right_cop
+  - first:
+      23: 2300032
+    second: male_upperarm_left_cop
+  - first:
+      23: 2300034
+    second: male_upperarm_right_cop
+  - first:
+      23: 2300036
+    second: rifle
+  - first:
+      33: 3300000
+    second: badge_cop
+  - first:
+      33: 3300002
+    second: doughnut
+  - first:
+      33: 3300004
+    second: holster_w_gun
+  - first:
+      33: 3300006
+    second: male_calf_left_cop
+  - first:
+      33: 3300008
+    second: male_calf_right_cop
+  - first:
+      33: 3300010
+    second: male_hand_left_cop
+  - first:
+      33: 3300012
+    second: male_hand_right_cop
+  - first:
+      33: 3300014
+    second: male_hat_cop
+  - first:
+      33: 3300016
+    second: male_head_cop
+  - first:
+      33: 3300018
+    second: male_hips_cop
+  - first:
+      33: 3300020
+    second: male_lowerarm_left_cop
+  - first:
+      33: 3300022
+    second: male_lowerarm_right_cop
+  - first:
+      33: 3300024
+    second: male_shoe_left_cop
+  - first:
+      33: 3300026
+    second: male_shoe_right_cop
+  - first:
+      33: 3300028
+    second: male_thigh_left_cop
+  - first:
+      33: 3300030
+    second: male_thigh_right_cop
+  - first:
+      33: 3300032
+    second: male_upperarm_left_cop
+  - first:
+      33: 3300034
+    second: male_upperarm_right_cop
+  - first:
+      33: 3300036
+    second: rifle
+  - first:
+      43: 4300000
+    second: male_torso_cop
+  - first:
+      43: 4300002
+    second: male_head_cop
+  - first:
+      43: 4300004
+    second: male_hat_cop
+  - first:
+      43: 4300006
+    second: male_hand_left_cop
+  - first:
+      43: 4300008
+    second: male_lowerarm_left_cop
+  - first:
+      43: 4300010
+    second: male_upperarm_left_cop
+  - first:
+      43: 4300012
+    second: male_hand_right_cop
+  - first:
+      43: 4300014
+    second: male_lowerarm_right_cop
+  - first:
+      43: 4300016
+    second: male_upperarm_right_cop
+  - first:
+      43: 4300018
+    second: badge_cop
+  - first:
+      43: 4300020
+    second: male_shoe_left_cop
+  - first:
+      43: 4300022
+    second: male_calf_left_cop
+  - first:
+      43: 4300024
+    second: male_thigh_left_cop
+  - first:
+      43: 4300026
+    second: male_shoe_right_cop
+  - first:
+      43: 4300028
+    second: male_calf_right_cop
+  - first:
+      43: 4300030
+    second: male_thigh_right_cop
+  - first:
+      43: 4300032
+    second: holster_w_gun
+  - first:
+      43: 4300034
+    second: male_hips_cop
+  - first:
+      43: 4300036
+    second: rifle
+  - first:
+      43: 4300038
+    second: doughnut
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: male_torso_cop
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cop_blue_mat
+    second: {fileID: 2100000, guid: dce241fd739534401bcf0bc61dac0c00, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Bone length in configuration
+      does not match position in animation file:\n\t'leftLeg1_LoResUpperLeg' : position
+      error = 14188.475586 mm\n\t'leftLeg1_LoResLowerLeg' : position error = 34082.921875
+      mm\n\t'leftLeg1_LoResFoot' : position error = 29190.794922 mm\n\t'rightLeg1_LoResUpperLeg'
+      : position error = 14188.475586 mm\n\t'rightLeg1_LoResLowerLeg' : position
+      error = 34082.921875 mm\n\t'rightLeg1_LoResFoot' : position error = 29190.794922
+      mm\n"
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: spine1_loResSpine1
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leftLeg1_LoResUpperLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rightLeg1_LoResUpperLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leftLeg1_LoResLowerLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rightLeg1_LoResLowerLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leftLeg1_LoResFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rightLeg1_LoResFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine1_loResSpine2
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine1_loResSpine3
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head1_head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leftArm1_LoResUpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rightArm1_LoResUpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leftArm1_LoResLowerArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rightArm1_LoResLowerArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: leftArm1_LoResHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: rightArm1_LoResHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: cop(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: male_torso_cop
+      parentName: cop(Clone)
+      position: {x: -8.8817837e-17, y: 0.60249597, z: -0.016670998}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rifle
+      parentName: cop(Clone)
+      position: {x: 0.60992116, y: 0.9990587, z: -0.06577596}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: doughnut
+      parentName: cop(Clone)
+      position: {x: -0.60992116, y: 0.9990587, z: -0.06577598}
+      rotation: {x: 4.5846472e-17, y: 0.97424066, z: -4.5846472e-17, w: -0.22551093}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TSMGWorldJoint
+      parentName: cop(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine1_loResSpine1
+      parentName: TSMGWorldJoint
+      position: {x: -8.8817837e-17, y: 0.60249597, z: -0.016670998}
+      rotation: {x: 0.031965647, y: 0.031965647, z: -0.7063839, w: 0.7063839}
+      scale: {x: 1, y: 1, z: 1}
+    - name: male_hips_cop
+      parentName: spine1_loResSpine1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.031965647, y: -0.031965647, z: 0.7063839, w: 0.7063839}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine1_loResSpine2
+      parentName: spine1_loResSpine1
+      position: {x: -0.062403936, y: 1.1653076e-16, z: 8.881784e-18}
+      rotation: {x: 1.4203866e-20, y: -0.04686224, z: -3.2584025e-19, w: 0.99890137}
+      scale: {x: 1, y: 1, z: 1}
+    - name: spine1_loResSpine3
+      parentName: spine1_loResSpine2
+      position: {x: -0.14762163, y: 6.565284e-17, z: 1.2212453e-17}
+      rotation: {x: -7.361841e-19, y: -2.3852448e-18, z: -2.2204339e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: badge_cop
+      parentName: spine1_loResSpine3
+      position: {x: -0.000000036729613, y: 1.13176225e-23, z: 4.1138845e-10}
+      rotation: {x: 0.0011722007, y: 0.0011722007, z: 0.7071058, w: 0.7071058}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head1_neck
+      parentName: spine1_loResSpine3
+      position: {x: -0.24948832, y: 0, z: -0.0068881894}
+      rotation: {x: 2.6170546e-10, y: 0.098948315, z: 0.00000015786858, w: 0.9950926}
+      scale: {x: 1, y: 1, z: 1}
+    - name: head1_head
+      parentName: head1_neck
+      position: {x: -0.09826038, y: 0, z: 0}
+      rotation: {x: -3.6573643e-19, y: -0.090495184, z: -0.00000018965949, w: 0.99589694}
+      scale: {x: 1, y: 1, z: 1}
+    - name: male_head_cop
+      parentName: head1_head
+      position: {x: -0.000000020657867, y: -1.8724921e-15, z: -2.7435576e-10}
+      rotation: {x: -0.0048320475, y: -0.004832048, z: 0.7070903, w: 0.70709026}
+      scale: {x: 1, y: 1, z: 1}
+    - name: male_hat_cop
+      parentName: head1_head
+      position: {x: -0.000000020657867, y: -1.8724921e-15, z: -2.7435576e-10}
+      rotation: {x: -0.0048320475, y: -0.004832048, z: 0.7070903, w: 0.70709026}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leftArm1_LoResClavical
+      parentName: spine1_loResSpine3
+      position: {x: -0.18683025, y: -0.06716192, z: -0.010899166}
+      rotation: {x: 0.09552255, y: -0.09319913, z: 0.70062506, w: 0.70093787}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leftArm1_LoResUpperArm
+      parentName: leftArm1_LoResClavical
+      position: {x: -0.14638269, y: 0, z: 0}
+      rotation: {x: 6.6814182e-18, y: 0.09941625, z: -2.101758e-18, w: 0.99504596}
+      scale: {x: 1, y: 1, z: 1}
+    - name: male_upperarm_left_cop
+      parentName: leftArm1_LoResUpperArm
+      position: {x: 0.000000004180736, y: 0.0000000064019683, z: -0.0000000012279119}
+      rotation: {x: 0, y: 0.034258384, z: -0, w: 0.999413}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leftArm1_LoResLowerArm
+      parentName: leftArm1_LoResUpperArm
+      position: {x: -0.18038833, y: 0, z: 0}
+      rotation: {x: 6.930481e-18, y: 0.053042676, z: -5.9775835e-19, w: 0.99859226}
+      scale: {x: 1, y: 1, z: 1}
+    - name: male_lowerarm_left_cop
+      parentName: leftArm1_LoResLowerArm
+      position: {x: -0.000000004224142, y: 0.0000000064487975, z: -0.0000000010468918}
+      rotation: {x: 0, y: -0.018801382, z: -0, w: 0.9998232}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leftArm1_LoResHand
+      parentName: leftArm1_LoResLowerArm
+      position: {x: -0.221782, y: 0, z: 0}
+      rotation: {x: 6.933925e-18, y: -6.9826783e-13, z: 2.6257616e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: male_hand_left_cop
+      parentName: leftArm1_LoResHand
+      position: {x: -0.000000016445446, y: 0.000000006417187, z: -0.0000000021951696}
+      rotation: {x: 0, y: -0.018801382, z: -0, w: 0.9998232}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rightArm1_LoResClavical
+      parentName: spine1_loResSpine3
+      position: {x: -0.18683025, y: 0.06716192, z: -0.010899166}
+      rotation: {x: 0.70062506, y: 0.70093787, z: -0.09552255, w: 0.09319913}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rightArm1_LoResUpperArm
+      parentName: rightArm1_LoResClavical
+      position: {x: 0.14638269, y: 0, z: 0}
+      rotation: {x: 8.949218e-18, y: 0.09941625, z: -5.480472e-18, w: 0.99504596}
+      scale: {x: 1, y: 1, z: 1}
+    - name: male_upperarm_right_cop
+      parentName: rightArm1_LoResUpperArm
+      position: {x: -0.0000000041807358, y: -0.0000000064019683, z: 0.0000000012279119}
+      rotation: {x: 0.999413, y: -6.4938735e-11, z: -0.034258384, w: -0.0000000018944446}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rightArm1_LoResLowerArm
+      parentName: rightArm1_LoResUpperArm
+      position: {x: 0.18038833, y: 0, z: 0}
+      rotation: {x: 6.062207e-17, y: 0.05304272, z: -1.1624755e-17, w: 0.99859226}
+      scale: {x: 1, y: 1, z: 1}
+    - name: male_lowerarm_right_cop
+      parentName: rightArm1_LoResLowerArm
+      position: {x: 0.000000004224141, y: -0.0000000064487975, z: 0.0000000010468928}
+      rotation: {x: 0.9998232, y: 3.5639183e-11, z: 0.018801427, w: -0.0000000018952222}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rightArm1_LoResHand
+      parentName: rightArm1_LoResLowerArm
+      position: {x: 0.221782, y: 0, z: 0}
+      rotation: {x: 0, y: -0.000000043712088, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: male_hand_right_cop
+      parentName: rightArm1_LoResHand
+      position: {x: 0.000000017162536, y: -0.0000000064171863, z: 0.0000000025239681}
+      rotation: {x: 0.9998232, y: 3.56391e-11, z: 0.018801382, w: -0.0000000018952222}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leftLeg1_LoResUpperLeg
+      parentName: spine1_loResSpine1
+      position: {x: 0.03745634, y: -0.09137464, z: 0.0065138224}
+      rotation: {x: -0.06794838, y: 5.382752e-17, z: 0.99768883, w: 9.464889e-16}
+      scale: {x: 1, y: 1, z: 1}
+    - name: male_thigh_left_cop
+      parentName: leftLeg1_LoResUpperLeg
+      position: {x: -8.7166036e-10, y: -7.105427e-17, z: -2.0167508e-10}
+      rotation: {x: 0.016105874, y: -0.016105874, z: -0.70692337, w: 0.70692337}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leftLeg1_LoResLowerLeg
+      parentName: leftLeg1_LoResUpperLeg
+      position: {x: -0.23773731, y: 0, z: 0}
+      rotation: {x: -2.1619676e-17, y: -0.038693696, z: 2.2817286e-16, w: 0.9992511}
+      scale: {x: 1, y: 1, z: 1}
+    - name: male_calf_left_cop
+      parentName: leftLeg1_LoResLowerLeg
+      position: {x: -0.000000017904137, y: -4.440892e-16, z: 4.3455406e-10}
+      rotation: {x: -0.011259667, y: 0.011259667, z: -0.7070171, w: 0.7070171}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leftLeg1_LoResFoot
+      parentName: leftLeg1_LoResLowerLeg
+      position: {x: -0.20361345, y: 0, z: 0}
+      rotation: {x: -6.512206e-17, y: 0.2904981, z: 1.6480405e-16, w: 0.95687556}
+      scale: {x: 1, y: 1, z: 1}
+    - name: male_shoe_left_cop
+      parentName: leftLeg1_LoResFoot
+      position: {x: -7.6688267e-10, y: -7.638334e-16, z: -7.6408496e-10}
+      rotation: {x: 0.19461304, y: -0.19461304, z: -0.6797983, w: 0.6797983}
+      scale: {x: 1, y: 1, z: 1}
+    - name: leftLeg1_LoResToe
+      parentName: leftLeg1_LoResFoot
+      position: {x: -0.13705994, y: 0, z: 0}
+      rotation: {x: -0.000019608127, y: 0.48518762, z: 0.000010880045, w: 0.8744101}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rightLeg1_LoResUpperLeg
+      parentName: spine1_loResSpine1
+      position: {x: 0.03745634, y: 0.09137464, z: 0.0065138224}
+      rotation: {x: -0.06794838, y: -6.974977e-18, z: 0.99768883, w: 6.033242e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: male_thigh_right_cop
+      parentName: rightLeg1_LoResUpperLeg
+      position: {x: -8.716604e-10, y: -1.0658141e-16, z: -2.0167508e-10}
+      rotation: {x: 0.016105874, y: -0.016105874, z: -0.70692337, w: 0.70692337}
+      scale: {x: 1, y: 1, z: 1}
+    - name: holster_w_gun
+      parentName: rightLeg1_LoResUpperLeg
+      position: {x: -8.716604e-10, y: -1.0658141e-16, z: -2.0167508e-10}
+      rotation: {x: 0.016105874, y: -0.016105874, z: -0.70692337, w: 0.70692337}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rightLeg1_LoResLowerLeg
+      parentName: rightLeg1_LoResUpperLeg
+      position: {x: -0.23773731, y: 0, z: 0}
+      rotation: {x: 2.2345086e-17, y: -0.038693696, z: -3.3399552e-16, w: 0.9992511}
+      scale: {x: 1, y: 1, z: 1}
+    - name: male_calf_right_cop
+      parentName: rightLeg1_LoResLowerLeg
+      position: {x: -0.000000017904137, y: 1.7763567e-16, z: 4.3455406e-10}
+      rotation: {x: -0.011259667, y: 0.011259667, z: -0.7070171, w: 0.7070171}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rightLeg1_LoResFoot
+      parentName: rightLeg1_LoResLowerLeg
+      position: {x: -0.20361345, y: 0, z: 0}
+      rotation: {x: 1.0540656e-16, y: 0.2904981, z: -3.1448936e-16, w: 0.95687556}
+      scale: {x: 1, y: 1, z: 1}
+    - name: male_shoe_right_cop
+      parentName: rightLeg1_LoResFoot
+      position: {x: -7.650427e-10, y: 3.1974422e-16, z: -7.66836e-10}
+      rotation: {x: 0.19461304, y: -0.19461304, z: -0.6797983, w: 0.6797983}
+      scale: {x: 1, y: 1, z: 1}
+    - name: rightLeg1_LoResToe
+      parentName: rightLeg1_LoResFoot
+      position: {x: -0.13705994, y: 0, z: 0}
+      rotation: {x: -0.00001960814, y: 0.48518762, z: 0.000010880052, w: 0.8744101}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

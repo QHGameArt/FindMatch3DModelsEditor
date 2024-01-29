@@ -61,7 +61,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1b004a9f6ce276146bcd29c7312cedd6, type: 3}
       propertyPath: m_LocalScale.x
-      value: 1.6524003
+      value: 1.6524
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1b004a9f6ce276146bcd29c7312cedd6, type: 3}
       propertyPath: m_LocalScale.y
@@ -69,7 +69,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1b004a9f6ce276146bcd29c7312cedd6, type: 3}
       propertyPath: m_LocalScale.z
-      value: 1.6523999
+      value: 1.6524
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1b004a9f6ce276146bcd29c7312cedd6, type: 3}
       propertyPath: m_LocalPosition.x
@@ -101,15 +101,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1b004a9f6ce276146bcd29c7312cedd6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -44.127003
+      value: -23.167002
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1b004a9f6ce276146bcd29c7312cedd6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -227.44699
+      value: -136.73401
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1b004a9f6ce276146bcd29c7312cedd6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 84.194
+      value: -20.319
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: 1b004a9f6ce276146bcd29c7312cedd6, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -132,20 +132,6 @@ Transform:
   m_PrefabInstance: {fileID: 1186689606}
   m_PrefabAsset: {fileID: 0}
 --- !u!64 &1186689609
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 919132148059229975}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 1205314392485180762, guid: 1b004a9f6ce276146bcd29c7312cedd6, type: 3}
---- !u!64 &1857204502
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

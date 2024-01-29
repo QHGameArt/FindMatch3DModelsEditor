@@ -287,7 +287,7 @@ public class GetSelectedPrefab : EditorWindow
                     string MeaPath = AssetDatabase.GetAssetPath(prefab.transform.GetChild(0).GetComponent<MeshRenderer>().sharedMaterial);
                     string TexPath = AssetDatabase.GetAssetPath(prefab.transform.GetChild(0).GetComponent<MeshRenderer>().sharedMaterial.mainTexture);
 
-                   string rootName=  files[j].Replace(GameCommPath.ObjPathPrefab+"/"+Path.GetFileName(files[j]), "");
+                   string rootName=  files[j].Replace( Path.Combine(GameCommPath.ObjPathPrefab,Path.GetFileName(files[j])), "");
                     string newObjectPathFbx=rootName+GameCommPath.ObjPathFbx+"/"+Path.GetFileName(fbxPath);
                     string newObjectPathMeta=rootName+GameCommPath.ObjPathMaterial+"/"+Path.GetFileName(MeaPath);
                     string newObjectPathText=rootName+GameCommPath.ObjPathTextre+"/"+Path.GetFileName(TexPath);
