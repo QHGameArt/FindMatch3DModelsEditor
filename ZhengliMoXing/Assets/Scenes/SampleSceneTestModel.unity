@@ -21766,6 +21766,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5424f1995dc8abb4db5a22607a8b217e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6beb3deca6fb84386b40487e6c3dac1d, type: 2}
     - target: {fileID: 919132149155446097, guid: 5424f1995dc8abb4db5a22607a8b217e, type: 3}
       propertyPath: m_Name
       value: fagun
@@ -84761,6 +84765,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 60.835003
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: c3a3a60454f90e148b1486ac197786e5, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2d556d118eff14d4a8f0870d58b32a02, type: 2}
     - target: {fileID: 919132149155446097, guid: c3a3a60454f90e148b1486ac197786e5, type: 3}
       propertyPath: m_Name
       value: grape_purple (4)
