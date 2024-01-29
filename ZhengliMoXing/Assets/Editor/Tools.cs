@@ -191,12 +191,16 @@ public class GetSelectedPrefab : EditorWindow
             }
             SetPrefabList[i].transform.position = new Vector3(W * 2, 0,H * 2);
             SetPrefabList[i].transform.rotation = quaternion.identity;
-            DestroyImmediate(MovegameObj[i].GetComponent<Rigidbody>()); 
+            if (SetPrefabList[i].GetComponent<Rigidbody>()!=null)
+            {
+                DestroyImmediate(SetPrefabList[i].GetComponent<Rigidbody>()); 
+            }
             
-            var scase = new Vector3(MovegameObj[i].transform.localScale.x, MovegameObj[i].transform.localScale.y,MovegameObj[i].transform.localScale.z);
+            
+            var scase = new Vector3(SetPrefabList[i].transform.localScale.x, SetPrefabList[i].transform.localScale.y,SetPrefabList[i].transform.localScale.z);
             if (scase.x>4)
             {
-                MovegameObj[i].transform.localScale = new Vector3(scase.x/100f, scase.y/100f,scase.z/100f);
+                SetPrefabList[i].transform.localScale = new Vector3(scase.x/100f, scase.y/100f,scase.z/100f);
             }
         }
         

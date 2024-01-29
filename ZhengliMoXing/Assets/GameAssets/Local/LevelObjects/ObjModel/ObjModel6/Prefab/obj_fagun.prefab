@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &7376892801269828172
+--- !u!1 &751403086417973555
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,8 +8,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 7173197525193896289}
-  - component: {fileID: 4739394512177681708}
+  - component: {fileID: 1081443071215215428}
+  - component: {fileID: 4482746235705667023}
   m_Layer: 0
   m_Name: obj_fagun
   m_TagString: LevelObject
@@ -17,28 +17,28 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &7173197525193896289
+--- !u!4 &1081443071215215428
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7376892801269828172}
+  m_GameObject: {fileID: 751403086417973555}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 1344001093274042592}
+  - {fileID: 543450653275904134}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!54 &4739394512177681708
+--- !u!54 &4482746235705667023
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7376892801269828172}
+  m_GameObject: {fileID: 751403086417973555}
   serializedVersion: 2
   m_Mass: 1
   m_Drag: 0
@@ -48,12 +48,12 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!1001 &1525700626446247691
+--- !u!1001 &466337645
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 7173197525193896289}
+    m_TransformParent: {fileID: 1081443071215215428}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 5424f1995dc8abb4db5a22607a8b217e, type: 3}
       propertyPath: m_RootOrder
@@ -99,14 +99,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5424f1995dc8abb4db5a22607a8b217e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6beb3deca6fb84386b40487e6c3dac1d, type: 2}
     - target: {fileID: 919132149155446097, guid: 5424f1995dc8abb4db5a22607a8b217e, type: 3}
       propertyPath: m_Name
       value: fagun
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5424f1995dc8abb4db5a22607a8b217e, type: 3}
---- !u!4 &1344001093274042592 stripped
+--- !u!4 &543450653275904134 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 5424f1995dc8abb4db5a22607a8b217e, type: 3}
-  m_PrefabInstance: {fileID: 1525700626446247691}
+  m_PrefabInstance: {fileID: 466337645}
   m_PrefabAsset: {fileID: 0}
