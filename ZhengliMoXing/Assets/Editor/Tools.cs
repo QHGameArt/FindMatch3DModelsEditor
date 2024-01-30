@@ -312,24 +312,24 @@ public class GetSelectedPrefab : EditorWindow
             }
             string a= paths[i].Replace("SSSSSSS","ObjModel" + e);
             string path="";
+            int c = 0;
             for (int j = 0; j < 200; j++)
             {
                 string b= paths[i].Replace("SSSSSSS","ObjModel" + j);
                 if (paths2.Contains(b))
                 {
+                    c = j;
                     path = b;
                     break;
                 }
             }
-            
-            string folderPathIconY = GameCommPath.ObjPath + i + GameCommPath.ObjPathIcon+"/"+GameCommPath.IconStart+Path.GetFileName(paths[i]).Replace(".prefab",".png");
-            string folderPathIconM = GameCommPath.ObjPath + i + GameCommPath.ObjPathIcon+"/"+GameCommPath.IconStart+Path.GetFileName(path).Replace(".prefab",".png");
-Debug.Log("原"+path);
-Debug.Log("目"+a);
+            string folderPathIconY = GameCommPath.ObjPath + c + GameCommPath.ObjPathIcon+"/"+GameCommPath.IconStart+Path.GetFileName(paths[i]).Replace(".prefab",".png");
+            string folderPathIconM = GameCommPath.ObjPath + e + GameCommPath.ObjPathIcon+"/"+GameCommPath.IconStart+Path.GetFileName(a).Replace(".prefab",".png");
+
             if (!string.IsNullOrEmpty(path))
             {
-                AssetDatabase.MoveAsset(path, a);
-                AssetDatabase.MoveAsset(folderPathIconY, folderPathIconM);
+               AssetDatabase.MoveAsset(path, a);
+               AssetDatabase.MoveAsset(folderPathIconY, folderPathIconM);
             }
             
             
