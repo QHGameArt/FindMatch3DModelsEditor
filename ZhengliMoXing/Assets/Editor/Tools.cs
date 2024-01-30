@@ -321,11 +321,15 @@ public class GetSelectedPrefab : EditorWindow
                     break;
                 }
             }
+            
+            string folderPathIconY = GameCommPath.ObjPath + i + GameCommPath.ObjPathIcon+"/"+GameCommPath.IconStart+Path.GetFileName(paths[i]).Replace(".prefab",".png");
+            string folderPathIconM = GameCommPath.ObjPath + i + GameCommPath.ObjPathIcon+"/"+GameCommPath.IconStart+Path.GetFileName(path).Replace(".prefab",".png");
 Debug.Log("原"+path);
 Debug.Log("目"+a);
             if (!string.IsNullOrEmpty(path))
             {
                 AssetDatabase.MoveAsset(path, a);
+                AssetDatabase.MoveAsset(folderPathIconY, folderPathIconM);
             }
             
             
@@ -376,6 +380,7 @@ Debug.Log("目"+a);
                     string newObjectPathFbx=rootName+GameCommPath.ObjPathFbx+"/"+Path.GetFileName(fbxPath);
                     string newObjectPathMeta=rootName+GameCommPath.ObjPathMaterial+"/"+Path.GetFileName(MeaPath);
                     string newObjectPathText=rootName+GameCommPath.ObjPathTextre+"/"+Path.GetFileName(TexPath);
+                    
                     // 检查文件夹路径是否存在，如果不存在则创建
                     if (!Directory.Exists(rootName+GameCommPath.ObjPathFbx)) { Directory.CreateDirectory(rootName+GameCommPath.ObjPathFbx); }
                     if (!Directory.Exists(rootName+GameCommPath.ObjPathTextre)) { Directory.CreateDirectory(rootName+GameCommPath.ObjPathTextre); }
