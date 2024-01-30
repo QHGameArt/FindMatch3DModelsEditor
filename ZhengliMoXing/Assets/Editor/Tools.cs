@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
+using NUnit.Framework;
 using Unity.Mathematics;
 using UnityEditor;
 using UnityEngine;
@@ -271,8 +272,88 @@ public class GetSelectedPrefab : EditorWindow
     #endregion
     
     #region 把物体整理成预制体放入文件夹
-    
 
+
+    [MenuItem("Custom/整理模型流程/3.5:生成预制体之后获取预制体重新归类")]
+    public static void ArrangeModel()
+    {
+        //便利所有的预制体
+        //按照名字排序
+        //重新分装文件夹
+
+        List<string> paths = new List<string>();
+        List<string> paths2 = new List<string>();
+        for (int i = 1; i < 200; i++)
+        {
+            string folderPath = GameCommPath.ObjPath + i + GameCommPath.ObjPathPrefab;
+            if (Directory.Exists(folderPath))
+            {
+                string[] files =  Directory.GetFiles(folderPath, "*.prefab");
+                for (int j = 0; j < files.Length; j++)
+                {
+                   string a= files[j].Replace("ObjModel" + i, "SSSSSSS");
+                    paths.Add(a);
+                }
+                paths2.AddRange(files);
+            }
+        }
+
+        paths.Sort(new CustomStringComparer());
+
+        int d = 1;
+        int e = 1;
+        for (int i = 0; i < paths.Count; i++)
+        {
+            d++;
+            if (d>=50)
+            {
+                e++;
+                d = 0;
+            }
+            string a= paths[i].Replace("SSSSSSS","ObjModel" + e);
+            string path="";
+            for (int j = 0; j < 200; j++)
+            {
+                string b= paths[i].Replace("SSSSSSS","ObjModel" + j);
+                if (paths2.Contains(b))
+                {
+                    path = b;
+                    break;
+                }
+            }
+Debug.Log("原"+path);
+Debug.Log("目"+a);
+            if (!string.IsNullOrEmpty(path))
+            {
+                AssetDatabase.MoveAsset(path, a);
+            }
+            
+            
+        }
+    }
+    
+    
+    public class CustomStringComparer : IComparer<string>
+    {
+        public int Compare(string x, string y)
+        {
+            
+            int minLength = Mathf.Min(x.Length, y.Length);
+        
+            for (int i = 0; i < minLength; i++)
+            {
+                if (x[i] != y[i])
+                {
+                    return x[i].CompareTo(y[i]); // 比较当前位的ASCII码
+                }
+            }
+            // 自定义比较规则，例如按字符串长度排序
+            return x.Length.CompareTo(y.Length);
+        }
+    }
+
+
+    
     [MenuItem("Custom/整理模型流程/4:生成预制体之后把他们引用的资源归类")]
     public static void SetZiYuan()
     {

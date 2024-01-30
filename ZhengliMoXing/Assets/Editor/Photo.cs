@@ -167,9 +167,9 @@ namespace Editor
                 {
                     // 获取预制体实例的路径
                     string prefabPath = PrefabUtility.GetPrefabAssetPathOfNearestInstanceRoot(obj);
-                    string foldPath = prefabPath.Replace(GameCommPath.ObjPathPrefab + "/" + Path.GetFileName(prefabPath), "") +
+                    string foldPath = prefabPath.Replace( Path.Combine(GameCommPath.ObjPathPrefab , Path.GetFileName(prefabPath)), "") +
                                      GameCommPath.ObjPathIcon;
-                    string rootName=foldPath+"/"+$"{imgName}.png";
+                    string rootName=Path.Combine(foldPath,$"{imgName}.png");
         
                     Debug.Log("预制体实例的文件路径: " + rootName);
 
