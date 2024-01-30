@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &4039460447496041915
+--- !u!1 &1353191389743277448
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,8 +8,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 7504734181112875234}
-  - component: {fileID: 1650368978244724381}
+  - component: {fileID: 8874737183296381070}
+  - component: {fileID: 846255560453839784}
   m_Layer: 0
   m_Name: obj_cherry_red
   m_TagString: LevelObject
@@ -17,13 +17,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &7504734181112875234
+--- !u!4 &8874737183296381070
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4039460447496041915}
+  m_GameObject: {fileID: 1353191389743277448}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -32,13 +32,13 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!54 &1650368978244724381
+--- !u!54 &846255560453839784
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4039460447496041915}
+  m_GameObject: {fileID: 1353191389743277448}
   serializedVersion: 2
   m_Mass: 1
   m_Drag: 0
@@ -53,7 +53,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 7504734181112875234}
+    m_TransformParent: {fileID: 8874737183296381070}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 04ed4e927e7ff12409b75edf23d23933, type: 3}
       propertyPath: m_RootOrder

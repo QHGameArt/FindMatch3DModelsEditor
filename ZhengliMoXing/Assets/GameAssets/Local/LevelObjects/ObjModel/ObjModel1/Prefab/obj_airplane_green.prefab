@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &2797088845918021683
+--- !u!1 &74394795671962817
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,8 +8,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 5679146019547233244}
-  - component: {fileID: 1070102255322104460}
+  - component: {fileID: 1161017506140092909}
+  - component: {fileID: 8960815819972704645}
   m_Layer: 0
   m_Name: obj_airplane_green
   m_TagString: LevelObject
@@ -17,13 +17,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &5679146019547233244
+--- !u!4 &1161017506140092909
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2797088845918021683}
+  m_GameObject: {fileID: 74394795671962817}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -32,13 +32,13 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!54 &1070102255322104460
+--- !u!54 &8960815819972704645
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2797088845918021683}
+  m_GameObject: {fileID: 74394795671962817}
   serializedVersion: 2
   m_Mass: 1
   m_Drag: 0
@@ -53,7 +53,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 5679146019547233244}
+    m_TransformParent: {fileID: 1161017506140092909}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: d4b67a59a3e8c4c428c8c5f7862665e4, type: 3}
       propertyPath: m_RootOrder

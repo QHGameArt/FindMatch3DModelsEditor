@@ -274,7 +274,7 @@ public class GetSelectedPrefab : EditorWindow
     #region 把物体整理成预制体放入文件夹
 
 
-    [MenuItem("Custom/整理模型流程/3.5:生成预制体之后获取预制体重新归类")]
+
     public static void ArrangeModel()
     {
         //便利所有的预制体
@@ -331,8 +331,6 @@ public class GetSelectedPrefab : EditorWindow
                AssetDatabase.MoveAsset(path, a);
                AssetDatabase.MoveAsset(folderPathIconY, folderPathIconM);
             }
-            
-            
         }
     }
     
@@ -361,6 +359,8 @@ public class GetSelectedPrefab : EditorWindow
     [MenuItem("Custom/整理模型流程/4:生成预制体之后把他们引用的资源归类")]
     public static void SetZiYuan()
     {
+        ArrangeModel();
+        
         for (int i = 1; i < 200; i++)
         {
             string folderPath = GameCommPath.ObjPath + i + GameCommPath.ObjPathPrefab;

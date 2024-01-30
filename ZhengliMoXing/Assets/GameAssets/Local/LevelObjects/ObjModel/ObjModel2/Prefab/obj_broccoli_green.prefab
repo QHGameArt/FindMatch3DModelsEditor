@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &3499662767138321917
+--- !u!1 &1918442543368578758
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,8 +8,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 7741920607263885611}
-  - component: {fileID: 2446512662864839888}
+  - component: {fileID: 4834504149322063639}
+  - component: {fileID: 3633487776748920956}
   m_Layer: 0
   m_Name: obj_broccoli_green
   m_TagString: LevelObject
@@ -17,13 +17,13 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &7741920607263885611
+--- !u!4 &4834504149322063639
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3499662767138321917}
+  m_GameObject: {fileID: 1918442543368578758}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -32,13 +32,13 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!54 &2446512662864839888
+--- !u!54 &3633487776748920956
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3499662767138321917}
+  m_GameObject: {fileID: 1918442543368578758}
   serializedVersion: 2
   m_Mass: 1
   m_Drag: 0
@@ -53,7 +53,7 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 7741920607263885611}
+    m_TransformParent: {fileID: 4834504149322063639}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 1f0ad3dec8ff26643b0207434c6c1361, type: 3}
       propertyPath: m_RootOrder
