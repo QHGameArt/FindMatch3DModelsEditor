@@ -40,7 +40,7 @@ namespace Editor
             GC.Collect();
         }
 
-        [MenuItem("Custom/照相/自动选择，选择所有生成的预制体生成到场景中")]
+        [MenuItem("Custom/照相/自动选择，选择所有生成的预制体生成到场景中,modelpath下重名的不生成")]
         public static void CelectAllObj()
         {
             for (int i = 1; i < 200; i++)
@@ -54,6 +54,18 @@ namespace Editor
                     {
                         if (files[j].EndsWith(".Prefab", System.StringComparison.OrdinalIgnoreCase))
                         {
+                            string a = Path.GetFileName(files[j]).Replace(".prefab", "");
+                            bool isHas = false;
+                            for (int k = 0; k <   GameObject.Find(GameCommPath.ScenceModePath).transform.childCount; k++)
+                            {
+                                if (GameObject.Find(GameCommPath.ScenceModePath).transform.GetChild(k).name==a)
+                                {
+                                    isHas = true;
+                                    continue;
+                                }
+                            }
+
+                            if (isHas)continue;
                             GameObject prefab = AssetDatabase.LoadAssetAtPath<GameObject>(files[j]);
                             // 创建预制体实例并添加到场景中
                             GameObject newObject = PrefabUtility.InstantiatePrefab(prefab,

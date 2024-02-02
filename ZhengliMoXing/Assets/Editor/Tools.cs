@@ -422,7 +422,8 @@ public static void CelectObj()
                     //GameObject newObject = Instantiate(selectedObjects[i], GameObject.Find(GameCommPath.ScenceModePath).transform); // 在场景中实例化新的Prefab对象
                     newObject.name = selectedObjects[i].name; // 给新的Prefab对象重命名
                     newObject.AddComponent<Rigidbody>();
-                    newObject.AddComponent<MeshCollider>();
+                    MeshCollider a=newObject.AddComponent<MeshCollider>();
+                    a.convex = true;
                 }
                 else
                 {
@@ -430,11 +431,31 @@ public static void CelectObj()
                 }
 
             }
-
-            
-            
         }
 
+    }
+}
+
+
+
+[MenuItem("Custom/美术流程优化/增加mesh，")]
+public static void CelectObj2()
+{
+    GameObject[] selectedObjects = Selection.gameObjects;
+
+    if (selectedObjects.Length > 0)
+    {
+        for (int i = 0; i < selectedObjects.Length; i++)
+        {
+            MeshCollider a = selectedObjects[i].transform.GetChild(0).GetComponent<MeshCollider>();
+
+            if (a==null)
+            {
+                Debug.Log(selectedObjects[i].name);
+                a = selectedObjects[i].transform.GetChild(0).gameObject.AddComponent<MeshCollider>();
+            }
+            a.convex = true;
+        }
     }
 }
 
