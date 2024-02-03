@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7763605576188394743}
   - component: {fileID: 2381447268244484790}
   m_Layer: 0
-  m_Name: obj_speedboat_Yellow
+  m_Name: obj_speedboat_yellow
   m_TagString: LevelObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24,7 +24,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5981421950053795883}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
