@@ -471,6 +471,37 @@ public static void CelectObj3()
         }
     }
 }
+[MenuItem("Custom/查找相同的图片")]
+public static void CelectObj4()
+{
+    string a = "";
+    Dictionary<string, int> dictionary = new Dictionary<string, int>();
+    for (int i = 1; i < 200; i++)
+    {
+        string folderPath = GameCommPath.ObjPath + i + GameCommPath.ObjPathIcon;
+
+        // 检查文件夹路径是否存在，如果不存在则创建
+        if (Directory.Exists(folderPath))
+        {
+            string[] files =  Directory.GetFiles(folderPath, "*.png");
+            for (int j = 0; j < files.Length; j++)
+            {
+                if (dictionary.ContainsKey(Path.GetFileName(files[j])))
+                {
+                    a += Path.GetFileName(files[j]).Replace(".png","")+"\n";
+         
+                }
+                else
+                {
+                    dictionary.Add(Path.GetFileName(files[j]),0);
+                }
+                
+            }
+        }
+    }
+    
+    Debug.LogError(a);
+}
 #endregion
     
 }
