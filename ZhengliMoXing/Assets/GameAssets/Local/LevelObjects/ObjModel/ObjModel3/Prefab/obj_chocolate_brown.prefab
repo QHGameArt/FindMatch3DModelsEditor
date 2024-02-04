@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 262576956043919080}
   - component: {fileID: 6662589040048164420}
   m_Layer: 0
-  m_Name: obj_chocolate_brownr
+  m_Name: obj_chocolate_brown
   m_TagString: LevelObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

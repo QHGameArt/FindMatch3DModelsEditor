@@ -458,7 +458,19 @@ public static void CelectObj2()
         }
     }
 }
+[MenuItem("Custom/x+90，")]
+public static void CelectObj3()
+{
+    GameObject[] selectedObjects = Selection.gameObjects;
 
+    if (selectedObjects.Length > 0)
+    {
+        for (int i = 0; i < selectedObjects.Length; i++)
+        {
+            selectedObjects[i].transform.GetChild(0).localRotation=selectedObjects[i].transform.localRotation; 
+        }
+    }
+}
 #endregion
     
 }

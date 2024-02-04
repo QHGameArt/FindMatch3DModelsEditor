@@ -131,7 +131,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: cca0c879036870a46bf6287441e8eaed, type: 3}
   m_PrefabInstance: {fileID: 1262247093}
   m_PrefabAsset: {fileID: 0}
---- !u!64 &2102363530
+--- !u!64 &1335227134681280842
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
